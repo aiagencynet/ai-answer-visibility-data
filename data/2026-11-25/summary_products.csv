@@ -1,0 +1,592 @@
+category,product,engine,answers_naming,answers,rate_pct,listed,avg_list_rank,listed_first
+crm-for-small-business,HubSpot,all,95,96,99,93,1.6,63
+crm-for-small-business,HubSpot,openai,47,48,98,47,1.7,33
+crm-for-small-business,HubSpot,anthropic,48,48,100,46,1.6,30
+crm-for-small-business,Zoho CRM,all,86,96,90,85,2.8,11
+crm-for-small-business,Zoho CRM,openai,42,48,88,42,3.1,3
+crm-for-small-business,Zoho CRM,anthropic,44,48,92,43,2.5,8
+crm-for-small-business,Pipedrive,all,73,96,76,72,2.9,9
+crm-for-small-business,Pipedrive,openai,37,48,77,37,3.0,2
+crm-for-small-business,Pipedrive,anthropic,36,48,75,35,2.7,7
+crm-for-small-business,Salesforce,all,64,96,67,61,4.1,9
+crm-for-small-business,Salesforce,openai,34,48,71,34,3.8,5
+crm-for-small-business,Salesforce,anthropic,30,48,62,27,4.5,4
+crm-for-small-business,Freshsales,all,37,96,39,35,4.2,1
+crm-for-small-business,Freshsales,openai,25,48,52,24,4.5,0
+crm-for-small-business,Freshsales,anthropic,12,48,25,11,3.7,1
+crm-for-small-business,Bigin,all,28,96,29,27,3.0,2
+crm-for-small-business,Bigin,openai,16,48,33,16,2.8,0
+crm-for-small-business,Bigin,anthropic,12,48,25,11,3.4,2
+crm-for-small-business,Less Annoying CRM,all,25,96,26,21,3.8,1
+crm-for-small-business,Less Annoying CRM,openai,8,48,17,7,4.1,0
+crm-for-small-business,Less Annoying CRM,anthropic,17,48,35,14,3.6,1
+crm-for-small-business,Copper,all,18,96,19,17,3.9,2
+crm-for-small-business,Copper,openai,10,48,21,9,4.3,0
+crm-for-small-business,Copper,anthropic,8,48,17,8,3.4,2
+crm-for-small-business,Close,all,18,96,19,17,4.4,0
+crm-for-small-business,Close,openai,10,48,21,9,4.7,0
+crm-for-small-business,Close,anthropic,8,48,17,8,4.0,0
+crm-for-small-business,monday CRM,all,16,96,17,12,4.4,0
+crm-for-small-business,monday CRM,openai,4,48,8,3,5.0,0
+crm-for-small-business,monday CRM,anthropic,12,48,25,9,4.2,0
+crm-for-small-business,ActiveCampaign,all,14,96,15,13,4.6,0
+crm-for-small-business,ActiveCampaign,openai,11,48,23,10,5.2,0
+crm-for-small-business,ActiveCampaign,anthropic,3,48,6,3,2.7,0
+crm-for-small-business,Salesflare,all,11,96,11,11,3.6,0
+crm-for-small-business,Salesflare,openai,1,48,2,1,4.0,0
+crm-for-small-business,Salesflare,anthropic,10,48,21,10,3.6,0
+crm-for-small-business,NetHunt CRM,all,11,96,11,10,3.8,1
+crm-for-small-business,NetHunt CRM,openai,0,48,0,0,,0
+crm-for-small-business,NetHunt CRM,anthropic,11,48,23,10,3.8,1
+crm-for-small-business,Capsule CRM,all,9,96,9,9,3.8,1
+crm-for-small-business,Capsule CRM,openai,4,48,8,4,4.5,0
+crm-for-small-business,Capsule CRM,anthropic,5,48,10,5,3.2,1
+crm-for-small-business,Microsoft Dynamics 365,all,9,96,9,8,4.6,0
+crm-for-small-business,Microsoft Dynamics 365,openai,5,48,10,5,4.2,0
+crm-for-small-business,Microsoft Dynamics 365,anthropic,4,48,8,3,5.3,0
+crm-for-small-business,Streak,all,7,96,7,7,2.7,3
+crm-for-small-business,Streak,openai,5,48,10,5,3.2,2
+crm-for-small-business,Streak,anthropic,2,48,4,2,1.5,1
+crm-for-small-business,Bitrix24,all,7,96,7,7,3.1,0
+crm-for-small-business,Bitrix24,openai,3,48,6,3,3.7,0
+crm-for-small-business,Bitrix24,anthropic,4,48,8,4,2.8,0
+crm-for-small-business,Keap,all,6,96,6,6,6.3,0
+crm-for-small-business,Keap,openai,6,48,12,6,6.3,0
+crm-for-small-business,Keap,anthropic,0,48,0,0,,0
+crm-for-small-business,Productive,all,5,96,5,5,2.4,3
+crm-for-small-business,Productive,openai,3,48,6,3,3.3,1
+crm-for-small-business,Productive,anthropic,2,48,4,2,1.0,2
+crm-for-small-business,Zendesk,all,5,96,5,5,3.0,2
+crm-for-small-business,Zendesk,openai,3,48,6,3,3.0,1
+crm-for-small-business,Zendesk,anthropic,2,48,4,2,3.0,1
+crm-for-small-business,HoneyBook,all,5,96,5,5,3.2,3
+crm-for-small-business,HoneyBook,openai,3,48,6,3,4.7,1
+crm-for-small-business,HoneyBook,anthropic,2,48,4,2,1.0,2
+crm-for-small-business,Attio,all,5,96,5,5,4.4,1
+crm-for-small-business,Attio,openai,1,48,2,1,4.0,0
+crm-for-small-business,Attio,anthropic,4,48,8,4,4.5,1
+crm-for-small-business,Follow Up Boss,all,4,96,4,4,1.0,4
+crm-for-small-business,Follow Up Boss,openai,2,48,4,2,1.0,2
+crm-for-small-business,Follow Up Boss,anthropic,2,48,4,2,1.0,2
+crm-for-small-business,Jobber,all,4,96,4,4,1.0,4
+crm-for-small-business,Jobber,openai,2,48,4,2,1.0,2
+crm-for-small-business,Jobber,anthropic,2,48,4,2,1.0,2
+crm-for-small-business,Klaviyo,all,4,96,4,4,1.2,3
+crm-for-small-business,Klaviyo,openai,2,48,4,2,1.5,1
+crm-for-small-business,Klaviyo,anthropic,2,48,4,2,1.0,2
+crm-for-small-business,Housecall Pro,all,4,96,4,4,1.5,2
+crm-for-small-business,Housecall Pro,openai,2,48,4,2,1.5,1
+crm-for-small-business,Housecall Pro,anthropic,2,48,4,2,1.5,1
+crm-for-small-business,Scoro,all,4,96,4,4,2.0,2
+crm-for-small-business,Scoro,openai,2,48,4,2,2.5,1
+crm-for-small-business,Scoro,anthropic,2,48,4,2,1.5,1
+crm-for-small-business,Gorgias,all,4,96,4,4,2.5,1
+crm-for-small-business,Gorgias,openai,2,48,4,2,3.0,0
+crm-for-small-business,Gorgias,anthropic,2,48,4,2,2.0,1
+crm-for-small-business,ServiceTitan,all,4,96,4,4,2.5,1
+crm-for-small-business,ServiceTitan,openai,2,48,4,2,2.0,1
+crm-for-small-business,ServiceTitan,anthropic,2,48,4,2,3.0,0
+crm-for-small-business,Wise Agent,all,4,96,4,4,3.0,0
+crm-for-small-business,Wise Agent,openai,2,48,4,2,4.0,0
+crm-for-small-business,Wise Agent,anthropic,2,48,4,2,2.0,0
+crm-for-small-business,Omnisend,all,4,96,4,4,3.2,1
+crm-for-small-business,Omnisend,openai,2,48,4,2,5.0,0
+crm-for-small-business,Omnisend,anthropic,2,48,4,2,1.5,1
+crm-for-small-business,Nutshell,all,4,96,4,4,3.8,0
+crm-for-small-business,Nutshell,openai,0,48,0,0,,0
+crm-for-small-business,Nutshell,anthropic,4,48,8,4,3.8,0
+crm-for-small-business,EngageBay,all,4,96,4,4,5.2,0
+crm-for-small-business,EngageBay,openai,1,48,2,1,5.0,0
+crm-for-small-business,EngageBay,anthropic,3,48,6,3,5.3,0
+crm-for-small-business,Accelo,all,3,96,3,3,2.7,1
+crm-for-small-business,Accelo,openai,2,48,4,2,3.0,1
+crm-for-small-business,Accelo,anthropic,1,48,2,1,2.0,0
+crm-for-small-business,LionDesk,all,3,96,3,2,3.0,0
+crm-for-small-business,LionDesk,openai,1,48,2,0,,0
+crm-for-small-business,LionDesk,anthropic,2,48,4,2,3.0,0
+crm-for-small-business,BigTime,all,2,96,2,2,2.5,0
+crm-for-small-business,BigTime,openai,0,48,0,0,,0
+crm-for-small-business,BigTime,anthropic,2,48,4,2,2.5,0
+crm-for-small-business,Bonsai,all,2,96,2,2,2.5,0
+crm-for-small-business,Bonsai,openai,0,48,0,0,,0
+crm-for-small-business,Bonsai,anthropic,2,48,4,2,2.5,0
+crm-for-small-business,Folk,all,2,96,2,2,2.5,0
+crm-for-small-business,Folk,openai,0,48,0,0,,0
+crm-for-small-business,Folk,anthropic,2,48,4,2,2.5,0
+crm-for-small-business,Vtiger,all,2,96,2,2,4.5,0
+crm-for-small-business,Vtiger,openai,0,48,0,0,,0
+crm-for-small-business,Vtiger,anthropic,2,48,4,2,4.5,0
+crm-for-small-business,Odoo,all,2,96,2,1,8.0,0
+crm-for-small-business,Odoo,openai,0,48,0,0,,0
+crm-for-small-business,Odoo,anthropic,2,48,4,1,8.0,0
+crm-for-small-business,Insightly,all,1,96,1,1,2.0,0
+crm-for-small-business,Insightly,openai,0,48,0,0,,0
+crm-for-small-business,Insightly,anthropic,1,48,2,1,2.0,0
+crm-for-small-business,Agile CRM,all,1,96,1,1,4.0,0
+crm-for-small-business,Agile CRM,openai,1,48,2,1,4.0,0
+crm-for-small-business,Agile CRM,anthropic,0,48,0,0,,0
+crm-for-small-business,Kantata,all,1,96,1,1,5.0,0
+crm-for-small-business,Kantata,openai,1,48,2,1,5.0,0
+crm-for-small-business,Kantata,anthropic,0,48,0,0,,0
+project-management-software,ClickUp,all,89,96,93,83,2.2,37
+project-management-software,ClickUp,openai,44,48,92,42,2.2,23
+project-management-software,ClickUp,anthropic,45,48,94,41,2.3,14
+project-management-software,Asana,all,75,96,78,70,2.7,11
+project-management-software,Asana,openai,37,48,77,35,2.9,4
+project-management-software,Asana,anthropic,38,48,79,35,2.5,7
+project-management-software,monday.com,all,71,96,74,66,2.6,19
+project-management-software,monday.com,openai,31,48,65,29,3.0,5
+project-management-software,monday.com,anthropic,40,48,83,37,2.2,14
+project-management-software,Jira,all,63,96,66,57,3.1,16
+project-management-software,Jira,openai,33,48,69,31,3.3,5
+project-management-software,Jira,anthropic,30,48,62,26,2.9,11
+project-management-software,Trello,all,54,96,56,51,2.6,19
+project-management-software,Trello,openai,27,48,56,26,2.7,9
+project-management-software,Trello,anthropic,27,48,56,25,2.6,10
+project-management-software,Wrike,all,40,96,42,37,4.1,7
+project-management-software,Wrike,openai,15,48,31,13,5.2,1
+project-management-software,Wrike,anthropic,25,48,52,24,3.4,6
+project-management-software,Smartsheet,all,37,96,39,36,3.7,4
+project-management-software,Smartsheet,openai,18,48,38,18,4.3,1
+project-management-software,Smartsheet,anthropic,19,48,40,18,3.1,3
+project-management-software,Notion,all,30,96,31,25,4.4,3
+project-management-software,Notion,openai,17,48,35,16,5.0,1
+project-management-software,Notion,anthropic,13,48,27,9,3.2,2
+project-management-software,Basecamp,all,29,96,30,26,4.0,6
+project-management-software,Basecamp,openai,14,48,29,14,4.5,3
+project-management-software,Basecamp,anthropic,15,48,31,12,3.3,3
+project-management-software,Teamwork.com,all,27,96,28,25,3.6,7
+project-management-software,Teamwork.com,openai,13,48,27,12,4.5,4
+project-management-software,Teamwork.com,anthropic,14,48,29,13,2.8,3
+project-management-software,Microsoft Project,all,26,96,27,24,4.1,3
+project-management-software,Microsoft Project,openai,16,48,33,14,4.6,2
+project-management-software,Microsoft Project,anthropic,10,48,21,10,3.5,1
+project-management-software,Zoho Projects,all,18,96,19,18,3.8,4
+project-management-software,Zoho Projects,openai,4,48,8,4,3.8,0
+project-management-software,Zoho Projects,anthropic,14,48,29,14,3.9,4
+project-management-software,Productive,all,14,96,15,13,2.8,3
+project-management-software,Productive,openai,3,48,6,3,2.3,0
+project-management-software,Productive,anthropic,11,48,23,10,2.9,3
+project-management-software,Linear,all,12,96,12,12,2.2,3
+project-management-software,Linear,openai,5,48,10,5,2.6,1
+project-management-software,Linear,anthropic,7,48,15,7,2.0,2
+project-management-software,Airtable,all,12,96,12,9,5.1,0
+project-management-software,Airtable,openai,10,48,21,8,5.4,0
+project-management-software,Airtable,anthropic,2,48,4,1,3.0,0
+project-management-software,GitLab,all,7,96,7,7,3.9,0
+project-management-software,GitLab,openai,5,48,10,5,3.8,0
+project-management-software,GitLab,anthropic,2,48,4,2,4.0,0
+project-management-software,Adobe Workfront,all,7,96,7,4,5.0,0
+project-management-software,Adobe Workfront,openai,7,48,15,4,5.0,0
+project-management-software,Adobe Workfront,anthropic,0,48,0,0,,0
+project-management-software,Freedcamp,all,6,96,6,5,2.8,2
+project-management-software,Freedcamp,openai,1,48,2,1,1.0,1
+project-management-software,Freedcamp,anthropic,5,48,10,4,3.2,1
+project-management-software,Paymo,all,6,96,6,6,2.8,1
+project-management-software,Paymo,openai,0,48,0,0,,0
+project-management-software,Paymo,anthropic,6,48,12,6,2.8,1
+project-management-software,Clockify,all,6,96,6,6,3.3,0
+project-management-software,Clockify,openai,2,48,4,2,4.5,0
+project-management-software,Clockify,anthropic,4,48,8,4,2.8,0
+project-management-software,TeamGantt,all,5,96,5,4,1.8,2
+project-management-software,TeamGantt,openai,3,48,6,2,2.0,1
+project-management-software,TeamGantt,anthropic,2,48,4,2,1.5,1
+project-management-software,Scoro,all,5,96,5,4,4.0,0
+project-management-software,Scoro,openai,3,48,6,3,4.3,0
+project-management-software,Scoro,anthropic,2,48,4,1,3.0,0
+project-management-software,Procore,all,4,96,4,2,1.0,2
+project-management-software,Procore,openai,2,48,4,2,1.0,2
+project-management-software,Procore,anthropic,2,48,4,0,,0
+project-management-software,Planview,all,4,96,4,4,2.5,1
+project-management-software,Planview,openai,2,48,4,2,2.0,1
+project-management-software,Planview,anthropic,2,48,4,2,3.0,0
+project-management-software,GanttPRO,all,4,96,4,4,2.8,2
+project-management-software,GanttPRO,openai,2,48,4,2,4.5,0
+project-management-software,GanttPRO,anthropic,2,48,4,2,1.0,2
+project-management-software,GitHub Projects,all,4,96,4,4,2.8,0
+project-management-software,GitHub Projects,openai,2,48,4,2,2.5,0
+project-management-software,GitHub Projects,anthropic,2,48,4,2,3.0,0
+project-management-software,Buildertrend,all,4,96,4,2,3.0,0
+project-management-software,Buildertrend,openai,2,48,4,2,3.0,0
+project-management-software,Buildertrend,anthropic,2,48,4,0,,0
+project-management-software,Float,all,4,96,4,3,3.0,2
+project-management-software,Float,openai,2,48,4,1,7.0,0
+project-management-software,Float,anthropic,2,48,4,2,1.0,2
+project-management-software,Harvest,all,4,96,4,4,3.0,1
+project-management-software,Harvest,openai,2,48,4,2,3.5,0
+project-management-software,Harvest,anthropic,2,48,4,2,2.5,1
+project-management-software,Azure DevOps,all,4,96,4,4,4.5,0
+project-management-software,Azure DevOps,openai,1,48,2,1,6.0,0
+project-management-software,Azure DevOps,anthropic,3,48,6,3,4.0,0
+project-management-software,Todoist,all,4,96,4,4,4.5,0
+project-management-software,Todoist,openai,0,48,0,0,,0
+project-management-software,Todoist,anthropic,4,48,8,4,4.5,0
+project-management-software,ProjectLibre,all,4,96,4,4,6.2,0
+project-management-software,ProjectLibre,openai,2,48,4,2,6.5,0
+project-management-software,ProjectLibre,anthropic,2,48,4,2,6.0,0
+project-management-software,BigTime,all,3,96,3,3,2.0,0
+project-management-software,BigTime,openai,0,48,0,0,,0
+project-management-software,BigTime,anthropic,3,48,6,3,2.0,0
+project-management-software,Toggl,all,3,96,3,3,3.7,0
+project-management-software,Toggl,openai,1,48,2,1,4.0,0
+project-management-software,Toggl,anthropic,2,48,4,2,3.5,0
+project-management-software,ProofHub,all,2,96,2,1,1.0,1
+project-management-software,ProofHub,openai,0,48,0,0,,0
+project-management-software,ProofHub,anthropic,2,48,4,1,1.0,1
+project-management-software,Bonsai,all,2,96,2,2,1.5,1
+project-management-software,Bonsai,openai,0,48,0,0,,0
+project-management-software,Bonsai,anthropic,2,48,4,2,1.5,1
+project-management-software,Runn,all,2,96,2,2,2.0,0
+project-management-software,Runn,openai,0,48,0,0,,0
+project-management-software,Runn,anthropic,2,48,4,2,2.0,0
+project-management-software,Hive,all,2,96,2,2,3.0,0
+project-management-software,Hive,openai,0,48,0,0,,0
+project-management-software,Hive,anthropic,2,48,4,2,3.0,0
+project-management-software,Deltek WorkBook,all,1,96,1,1,3.0,0
+project-management-software,Deltek WorkBook,openai,1,48,2,1,3.0,0
+project-management-software,Deltek WorkBook,anthropic,0,48,0,0,,0
+project-management-software,Meistertask,all,1,96,1,1,6.0,0
+project-management-software,Meistertask,openai,1,48,2,1,6.0,0
+project-management-software,Meistertask,anthropic,0,48,0,0,,0
+email-marketing-software,Brevo,all,79,95,83,75,3.1,15
+email-marketing-software,Brevo,openai,37,47,79,37,3.6,4
+email-marketing-software,Brevo,anthropic,42,48,88,38,2.7,11
+email-marketing-software,MailerLite,all,73,95,77,69,2.8,28
+email-marketing-software,MailerLite,openai,35,47,74,35,3.1,12
+email-marketing-software,MailerLite,anthropic,38,48,79,34,2.5,16
+email-marketing-software,Mailchimp,all,71,95,75,65,3.6,11
+email-marketing-software,Mailchimp,openai,33,47,70,32,3.8,3
+email-marketing-software,Mailchimp,anthropic,38,48,79,33,3.4,8
+email-marketing-software,ActiveCampaign,all,70,95,74,65,2.7,19
+email-marketing-software,ActiveCampaign,openai,39,47,83,39,2.7,11
+email-marketing-software,ActiveCampaign,anthropic,31,48,65,26,2.7,8
+email-marketing-software,Klaviyo,all,56,95,59,56,2.6,16
+email-marketing-software,Klaviyo,openai,34,47,72,34,2.8,9
+email-marketing-software,Klaviyo,anthropic,22,48,46,22,2.4,7
+email-marketing-software,HubSpot,all,47,95,49,45,3.7,8
+email-marketing-software,HubSpot,openai,24,47,51,24,3.6,5
+email-marketing-software,HubSpot,anthropic,23,48,48,21,3.7,3
+email-marketing-software,Omnisend,all,42,95,44,42,3.4,7
+email-marketing-software,Omnisend,openai,15,47,32,15,3.8,3
+email-marketing-software,Omnisend,anthropic,27,48,56,27,3.2,4
+email-marketing-software,Kit,all,37,95,39,34,3.6,8
+email-marketing-software,Kit,openai,15,47,32,15,4.2,3
+email-marketing-software,Kit,anthropic,22,48,46,19,3.1,5
+email-marketing-software,Constant Contact,all,23,95,24,22,3.5,5
+email-marketing-software,Constant Contact,openai,10,47,21,10,3.5,3
+email-marketing-software,Constant Contact,anthropic,13,48,27,12,3.4,2
+email-marketing-software,beehiiv,all,17,95,18,17,3.2,2
+email-marketing-software,beehiiv,openai,8,47,17,8,3.2,2
+email-marketing-software,beehiiv,anthropic,9,48,19,9,3.1,0
+email-marketing-software,Sender,all,14,95,15,14,2.7,5
+email-marketing-software,Sender,openai,3,47,6,3,2.0,0
+email-marketing-software,Sender,anthropic,11,48,23,11,2.9,5
+email-marketing-software,GetResponse,all,12,95,13,8,3.2,0
+email-marketing-software,GetResponse,openai,5,47,11,4,3.8,0
+email-marketing-software,GetResponse,anthropic,7,48,15,4,2.8,0
+email-marketing-software,Postmark,all,11,95,12,10,3.8,4
+email-marketing-software,Postmark,openai,7,47,15,7,3.9,3
+email-marketing-software,Postmark,anthropic,4,48,8,3,3.7,1
+email-marketing-software,Flodesk,all,10,95,11,10,3.7,1
+email-marketing-software,Flodesk,openai,4,47,9,4,3.8,0
+email-marketing-software,Flodesk,anthropic,6,48,12,6,3.7,1
+email-marketing-software,Moosend,all,9,95,9,8,2.4,1
+email-marketing-software,Moosend,openai,2,47,4,2,2.0,0
+email-marketing-software,Moosend,anthropic,7,48,15,6,2.5,1
+email-marketing-software,AWeber,all,9,95,9,9,4.0,1
+email-marketing-software,AWeber,openai,2,47,4,2,6.0,0
+email-marketing-software,AWeber,anthropic,7,48,15,7,3.4,1
+email-marketing-software,Mailercloud,all,8,95,8,8,2.1,2
+email-marketing-software,Mailercloud,openai,1,47,2,1,2.0,0
+email-marketing-software,Mailercloud,anthropic,7,48,15,7,2.1,2
+email-marketing-software,Customer.io,all,8,95,8,7,2.4,4
+email-marketing-software,Customer.io,openai,3,47,6,3,2.3,2
+email-marketing-software,Customer.io,anthropic,5,48,10,4,2.5,2
+email-marketing-software,SendGrid,all,8,95,8,8,3.8,3
+email-marketing-software,SendGrid,openai,7,47,15,7,4.1,2
+email-marketing-software,SendGrid,anthropic,1,48,2,1,1.0,1
+email-marketing-software,EmailOctopus,all,7,95,7,7,2.6,1
+email-marketing-software,EmailOctopus,openai,1,47,2,1,2.0,0
+email-marketing-software,EmailOctopus,anthropic,6,48,12,6,2.7,1
+email-marketing-software,Campaign Monitor,all,7,95,7,7,3.7,1
+email-marketing-software,Campaign Monitor,openai,4,47,9,4,3.2,1
+email-marketing-software,Campaign Monitor,anthropic,3,48,6,3,4.3,0
+email-marketing-software,Salesforce Marketing Cloud,all,6,95,6,6,3.2,0
+email-marketing-software,Salesforce Marketing Cloud,openai,2,47,4,2,2.5,0
+email-marketing-software,Salesforce Marketing Cloud,anthropic,4,48,8,4,3.5,0
+email-marketing-software,Drip,all,5,95,5,5,4.2,0
+email-marketing-software,Drip,openai,1,47,2,1,5.0,0
+email-marketing-software,Drip,anthropic,4,48,8,4,4.0,0
+email-marketing-software,Substack,all,5,95,5,5,4.2,0
+email-marketing-software,Substack,openai,2,47,4,2,4.0,0
+email-marketing-software,Substack,anthropic,3,48,6,3,4.3,0
+email-marketing-software,Adobe Marketo Engage,all,4,95,4,4,2.0,1
+email-marketing-software,Adobe Marketo Engage,openai,2,47,4,2,2.0,0
+email-marketing-software,Adobe Marketo Engage,anthropic,2,48,4,2,2.0,1
+email-marketing-software,Loops,all,4,95,4,3,2.7,0
+email-marketing-software,Loops,openai,0,47,0,0,,0
+email-marketing-software,Loops,anthropic,4,48,8,3,2.7,0
+email-marketing-software,Attentive,all,4,95,4,3,5.7,0
+email-marketing-software,Attentive,openai,2,47,4,1,6.0,0
+email-marketing-software,Attentive,anthropic,2,48,4,2,5.5,0
+email-marketing-software,Systeme.io,all,3,95,3,3,4.3,0
+email-marketing-software,Systeme.io,openai,0,47,0,0,,0
+email-marketing-software,Systeme.io,anthropic,3,48,6,3,4.3,0
+email-marketing-software,Zoho Campaigns,all,3,95,3,2,4.5,0
+email-marketing-software,Zoho Campaigns,openai,0,47,0,0,,0
+email-marketing-software,Zoho Campaigns,anthropic,3,48,6,2,4.5,0
+email-marketing-software,SendFox,all,2,95,2,2,1.0,2
+email-marketing-software,SendFox,openai,0,47,0,0,,0
+email-marketing-software,SendFox,anthropic,2,48,4,2,1.0,2
+email-marketing-software,Encharge,all,2,95,2,1,2.0,0
+email-marketing-software,Encharge,openai,0,47,0,0,,0
+email-marketing-software,Encharge,anthropic,2,48,4,1,2.0,0
+email-marketing-software,Campaigner,all,2,95,2,2,5.0,0
+email-marketing-software,Campaigner,openai,0,47,0,0,,0
+email-marketing-software,Campaigner,anthropic,2,48,4,2,5.0,0
+email-marketing-software,Postscript,all,2,95,2,1,6.0,0
+email-marketing-software,Postscript,openai,2,47,4,1,6.0,0
+email-marketing-software,Postscript,anthropic,0,48,0,0,,0
+email-marketing-software,Mailjet,all,1,95,1,1,3.0,0
+email-marketing-software,Mailjet,openai,0,47,0,0,,0
+email-marketing-software,Mailjet,anthropic,1,48,2,1,3.0,0
+email-marketing-software,Benchmark Email,all,1,95,1,1,7.0,0
+email-marketing-software,Benchmark Email,openai,0,47,0,0,,0
+email-marketing-software,Benchmark Email,anthropic,1,48,2,1,7.0,0
+help-desk-software,Freshdesk,all,90,96,94,85,2.8,13
+help-desk-software,Freshdesk,openai,46,48,96,46,2.7,9
+help-desk-software,Freshdesk,anthropic,44,48,92,39,3.0,4
+help-desk-software,Zendesk,all,82,96,85,76,2.4,27
+help-desk-software,Zendesk,openai,43,48,90,42,2.4,14
+help-desk-software,Zendesk,anthropic,39,48,81,34,2.4,13
+help-desk-software,Help Scout,all,82,96,85,79,2.8,25
+help-desk-software,Help Scout,openai,40,48,83,40,3.2,12
+help-desk-software,Help Scout,anthropic,42,48,88,39,2.3,13
+help-desk-software,Zoho Desk,all,71,96,74,68,3.0,22
+help-desk-software,Zoho Desk,openai,28,48,58,28,3.7,4
+help-desk-software,Zoho Desk,anthropic,43,48,90,40,2.6,18
+help-desk-software,Intercom,all,50,96,52,45,3.0,13
+help-desk-software,Intercom,openai,29,48,60,29,3.4,6
+help-desk-software,Intercom,anthropic,21,48,44,16,2.2,7
+help-desk-software,HubSpot,all,44,96,46,39,4.2,3
+help-desk-software,HubSpot,openai,20,48,42,20,3.9,2
+help-desk-software,HubSpot,anthropic,24,48,50,19,4.6,1
+help-desk-software,Gorgias,all,35,96,36,32,3.8,7
+help-desk-software,Gorgias,openai,19,48,40,19,4.2,3
+help-desk-software,Gorgias,anthropic,16,48,33,13,3.3,4
+help-desk-software,Jira Service Management,all,29,96,30,28,3.7,3
+help-desk-software,Jira Service Management,openai,20,48,42,19,3.9,1
+help-desk-software,Jira Service Management,anthropic,9,48,19,9,3.1,2
+help-desk-software,Salesforce Service Cloud,all,25,96,26,22,3.2,3
+help-desk-software,Salesforce Service Cloud,openai,17,48,35,15,3.1,2
+help-desk-software,Salesforce Service Cloud,anthropic,8,48,17,7,3.4,1
+help-desk-software,Front,all,24,96,25,22,3.6,5
+help-desk-software,Front,openai,12,48,25,12,4.1,2
+help-desk-software,Front,anthropic,12,48,25,10,3.0,3
+help-desk-software,Hiver,all,19,96,20,17,3.5,2
+help-desk-software,Hiver,openai,4,48,8,4,4.5,0
+help-desk-software,Hiver,anthropic,15,48,31,13,3.2,2
+help-desk-software,Freshservice,all,15,96,16,14,2.4,6
+help-desk-software,Freshservice,openai,4,48,8,4,3.2,1
+help-desk-software,Freshservice,anthropic,11,48,23,10,2.1,5
+help-desk-software,Spiceworks,all,15,96,16,14,4.4,0
+help-desk-software,Spiceworks,openai,3,48,6,3,6.3,0
+help-desk-software,Spiceworks,anthropic,12,48,25,11,3.9,0
+help-desk-software,ServiceNow,all,14,96,15,13,3.6,2
+help-desk-software,ServiceNow,openai,12,48,25,11,3.7,1
+help-desk-software,ServiceNow,anthropic,2,48,4,2,3.0,1
+help-desk-software,Tidio,all,12,96,12,10,3.8,1
+help-desk-software,Tidio,openai,4,48,8,4,4.2,1
+help-desk-software,Tidio,anthropic,8,48,17,6,3.5,0
+help-desk-software,osTicket,all,11,96,11,9,4.7,1
+help-desk-software,osTicket,openai,7,48,15,7,4.9,1
+help-desk-software,osTicket,anthropic,4,48,8,2,4.0,0
+help-desk-software,Zammad,all,8,96,8,8,4.1,2
+help-desk-software,Zammad,openai,6,48,12,6,4.2,2
+help-desk-software,Zammad,anthropic,2,48,4,2,4.0,0
+help-desk-software,LiveAgent,all,8,96,8,7,4.3,0
+help-desk-software,LiveAgent,openai,4,48,8,4,4.0,0
+help-desk-software,LiveAgent,anthropic,4,48,8,3,4.7,0
+help-desk-software,ManageEngine ServiceDesk Plus,all,7,96,7,7,3.0,1
+help-desk-software,ManageEngine ServiceDesk Plus,openai,3,48,6,3,4.3,0
+help-desk-software,ManageEngine ServiceDesk Plus,anthropic,4,48,8,4,2.0,1
+help-desk-software,Plain,all,7,96,7,6,3.8,1
+help-desk-software,Plain,openai,1,48,2,1,4.0,0
+help-desk-software,Plain,anthropic,6,48,12,5,3.8,1
+help-desk-software,eDesk,all,6,96,6,5,3.2,0
+help-desk-software,eDesk,openai,2,48,4,2,3.0,0
+help-desk-software,eDesk,anthropic,4,48,8,3,3.3,0
+help-desk-software,Missive,all,6,96,6,6,4.5,1
+help-desk-software,Missive,openai,3,48,6,3,6.3,0
+help-desk-software,Missive,anthropic,3,48,6,3,2.7,1
+help-desk-software,Groove,all,4,96,4,4,3.0,2
+help-desk-software,Groove,openai,4,48,8,4,3.0,2
+help-desk-software,Groove,anthropic,0,48,0,0,,0
+help-desk-software,Pylon,all,4,96,4,4,4.0,1
+help-desk-software,Pylon,openai,0,48,0,0,,0
+help-desk-software,Pylon,anthropic,4,48,8,4,4.0,1
+help-desk-software,Atera,all,4,96,4,4,5.0,0
+help-desk-software,Atera,openai,1,48,2,1,5.0,0
+help-desk-software,Atera,anthropic,3,48,6,3,5.0,0
+help-desk-software,Document360,all,3,96,3,2,1.0,2
+help-desk-software,Document360,openai,1,48,2,0,,0
+help-desk-software,Document360,anthropic,2,48,4,2,1.0,2
+help-desk-software,Helpjuice,all,3,96,3,2,2.0,0
+help-desk-software,Helpjuice,openai,1,48,2,0,,0
+help-desk-software,Helpjuice,anthropic,2,48,4,2,2.0,0
+help-desk-software,ClearFeed,all,3,96,3,3,2.7,2
+help-desk-software,ClearFeed,openai,1,48,2,1,6.0,0
+help-desk-software,ClearFeed,anthropic,2,48,4,2,1.0,2
+help-desk-software,SolarWinds Service Desk,all,3,96,3,3,4.3,0
+help-desk-software,SolarWinds Service Desk,openai,1,48,2,1,6.0,0
+help-desk-software,SolarWinds Service Desk,anthropic,2,48,4,2,3.5,0
+help-desk-software,Thena,all,3,96,3,3,4.3,0
+help-desk-software,Thena,openai,1,48,2,1,6.0,0
+help-desk-software,Thena,anthropic,2,48,4,2,3.5,0
+help-desk-software,Re:amaze,all,3,96,3,3,5.0,0
+help-desk-software,Re:amaze,openai,1,48,2,1,5.0,0
+help-desk-software,Re:amaze,anthropic,2,48,4,2,5.0,0
+help-desk-software,HESK,all,2,96,2,2,1.5,1
+help-desk-software,HESK,openai,0,48,0,0,,0
+help-desk-software,HESK,anthropic,2,48,4,2,1.5,1
+help-desk-software,Crisp,all,2,96,2,1,2.0,0
+help-desk-software,Crisp,openai,0,48,0,0,,0
+help-desk-software,Crisp,anthropic,2,48,4,1,2.0,0
+help-desk-software,HappyFox,all,2,96,2,2,2.5,1
+help-desk-software,HappyFox,openai,0,48,0,0,,0
+help-desk-software,HappyFox,anthropic,2,48,4,2,2.5,1
+help-desk-software,Suptask,all,2,96,2,2,2.5,0
+help-desk-software,Suptask,openai,0,48,0,0,,0
+help-desk-software,Suptask,anthropic,2,48,4,2,2.5,0
+help-desk-software,Unthread,all,2,96,2,2,2.5,0
+help-desk-software,Unthread,openai,0,48,0,0,,0
+help-desk-software,Unthread,anthropic,2,48,4,2,2.5,0
+help-desk-software,Motadata ServiceOps,all,2,96,2,2,4.5,0
+help-desk-software,Motadata ServiceOps,openai,0,48,0,0,,0
+help-desk-software,Motadata ServiceOps,anthropic,2,48,4,2,4.5,0
+help-desk-software,Helpshift,all,2,96,2,2,7.0,0
+help-desk-software,Helpshift,openai,0,48,0,0,,0
+help-desk-software,Helpshift,anthropic,2,48,4,2,7.0,0
+help-desk-software,Halo ITSM,all,1,96,1,1,1.0,1
+help-desk-software,Halo ITSM,openai,0,48,0,0,,0
+help-desk-software,Halo ITSM,anthropic,1,48,2,1,1.0,1
+help-desk-software,Kayako,all,1,96,1,1,2.0,0
+help-desk-software,Kayako,openai,1,48,2,1,2.0,0
+help-desk-software,Kayako,anthropic,0,48,0,0,,0
+help-desk-software,SysAid,all,1,96,1,1,3.0,0
+help-desk-software,SysAid,openai,0,48,0,0,,0
+help-desk-software,SysAid,anthropic,1,48,2,1,3.0,0
+help-desk-software,Richpanel,all,1,96,1,1,5.0,0
+help-desk-software,Richpanel,openai,1,48,2,1,5.0,0
+help-desk-software,Richpanel,anthropic,0,48,0,0,,0
+help-desk-software,Gladly,all,1,96,1,1,8.0,0
+help-desk-software,Gladly,openai,0,48,0,0,,0
+help-desk-software,Gladly,anthropic,1,48,2,1,8.0,0
+help-desk-software,Kustomer,all,1,96,1,1,8.0,0
+help-desk-software,Kustomer,openai,0,48,0,0,,0
+help-desk-software,Kustomer,anthropic,1,48,2,1,8.0,0
+accounting-software-for-small-business,QuickBooks,all,95,96,99,90,1.6,61
+accounting-software-for-small-business,QuickBooks,openai,47,48,98,47,1.6,34
+accounting-software-for-small-business,QuickBooks,anthropic,48,48,100,43,1.6,27
+accounting-software-for-small-business,Xero,all,90,96,94,88,2.4,9
+accounting-software-for-small-business,Xero,openai,46,48,96,46,2.5,2
+accounting-software-for-small-business,Xero,anthropic,44,48,92,42,2.2,7
+accounting-software-for-small-business,Wave,all,88,96,92,86,3.3,14
+accounting-software-for-small-business,Wave,openai,42,48,88,42,3.7,3
+accounting-software-for-small-business,Wave,anthropic,46,48,96,44,2.9,11
+accounting-software-for-small-business,Zoho Books,all,78,96,81,77,3.7,5
+accounting-software-for-small-business,Zoho Books,openai,40,48,83,40,4.2,1
+accounting-software-for-small-business,Zoho Books,anthropic,38,48,79,37,3.1,4
+accounting-software-for-small-business,FreshBooks,all,67,96,70,66,3.0,11
+accounting-software-for-small-business,FreshBooks,openai,35,48,73,35,2.7,6
+accounting-software-for-small-business,FreshBooks,anthropic,32,48,67,31,3.3,5
+accounting-software-for-small-business,NetSuite,all,28,96,29,27,4.7,0
+accounting-software-for-small-business,NetSuite,openai,19,48,40,18,4.9,0
+accounting-software-for-small-business,NetSuite,anthropic,9,48,19,9,4.3,0
+accounting-software-for-small-business,Sage Intacct,all,27,96,28,27,4.6,1
+accounting-software-for-small-business,Sage Intacct,openai,16,48,33,16,4.8,0
+accounting-software-for-small-business,Sage Intacct,anthropic,11,48,23,11,4.2,1
+accounting-software-for-small-business,Sage,all,24,96,25,23,3.4,4
+accounting-software-for-small-business,Sage,openai,8,48,17,8,4.0,0
+accounting-software-for-small-business,Sage,anthropic,16,48,33,15,3.1,4
+accounting-software-for-small-business,Gusto,all,19,96,20,16,2.3,6
+accounting-software-for-small-business,Gusto,openai,15,48,31,13,2.2,5
+accounting-software-for-small-business,Gusto,anthropic,4,48,8,3,2.7,1
+accounting-software-for-small-business,Shopify,all,14,96,15,13,2.7,4
+accounting-software-for-small-business,Shopify,openai,11,48,23,10,3.0,3
+accounting-software-for-small-business,Shopify,anthropic,3,48,6,3,1.7,1
+accounting-software-for-small-business,A2X,all,7,96,7,6,1.7,4
+accounting-software-for-small-business,A2X,openai,4,48,8,4,1.5,3
+accounting-software-for-small-business,A2X,anthropic,3,48,6,2,2.0,1
+accounting-software-for-small-business,Acumatica,all,7,96,7,7,4.0,0
+accounting-software-for-small-business,Acumatica,openai,4,48,8,4,4.2,0
+accounting-software-for-small-business,Acumatica,anthropic,3,48,6,3,3.7,0
+accounting-software-for-small-business,ADP,all,7,96,7,6,4.3,0
+accounting-software-for-small-business,ADP,openai,5,48,10,5,4.0,0
+accounting-software-for-small-business,ADP,anthropic,2,48,4,1,6.0,0
+accounting-software-for-small-business,Cin7,all,6,96,6,5,3.4,0
+accounting-software-for-small-business,Cin7,openai,2,48,4,2,3.5,0
+accounting-software-for-small-business,Cin7,anthropic,4,48,8,3,3.3,0
+accounting-software-for-small-business,ZipBooks,all,6,96,6,6,3.7,0
+accounting-software-for-small-business,ZipBooks,openai,4,48,8,4,3.0,0
+accounting-software-for-small-business,ZipBooks,anthropic,2,48,4,2,5.0,0
+accounting-software-for-small-business,Patriot Software,all,6,96,6,5,4.4,0
+accounting-software-for-small-business,Patriot Software,openai,1,48,2,1,6.0,0
+accounting-software-for-small-business,Patriot Software,anthropic,5,48,10,4,4.0,0
+accounting-software-for-small-business,GnuCash,all,5,96,5,5,3.6,1
+accounting-software-for-small-business,GnuCash,openai,3,48,6,3,3.0,1
+accounting-software-for-small-business,GnuCash,anthropic,2,48,4,2,4.5,0
+accounting-software-for-small-business,Odoo,all,5,96,5,5,4.0,0
+accounting-software-for-small-business,Odoo,openai,1,48,2,1,6.0,0
+accounting-software-for-small-business,Odoo,anthropic,4,48,8,4,3.5,0
+accounting-software-for-small-business,Microsoft Dynamics 365 Business Central,all,5,96,5,5,5.4,1
+accounting-software-for-small-business,Microsoft Dynamics 365 Business Central,openai,4,48,8,4,6.5,0
+accounting-software-for-small-business,Microsoft Dynamics 365 Business Central,anthropic,1,48,2,1,1.0,1
+accounting-software-for-small-business,Aplos,all,4,96,4,4,1.8,2
+accounting-software-for-small-business,Aplos,openai,2,48,4,2,1.5,1
+accounting-software-for-small-business,Aplos,anthropic,2,48,4,2,2.0,1
+accounting-software-for-small-business,Manager.io,all,4,96,4,4,3.0,1
+accounting-software-for-small-business,Manager.io,openai,2,48,4,2,3.5,0
+accounting-software-for-small-business,Manager.io,anthropic,2,48,4,2,2.5,1
+accounting-software-for-small-business,Square,all,4,96,4,3,3.7,0
+accounting-software-for-small-business,Square,openai,3,48,6,2,4.5,0
+accounting-software-for-small-business,Square,anthropic,1,48,2,1,2.0,0
+accounting-software-for-small-business,Blackbaud Financial Edge NXT,all,4,96,4,4,3.8,0
+accounting-software-for-small-business,Blackbaud Financial Edge NXT,openai,2,48,4,2,4.0,0
+accounting-software-for-small-business,Blackbaud Financial Edge NXT,anthropic,2,48,4,2,3.5,0
+accounting-software-for-small-business,Quicken,all,4,96,4,4,3.8,1
+accounting-software-for-small-business,Quicken,openai,0,48,0,0,,0
+accounting-software-for-small-business,Quicken,anthropic,4,48,8,4,3.8,1
+accounting-software-for-small-business,Foundation Software,all,3,96,3,3,2.3,2
+accounting-software-for-small-business,Foundation Software,openai,1,48,2,1,5.0,0
+accounting-software-for-small-business,Foundation Software,anthropic,2,48,4,2,1.0,2
+accounting-software-for-small-business,Puzzle,all,3,96,3,3,3.3,1
+accounting-software-for-small-business,Puzzle,openai,1,48,2,1,1.0,1
+accounting-software-for-small-business,Puzzle,anthropic,2,48,4,2,4.5,0
+accounting-software-for-small-business,Pilot,all,3,96,3,3,4.3,0
+accounting-software-for-small-business,Pilot,openai,3,48,6,3,4.3,0
+accounting-software-for-small-business,Pilot,anthropic,0,48,0,0,,0
+accounting-software-for-small-business,Fishbowl,all,3,96,3,3,5.0,0
+accounting-software-for-small-business,Fishbowl,openai,2,48,4,2,4.0,0
+accounting-software-for-small-business,Fishbowl,anthropic,1,48,2,1,7.0,0
+accounting-software-for-small-business,Paychex,all,2,96,2,2,3.0,1
+accounting-software-for-small-business,Paychex,openai,2,48,4,2,3.0,1
+accounting-software-for-small-business,Paychex,anthropic,0,48,0,0,,0
+accounting-software-for-small-business,Bench,all,2,96,2,2,4.0,0
+accounting-software-for-small-business,Bench,openai,2,48,4,2,4.0,0
+accounting-software-for-small-business,Bench,anthropic,0,48,0,0,,0
+accounting-software-for-small-business,Bonsai,all,2,96,2,2,5.0,0
+accounting-software-for-small-business,Bonsai,openai,2,48,4,2,5.0,0
+accounting-software-for-small-business,Bonsai,anthropic,0,48,0,0,,0
+accounting-software-for-small-business,Rippling,all,2,96,2,1,6.0,0
+accounting-software-for-small-business,Rippling,openai,0,48,0,0,,0
+accounting-software-for-small-business,Rippling,anthropic,2,48,4,1,6.0,0
+accounting-software-for-small-business,Akaunting,all,1,96,1,1,4.0,0
+accounting-software-for-small-business,Akaunting,openai,1,48,2,1,4.0,0
+accounting-software-for-small-business,Akaunting,anthropic,0,48,0,0,,0
+accounting-software-for-small-business,Brex,all,1,96,1,1,5.0,0
+accounting-software-for-small-business,Brex,openai,1,48,2,1,5.0,0
+accounting-software-for-small-business,Brex,anthropic,0,48,0,0,,0
+accounting-software-for-small-business,Kashoo,all,1,96,1,1,5.0,0
+accounting-software-for-small-business,Kashoo,openai,0,48,0,0,,0
+accounting-software-for-small-business,Kashoo,anthropic,1,48,2,1,5.0,0

@@ -1,0 +1,102 @@
+[
+ {
+  "path": "data/2026-11-25/crm-for-small-business/answers.jsonl",
+  "bytes": 388387,
+  "sha256": "9b310bdb7553b585b17f150ef39c68b14184d8af9356bbf6c6fc01e86d13378f"
+ },
+ {
+  "path": "data/2026-11-25/crm-for-small-business/mentions.csv",
+  "bytes": 60879,
+  "sha256": "06130a46e8926e4092b3b59ae6e95e190c5355c6a05114229cf99245b9f8c0f7"
+ },
+ {
+  "path": "data/2026-11-25/crm-for-small-business/questions.csv",
+  "bytes": 1318,
+  "sha256": "f27db4b3e82efc7b8adceeeeac2751ecddd5b6592514af242af8f824f58fb54e"
+ },
+ {
+  "path": "data/2026-11-25/crm-for-small-business/tracked_products.json",
+  "bytes": 6580,
+  "sha256": "4a99f4644308b3b8493ad5d72a986736d6ca104565e47c69e09e4ad227844092"
+ },
+ {
+  "path": "data/2026-11-25/project-management-software/answers.jsonl",
+  "bytes": 422437,
+  "sha256": "5e52e28e2790d518a34762aa8491eb7553d45375502776a1b4cfd46e220818ef"
+ },
+ {
+  "path": "data/2026-11-25/project-management-software/mentions.csv",
+  "bytes": 71420,
+  "sha256": "d0e910b546d3dd79285642af39c3f9c624bb44cb267386b5440a3920946682a8"
+ },
+ {
+  "path": "data/2026-11-25/project-management-software/questions.csv",
+  "bytes": 1636,
+  "sha256": "7644484ab68bfe1e0624244582d9bdc8c6bad12436292edc17cb874afdcce4a8"
+ },
+ {
+  "path": "data/2026-11-25/project-management-software/tracked_products.json",
+  "bytes": 6435,
+  "sha256": "8441615f23284b22a24ffa0ae405ad21e38b42fdcbb9ef90fdf76d17df6b20bc"
+ },
+ {
+  "path": "data/2026-11-25/email-marketing-software/answers.jsonl",
+  "bytes": 411907,
+  "sha256": "b1293799c11e488096638df5aeb2651ec0e8678908e8feae7eee214c23205977"
+ },
+ {
+  "path": "data/2026-11-25/email-marketing-software/mentions.csv",
+  "bytes": 66623,
+  "sha256": "ab0c08c46fca024ec8dfe985857d01cc851a732ff8ea104d5185a65df5b7bf75"
+ },
+ {
+  "path": "data/2026-11-25/email-marketing-software/questions.csv",
+  "bytes": 1536,
+  "sha256": "391c0496b16f6409256ee6396f56dbbb2815e21217bb7311fdb4221950e3a8f0"
+ },
+ {
+  "path": "data/2026-11-25/email-marketing-software/tracked_products.json",
+  "bytes": 5593,
+  "sha256": "533b4aca2156f3b3d99bef1708f22dcff2264a8c287175811356e7414fc3c3d4"
+ },
+ {
+  "path": "data/2026-11-25/help-desk-software/answers.jsonl",
+  "bytes": 421623,
+  "sha256": "1f9cbda8d85d7b6e0655d9fa4418c4150bb871f4afec141f692c2f6c4f78ace5"
+ },
+ {
+  "path": "data/2026-11-25/help-desk-software/mentions.csv",
+  "bytes": 67621,
+  "sha256": "82b7a841823322b4bf3840730fbda7047d0025ddd1bb1b6c815e0faf6687292a"
+ },
+ {
+  "path": "data/2026-11-25/help-desk-software/questions.csv",
+  "bytes": 1462,
+  "sha256": "59c93a78f29ba952b452e062f49a59c5fc7aa54b7e76b2d39257d4d6e3a9efa8"
+ },
+ {
+  "path": "data/2026-11-25/help-desk-software/tracked_products.json",
+  "bytes": 6604,
+  "sha256": "366d161607368168541e07c78e283937d908ce6795cb8dbea675fbc0440e35b9"
+ },
+ {
+  "path": "data/2026-11-25/accounting-software-for-small-business/answers.jsonl",
+  "bytes": 420430,
+  "sha256": "bf1bd4d4fa04087bc2cb917bbbef270af47d245e3b5ea01b3c985efe00e4ea9b"
+ },
+ {
+  "path": "data/2026-11-25/accounting-software-for-small-business/mentions.csv",
+  "bytes": 71054,
+  "sha256": "86da1fa52c3d6f67d8a358693ab4121382048a87998a3a897418a36e70ba7d1f"
+ },
+ {
+  "path": "data/2026-11-25/accounting-software-for-small-business/questions.csv",
+  "bytes": 1504,
+  "sha256": "d3530aa09a0822e12a0bd831d499f6add87fa4f43f5ada8c52edef6d7b91bcc3"
+ },
+ {
+  "path": "data/2026-11-25/accounting-software-for-small-business/tracked_products.json",
+  "bytes": 5509,
+  "sha256": "e774f36329e246cdadcb22dbd67a476a30f51ae5929f1f72f0d2c07e7360c305"
+ }
+]

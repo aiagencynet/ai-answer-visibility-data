@@ -1,0 +1,628 @@
+category,answer_id,question_id,intent,engine,model,run,product,list_rank,first_char_offset
+accounting-software-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,58
+accounting-software-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Xero,2,126
+accounting-software-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,FreshBooks,3,132
+accounting-software-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Wave,4,144
+accounting-software-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Zoho Books,5,154
+accounting-software-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Gusto,2,1025
+accounting-software-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Sage,6,1973
+accounting-software-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Shopify,1,3256
+accounting-software-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,119
+accounting-software-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Xero,2,373
+accounting-software-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Gusto,2,381
+accounting-software-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,FreshBooks,3,681
+accounting-software-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Wave,4,940
+accounting-software-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Zoho Books,5,1289
+accounting-software-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Sage,3,2118
+accounting-software-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,NetSuite,3,2123
+accounting-software-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,QuickBooks,1,16
+accounting-software-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Xero,2,616
+accounting-software-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Wave,3,819
+accounting-software-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Zoho Books,4,1088
+accounting-software-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,FreshBooks,5,1251
+accounting-software-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,QuickBooks,1,45
+accounting-software-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Xero,2,71
+accounting-software-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Zoho Books,3,77
+accounting-software-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Wave,3,93
+accounting-software-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,FreshBooks,4,1317
+accounting-software-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,45
+accounting-software-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Xero,2,1264
+accounting-software-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,FreshBooks,3,1549
+accounting-software-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Wave,4,1849
+accounting-software-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Zoho Books,5,2226
+accounting-software-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Gusto,,2630
+accounting-software-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,45
+accounting-software-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Xero,2,755
+accounting-software-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,FreshBooks,3,1046
+accounting-software-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Wave,4,1339
+accounting-software-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Zoho Books,5,1653
+accounting-software-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Sage,5,1666
+accounting-software-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Gusto,5,2356
+accounting-software-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,ADP,5,2363
+accounting-software-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,QuickBooks,,48
+accounting-software-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Xero,1,436
+accounting-software-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Wave,2,605
+accounting-software-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Zoho Books,3,851
+accounting-software-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,FreshBooks,4,973
+accounting-software-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,QuickBooks,1,35
+accounting-software-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Xero,2,531
+accounting-software-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Wave,3,645
+accounting-software-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Zoho Books,4,887
+accounting-software-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,FreshBooks,5,1096
+accounting-software-for-small-business,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,177
+accounting-software-for-small-business,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,Xero,2,678
+accounting-software-for-small-business,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,FreshBooks,3,1161
+accounting-software-for-small-business,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,Zoho Books,4,1634
+accounting-software-for-small-business,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,Wave,5,2192
+accounting-software-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,181
+accounting-software-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Xero,2,678
+accounting-software-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,FreshBooks,3,1172
+accounting-software-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Zoho Books,4,1607
+accounting-software-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Wave,5,2073
+accounting-software-for-small-business,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,QuickBooks,1,88
+accounting-software-for-small-business,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Xero,2,409
+accounting-software-for-small-business,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Zoho Books,3,650
+accounting-software-for-small-business,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,FreshBooks,4,891
+accounting-software-for-small-business,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Wave,5,1108
+accounting-software-for-small-business,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,QuickBooks,1,59
+accounting-software-for-small-business,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Xero,2,78
+accounting-software-for-small-business,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Zoho Books,3,84
+accounting-software-for-small-business,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,FreshBooks,4,96
+accounting-software-for-small-business,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Wave,5,112
+accounting-software-for-small-business,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Shopify,7,722
+accounting-software-for-small-business,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Square,7,731
+accounting-software-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,541
+accounting-software-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Xero,2,903
+accounting-software-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,FreshBooks,3,1178
+accounting-software-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Wave,4,1495
+accounting-software-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho Books,5,1810
+accounting-software-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Gusto,,2760
+accounting-software-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Square,,2775
+accounting-software-for-small-business,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,QuickBooks,1,42
+accounting-software-for-small-business,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Xero,2,388
+accounting-software-for-small-business,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Wave,3,504
+accounting-software-for-small-business,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Zoho Books,4,698
+accounting-software-for-small-business,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,FreshBooks,5,883
+accounting-software-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,QuickBooks,1,27
+accounting-software-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Xero,2,555
+accounting-software-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Wave,3,782
+accounting-software-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Zoho Books,4,1032
+accounting-software-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,FreshBooks,5,1230
+accounting-software-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Microsoft Dynamics 365 Business Central,1,1509
+accounting-software-for-small-business,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,36
+accounting-software-for-small-business,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Xero,1,287
+accounting-software-for-small-business,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,FreshBooks,2,521
+accounting-software-for-small-business,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Wave,3,738
+accounting-software-for-small-business,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Zoho Books,4,964
+accounting-software-for-small-business,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Sage,4,977
+accounting-software-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,14
+accounting-software-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Xero,2,666
+accounting-software-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,FreshBooks,2,672
+accounting-software-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Wave,2,684
+accounting-software-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho Books,2,690
+accounting-software-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Sage,2,705
+accounting-software-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,QuickBooks,1,0
+accounting-software-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Xero,2,641
+accounting-software-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Wave,3,867
+accounting-software-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Sage,4,1089
+accounting-software-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,QuickBooks,1,0
+accounting-software-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Xero,1,877
+accounting-software-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,FreshBooks,2,1045
+accounting-software-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Wave,3,1152
+accounting-software-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Zoho Books,4,1266
+accounting-software-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Sage,4,1278
+accounting-software-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Patriot Software,4,1284
+accounting-software-for-small-business,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,Wave,1,48
+accounting-software-for-small-business,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,QuickBooks,2,54
+accounting-software-for-small-business,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,ZipBooks,3,71
+accounting-software-for-small-business,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,Zoho Books,4,91
+accounting-software-for-small-business,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,GnuCash,5,141
+accounting-software-for-small-business,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,Odoo,6,177
+accounting-software-for-small-business,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,Wave,1,127
+accounting-software-for-small-business,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,ZipBooks,2,451
+accounting-software-for-small-business,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,GnuCash,3,782
+accounting-software-for-small-business,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,Akaunting,4,1081
+accounting-software-for-small-business,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,Manager.io,5,1356
+accounting-software-for-small-business,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,QuickBooks,3,2153
+accounting-software-for-small-business,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,Xero,3,2164
+accounting-software-for-small-business,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,Wave,1,47
+accounting-software-for-small-business,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,Zoho Books,2,145
+accounting-software-for-small-business,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,Odoo,3,1022
+accounting-software-for-small-business,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,GnuCash,4,1168
+accounting-software-for-small-business,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,Manager.io,4,1179
+accounting-software-for-small-business,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,QuickBooks,5,1483
+accounting-software-for-small-business,q06-anthropic-r2,q06,price,anthropic,claude-haiku-5-5,2,Wave,1,53
+accounting-software-for-small-business,q06-anthropic-r2,q06,price,anthropic,claude-haiku-5-5,2,Zoho Books,2,89
+accounting-software-for-small-business,q06-anthropic-r2,q06,price,anthropic,claude-haiku-5-5,2,Odoo,3,968
+accounting-software-for-small-business,q06-anthropic-r2,q06,price,anthropic,claude-haiku-5-5,2,QuickBooks,4,1182
+accounting-software-for-small-business,q06-anthropic-r2,q06,price,anthropic,claude-haiku-5-5,2,GnuCash,5,1474
+accounting-software-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Wave,1,61
+accounting-software-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,ZipBooks,2,98
+accounting-software-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Zoho Books,3,138
+accounting-software-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,QuickBooks,5,277
+accounting-software-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Xero,5,298
+accounting-software-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,FreshBooks,4,1185
+accounting-software-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,GnuCash,1,61
+accounting-software-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Manager.io,2,254
+accounting-software-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Wave,3,489
+accounting-software-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Zoho Books,4,887
+accounting-software-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,ZipBooks,5,1208
+accounting-software-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,1506
+accounting-software-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,FreshBooks,2,1796
+accounting-software-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Xero,2,1809
+accounting-software-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Wave,1,47
+accounting-software-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Zoho Books,2,143
+accounting-software-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Sage,1,192
+accounting-software-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Quicken,2,204
+accounting-software-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Xero,3,1365
+accounting-software-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,QuickBooks,4,1523
+accounting-software-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Wave,1,133
+accounting-software-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Zoho Books,2,413
+accounting-software-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Quicken,1,605
+accounting-software-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Sage,2,799
+accounting-software-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Xero,3,963
+accounting-software-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,QuickBooks,,1508
+accounting-software-for-small-business,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,FreshBooks,1,143
+accounting-software-for-small-business,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,QuickBooks,2,435
+accounting-software-for-small-business,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,Wave,3,834
+accounting-software-for-small-business,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,Xero,4,1153
+accounting-software-for-small-business,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,Bonsai,5,1379
+accounting-software-for-small-business,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho Books,1,1702
+accounting-software-for-small-business,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,FreshBooks,1,253
+accounting-software-for-small-business,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,QuickBooks,2,505
+accounting-software-for-small-business,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,Wave,3,911
+accounting-software-for-small-business,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,Xero,4,1227
+accounting-software-for-small-business,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,Bonsai,5,1636
+accounting-software-for-small-business,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho Books,6,1909
+accounting-software-for-small-business,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Wave,1,97
+accounting-software-for-small-business,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Manager.io,1,216
+accounting-software-for-small-business,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,FreshBooks,2,351
+accounting-software-for-small-business,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,QuickBooks,3,595
+accounting-software-for-small-business,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Xero,4,848
+accounting-software-for-small-business,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Zoho Books,5,1020
+accounting-software-for-small-business,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,Wave,1,138
+accounting-software-for-small-business,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,FreshBooks,2,387
+accounting-software-for-small-business,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,QuickBooks,3,612
+accounting-software-for-small-business,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,Zoho Books,4,798
+accounting-software-for-small-business,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,Xero,5,976
+accounting-software-for-small-business,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,QuickBooks,3,106
+accounting-software-for-small-business,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,FreshBooks,1,125
+accounting-software-for-small-business,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Xero,2,137
+accounting-software-for-small-business,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho Books,5,143
+accounting-software-for-small-business,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Wave,4,159
+accounting-software-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,QuickBooks,2,110
+accounting-software-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,FreshBooks,1,198
+accounting-software-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Xero,3,296
+accounting-software-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho Books,5,364
+accounting-software-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Wave,4,378
+accounting-software-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Sage Intacct,6,538
+accounting-software-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,NetSuite,6,552
+accounting-software-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,FreshBooks,1,31
+accounting-software-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,QuickBooks,2,761
+accounting-software-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Xero,3,1270
+accounting-software-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Zoho Books,4,1572
+accounting-software-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Wave,4,1649
+accounting-software-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,FreshBooks,1,55
+accounting-software-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,QuickBooks,2,138
+accounting-software-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Xero,3,1047
+accounting-software-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Zoho Books,4,1315
+accounting-software-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Wave,4,1407
+accounting-software-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Sage Intacct,5,1740
+accounting-software-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,NetSuite,5,1754
+accounting-software-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Acumatica,5,1767
+accounting-software-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,61
+accounting-software-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Xero,2,82
+accounting-software-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,A2X,1,129
+accounting-software-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Shopify,1,544
+accounting-software-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Wave,3,1009
+accounting-software-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho Books,3,1017
+accounting-software-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,NetSuite,4,1381
+accounting-software-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Acumatica,4,1391
+accounting-software-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Microsoft Dynamics 365 Business Central,4,3045
+accounting-software-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,142
+accounting-software-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Xero,2,407
+accounting-software-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Shopify,2,423
+accounting-software-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,NetSuite,3,678
+accounting-software-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Acumatica,3,690
+accounting-software-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho Books,4,971
+accounting-software-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Wave,4,985
+accounting-software-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,A2X,1,1236
+accounting-software-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,QuickBooks,1,54
+accounting-software-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Xero,2,75
+accounting-software-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,A2X,3,128
+accounting-software-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Shopify,1,418
+accounting-software-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Wave,1,1259
+accounting-software-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Zoho Books,2,1378
+accounting-software-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Sage,1,1587
+accounting-software-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,NetSuite,2,1654
+accounting-software-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Cin7,2,1680
+accounting-software-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,QuickBooks,1,190
+accounting-software-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,A2X,1,373
+accounting-software-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Xero,2,462
+accounting-software-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Shopify,2,717
+accounting-software-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Zoho Books,3,870
+accounting-software-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Wave,4,1013
+accounting-software-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Sage,5,1146
+accounting-software-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Cin7,,1647
+accounting-software-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,390
+accounting-software-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Xero,1,411
+accounting-software-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Sage,3,1149
+accounting-software-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Sage Intacct,4,1520
+accounting-software-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Acumatica,4,1574
+accounting-software-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,522
+accounting-software-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Xero,2,901
+accounting-software-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Sage,5,2007
+accounting-software-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Foundation Software,5,2029
+accounting-software-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Sage Intacct,5,2051
+accounting-software-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,QuickBooks,1,204
+accounting-software-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,FreshBooks,2,439
+accounting-software-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Wave,3,651
+accounting-software-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Foundation Software,1,1349
+accounting-software-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Sage,2,1564
+accounting-software-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Acumatica,3,1689
+accounting-software-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Sage Intacct,3,1707
+accounting-software-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,QuickBooks,1,106
+accounting-software-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,FreshBooks,2,622
+accounting-software-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Wave,3,817
+accounting-software-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Xero,2,1147
+accounting-software-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Acumatica,3,1489
+accounting-software-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Foundation Software,1,1578
+accounting-software-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Sage,2,1813
+accounting-software-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Sage Intacct,3,1981
+accounting-software-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,Aplos,1,392
+accounting-software-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,Xero,2,651
+accounting-software-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,Wave,2,659
+accounting-software-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,QuickBooks,2,993
+accounting-software-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,Sage Intacct,3,1531
+accounting-software-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,Blackbaud Financial Edge NXT,4,2013
+accounting-software-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,NetSuite,,2390
+accounting-software-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,202
+accounting-software-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Aplos,2,546
+accounting-software-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Sage Intacct,3,826
+accounting-software-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Blackbaud Financial Edge NXT,4,1092
+accounting-software-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,NetSuite,5,1379
+accounting-software-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Xero,6,1660
+accounting-software-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho Books,6,1667
+accounting-software-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Gusto,3,2212
+accounting-software-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,ADP,3,2218
+accounting-software-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Wave,1,472
+accounting-software-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,QuickBooks,2,753
+accounting-software-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Aplos,3,1154
+accounting-software-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Xero,4,1441
+accounting-software-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Sage Intacct,5,1605
+accounting-software-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Blackbaud Financial Edge NXT,5,1703
+accounting-software-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Aplos,1,249
+accounting-software-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,QuickBooks,2,569
+accounting-software-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Xero,3,918
+accounting-software-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Wave,4,1117
+accounting-software-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Sage Intacct,1,1912
+accounting-software-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Blackbaud Financial Edge NXT,2,2129
+accounting-software-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,50
+accounting-software-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Xero,2,128
+accounting-software-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,FreshBooks,3,134
+accounting-software-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho Books,4,146
+accounting-software-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Wave,5,158
+accounting-software-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,NetSuite,6,204
+accounting-software-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Sage Intacct,6,216
+accounting-software-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Gusto,1,2078
+accounting-software-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,A2X,3,2278
+accounting-software-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Shopify,3,2283
+accounting-software-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,39
+accounting-software-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Xero,2,122
+accounting-software-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,FreshBooks,2,171
+accounting-software-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho Books,2,220
+accounting-software-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Wave,2,264
+accounting-software-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,NetSuite,2,355
+accounting-software-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Sage Intacct,2,367
+accounting-software-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Gusto,1,2075
+accounting-software-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Shopify,5,2771
+accounting-software-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Brex,5,2780
+accounting-software-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,QuickBooks,1,40
+accounting-software-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,Xero,2,81
+accounting-software-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,Zoho Books,3,889
+accounting-software-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,Wave,4,1092
+accounting-software-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,Puzzle,5,1270
+accounting-software-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,NetSuite,6,1502
+accounting-software-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,FreshBooks,3,2025
+accounting-software-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,QuickBooks,,24
+accounting-software-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Xero,1,395
+accounting-software-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Zoho Books,2,676
+accounting-software-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Wave,3,844
+accounting-software-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Puzzle,4,1059
+accounting-software-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,FreshBooks,5,1300
+accounting-software-for-small-business,q14-openai-r1,q14,criteria,openai,gpt-5-mini-2025-08-07,1,FreshBooks,1,70
+accounting-software-for-small-business,q14-openai-r1,q14,criteria,openai,gpt-5-mini-2025-08-07,1,Wave,2,124
+accounting-software-for-small-business,q14-openai-r1,q14,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho Books,3,166
+accounting-software-for-small-business,q14-openai-r1,q14,criteria,openai,gpt-5-mini-2025-08-07,1,QuickBooks,4,280
+accounting-software-for-small-business,q14-openai-r1,q14,criteria,openai,gpt-5-mini-2025-08-07,1,Xero,5,301
+accounting-software-for-small-business,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,FreshBooks,1,71
+accounting-software-for-small-business,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,Wave,2,304
+accounting-software-for-small-business,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,Xero,3,542
+accounting-software-for-small-business,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,QuickBooks,4,771
+accounting-software-for-small-business,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,Pilot,5,1141
+accounting-software-for-small-business,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,Wave,1,84
+accounting-software-for-small-business,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,FreshBooks,2,97
+accounting-software-for-small-business,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,QuickBooks,3,142
+accounting-software-for-small-business,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,Xero,4,1302
+accounting-software-for-small-business,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,ZipBooks,5,1536
+accounting-software-for-small-business,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,Kashoo,5,1623
+accounting-software-for-small-business,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,Patriot Software,5,1705
+accounting-software-for-small-business,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,Wave,1,144
+accounting-software-for-small-business,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,Xero,2,177
+accounting-software-for-small-business,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,QuickBooks,2,834
+accounting-software-for-small-business,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,FreshBooks,3,913
+accounting-software-for-small-business,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,Zoho Books,5,1582
+accounting-software-for-small-business,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,ZipBooks,5,1597
+accounting-software-for-small-business,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,95
+accounting-software-for-small-business,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,Xero,2,114
+accounting-software-for-small-business,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,FreshBooks,3,120
+accounting-software-for-small-business,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho Books,4,132
+accounting-software-for-small-business,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,Wave,5,148
+accounting-software-for-small-business,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,115
+accounting-software-for-small-business,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,Xero,2,180
+accounting-software-for-small-business,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,FreshBooks,3,186
+accounting-software-for-small-business,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho Books,4,198
+accounting-software-for-small-business,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,Wave,5,210
+accounting-software-for-small-business,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,FreshBooks,1,143
+accounting-software-for-small-business,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,QuickBooks,2,593
+accounting-software-for-small-business,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,Xero,3,886
+accounting-software-for-small-business,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,Zoho Books,4,1119
+accounting-software-for-small-business,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,Wave,5,1363
+accounting-software-for-small-business,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,Quicken,6,1597
+accounting-software-for-small-business,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,FreshBooks,1,149
+accounting-software-for-small-business,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,QuickBooks,2,587
+accounting-software-for-small-business,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,Xero,3,909
+accounting-software-for-small-business,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,Wave,4,1104
+accounting-software-for-small-business,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,Zoho Books,5,1348
+accounting-software-for-small-business,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,Quicken,6,1581
+accounting-software-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,248
+accounting-software-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Xero,2,609
+accounting-software-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Gusto,2,641
+accounting-software-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,ADP,4,1340
+accounting-software-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Wave,5,1614
+accounting-software-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Patriot Software,6,1951
+accounting-software-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Gusto,1,103
+accounting-software-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,QuickBooks,2,521
+accounting-software-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Wave,4,1362
+accounting-software-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,ADP,5,1834
+accounting-software-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Paychex,5,1840
+accounting-software-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Xero,6,2321
+accounting-software-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Square,2,2779
+accounting-software-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,QuickBooks,1,105
+accounting-software-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Gusto,2,457
+accounting-software-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Xero,2,610
+accounting-software-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Wave,4,903
+accounting-software-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Patriot Software,5,1092
+accounting-software-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Rippling,6,1283
+accounting-software-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,ADP,6,1354
+accounting-software-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,QuickBooks,,168
+accounting-software-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Gusto,,673
+accounting-software-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Xero,,786
+accounting-software-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Patriot Software,,1270
+accounting-software-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Wave,,1445
+accounting-software-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,ADP,,1720
+accounting-software-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Rippling,,1785
+accounting-software-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,QuickBooks,4,499
+accounting-software-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,Xero,2,1222
+accounting-software-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho Books,3,1557
+accounting-software-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,Cin7,5,2262
+accounting-software-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,Fishbowl,6,2574
+accounting-software-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,NetSuite,7,2926
+accounting-software-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,Microsoft Dynamics 365 Business Central,8,3376
+accounting-software-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,Sage Intacct,8,3396
+accounting-software-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,QuickBooks,4,543
+accounting-software-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Xero,4,555
+accounting-software-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Sage,4,561
+accounting-software-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Shopify,5,606
+accounting-software-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Cin7,2,1319
+accounting-software-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Fishbowl,2,1355
+accounting-software-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho Books,4,2080
+accounting-software-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,NetSuite,5,2369
+accounting-software-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,Zoho Books,1,195
+accounting-software-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,Wave,2,494
+accounting-software-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,QuickBooks,1,664
+accounting-software-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,Xero,2,834
+accounting-software-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,Sage,3,1021
+accounting-software-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,NetSuite,2,1409
+accounting-software-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,Odoo,3,1669
+accounting-software-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,Cin7,2,1999
+accounting-software-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,Shopify,2,2196
+accounting-software-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,QuickBooks,1,141
+accounting-software-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,Zoho Books,2,313
+accounting-software-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,Sage,3,529
+accounting-software-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,NetSuite,4,703
+accounting-software-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,Odoo,5,974
+accounting-software-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,Cin7,6,1091
+accounting-software-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,Fishbowl,7,1305
+accounting-software-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,Wave,8,1491
+accounting-software-for-small-business,q18-openai-r1,q18,comparison,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,385
+accounting-software-for-small-business,q18-openai-r1,q18,comparison,openai,gpt-5-mini-2025-08-07,1,Xero,2,923
+accounting-software-for-small-business,q18-openai-r1,q18,comparison,openai,gpt-5-mini-2025-08-07,1,Gusto,3,1140
+accounting-software-for-small-business,q18-openai-r1,q18,comparison,openai,gpt-5-mini-2025-08-07,1,FreshBooks,3,1288
+accounting-software-for-small-business,q18-openai-r1,q18,comparison,openai,gpt-5-mini-2025-08-07,1,Wave,4,1637
+accounting-software-for-small-business,q18-openai-r1,q18,comparison,openai,gpt-5-mini-2025-08-07,1,Zoho Books,5,1975
+accounting-software-for-small-business,q18-openai-r2,q18,comparison,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,343
+accounting-software-for-small-business,q18-openai-r2,q18,comparison,openai,gpt-5-mini-2025-08-07,2,Xero,2,683
+accounting-software-for-small-business,q18-openai-r2,q18,comparison,openai,gpt-5-mini-2025-08-07,2,FreshBooks,3,983
+accounting-software-for-small-business,q18-openai-r2,q18,comparison,openai,gpt-5-mini-2025-08-07,2,Wave,4,1274
+accounting-software-for-small-business,q18-openai-r2,q18,comparison,openai,gpt-5-mini-2025-08-07,2,Zoho Books,5,1535
+accounting-software-for-small-business,q18-openai-r2,q18,comparison,openai,gpt-5-mini-2025-08-07,2,Gusto,1,2359
+accounting-software-for-small-business,q18-openai-r2,q18,comparison,openai,gpt-5-mini-2025-08-07,2,Paychex,1,4226
+accounting-software-for-small-business,q18-anthropic-r1,q18,comparison,anthropic,claude-haiku-5-5,1,QuickBooks,1,169
+accounting-software-for-small-business,q18-anthropic-r1,q18,comparison,anthropic,claude-haiku-5-5,1,Xero,1,882
+accounting-software-for-small-business,q18-anthropic-r1,q18,comparison,anthropic,claude-haiku-5-5,1,Gusto,1,1035
+accounting-software-for-small-business,q18-anthropic-r1,q18,comparison,anthropic,claude-haiku-5-5,1,FreshBooks,1,1282
+accounting-software-for-small-business,q18-anthropic-r1,q18,comparison,anthropic,claude-haiku-5-5,1,Wave,2,1662
+accounting-software-for-small-business,q18-anthropic-r1,q18,comparison,anthropic,claude-haiku-5-5,1,Zoho Books,1,2027
+accounting-software-for-small-business,q18-anthropic-r1,q18,comparison,anthropic,claude-haiku-5-5,1,Sage,1,2313
+accounting-software-for-small-business,q18-anthropic-r1,q18,comparison,anthropic,claude-haiku-5-5,1,Patriot Software,2,2406
+accounting-software-for-small-business,q18-anthropic-r2,q18,comparison,anthropic,claude-haiku-5-5,2,QuickBooks,1,242
+accounting-software-for-small-business,q18-anthropic-r2,q18,comparison,anthropic,claude-haiku-5-5,2,Xero,2,307
+accounting-software-for-small-business,q18-anthropic-r2,q18,comparison,anthropic,claude-haiku-5-5,2,FreshBooks,3,363
+accounting-software-for-small-business,q18-anthropic-r2,q18,comparison,anthropic,claude-haiku-5-5,2,Wave,4,386
+accounting-software-for-small-business,q18-anthropic-r2,q18,comparison,anthropic,claude-haiku-5-5,2,Zoho Books,5,420
+accounting-software-for-small-business,q18-anthropic-r2,q18,comparison,anthropic,claude-haiku-5-5,2,Sage,6,465
+accounting-software-for-small-business,q18-anthropic-r2,q18,comparison,anthropic,claude-haiku-5-5,2,Gusto,5,3652
+accounting-software-for-small-business,q19-openai-r1,q19,recommendation,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,151
+accounting-software-for-small-business,q19-openai-r1,q19,recommendation,openai,gpt-5-mini-2025-08-07,1,Xero,2,170
+accounting-software-for-small-business,q19-openai-r1,q19,recommendation,openai,gpt-5-mini-2025-08-07,1,Sage Intacct,3,176
+accounting-software-for-small-business,q19-openai-r1,q19,recommendation,openai,gpt-5-mini-2025-08-07,1,NetSuite,4,197
+accounting-software-for-small-business,q19-openai-r1,q19,recommendation,openai,gpt-5-mini-2025-08-07,1,FreshBooks,2,207
+accounting-software-for-small-business,q19-openai-r1,q19,recommendation,openai,gpt-5-mini-2025-08-07,1,Zoho Books,6,223
+accounting-software-for-small-business,q19-openai-r1,q19,recommendation,openai,gpt-5-mini-2025-08-07,1,Wave,6,1983
+accounting-software-for-small-business,q19-openai-r1,q19,recommendation,openai,gpt-5-mini-2025-08-07,1,Shopify,2,2503
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,304
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,Xero,2,716
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho Books,3,1068
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,FreshBooks,4,1403
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,Wave,5,1667
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,Sage Intacct,6,1902
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,NetSuite,7,2223
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,Microsoft Dynamics 365 Business Central,8,2597
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,Gusto,3,3687
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,ADP,3,3693
+accounting-software-for-small-business,q19-openai-r2,q19,recommendation,openai,gpt-5-mini-2025-08-07,2,Shopify,3,5340
+accounting-software-for-small-business,q19-anthropic-r1,q19,recommendation,anthropic,claude-haiku-5-5,1,QuickBooks,2,129
+accounting-software-for-small-business,q19-anthropic-r1,q19,recommendation,anthropic,claude-haiku-5-5,1,Xero,3,153
+accounting-software-for-small-business,q19-anthropic-r1,q19,recommendation,anthropic,claude-haiku-5-5,1,Zoho Books,1,1108
+accounting-software-for-small-business,q19-anthropic-r1,q19,recommendation,anthropic,claude-haiku-5-5,1,FreshBooks,4,1379
+accounting-software-for-small-business,q19-anthropic-r1,q19,recommendation,anthropic,claude-haiku-5-5,1,NetSuite,5,1597
+accounting-software-for-small-business,q19-anthropic-r1,q19,recommendation,anthropic,claude-haiku-5-5,1,Sage Intacct,5,1609
+accounting-software-for-small-business,q19-anthropic-r1,q19,recommendation,anthropic,claude-haiku-5-5,1,Wave,1,2049
+accounting-software-for-small-business,q19-anthropic-r2,q19,recommendation,anthropic,claude-haiku-5-5,2,QuickBooks,1,31
+accounting-software-for-small-business,q19-anthropic-r2,q19,recommendation,anthropic,claude-haiku-5-5,2,Xero,2,57
+accounting-software-for-small-business,q19-anthropic-r2,q19,recommendation,anthropic,claude-haiku-5-5,2,Zoho Books,3,943
+accounting-software-for-small-business,q19-anthropic-r2,q19,recommendation,anthropic,claude-haiku-5-5,2,NetSuite,4,1095
+accounting-software-for-small-business,q19-anthropic-r2,q19,recommendation,anthropic,claude-haiku-5-5,2,Sage Intacct,4,1107
+accounting-software-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,175
+accounting-software-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,Xero,2,486
+accounting-software-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,FreshBooks,3,826
+accounting-software-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,Wave,4,1086
+accounting-software-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho Books,5,1356
+accounting-software-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,NetSuite,6,1608
+accounting-software-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,Sage Intacct,6,1619
+accounting-software-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,Microsoft Dynamics 365 Business Central,6,1657
+accounting-software-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,365
+accounting-software-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,Xero,2,610
+accounting-software-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,FreshBooks,3,878
+accounting-software-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho Books,4,1109
+accounting-software-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,Sage Intacct,5,1334
+accounting-software-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,NetSuite,5,1356
+accounting-software-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,Wave,4,1959
+accounting-software-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,QuickBooks,1,106
+accounting-software-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,Xero,2,509
+accounting-software-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,Zoho Books,3,665
+accounting-software-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,Wave,3,680
+accounting-software-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,FreshBooks,4,912
+accounting-software-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,NetSuite,5,1125
+accounting-software-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,Sage Intacct,5,1138
+accounting-software-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,QuickBooks,1,177
+accounting-software-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,Zoho Books,1,501
+accounting-software-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,Xero,1,516
+accounting-software-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,FreshBooks,3,920
+accounting-software-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,Sage,5,1327
+accounting-software-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,Sage Intacct,6,1447
+accounting-software-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,NetSuite,6,1604
+accounting-software-for-small-business,q21-openai-r1,q21,use-case,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,508
+accounting-software-for-small-business,q21-openai-r1,q21,use-case,openai,gpt-5-mini-2025-08-07,1,Xero,2,925
+accounting-software-for-small-business,q21-openai-r1,q21,use-case,openai,gpt-5-mini-2025-08-07,1,FreshBooks,3,1234
+accounting-software-for-small-business,q21-openai-r1,q21,use-case,openai,gpt-5-mini-2025-08-07,1,Wave,4,1562
+accounting-software-for-small-business,q21-openai-r1,q21,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho Books,5,1910
+accounting-software-for-small-business,q21-openai-r1,q21,use-case,openai,gpt-5-mini-2025-08-07,1,Gusto,1,2293
+accounting-software-for-small-business,q21-openai-r1,q21,use-case,openai,gpt-5-mini-2025-08-07,1,Bench,2,2616
+accounting-software-for-small-business,q21-openai-r1,q21,use-case,openai,gpt-5-mini-2025-08-07,1,Pilot,2,2640
+accounting-software-for-small-business,q21-openai-r1,q21,use-case,openai,gpt-5-mini-2025-08-07,1,NetSuite,3,2964
+accounting-software-for-small-business,q21-openai-r1,q21,use-case,openai,gpt-5-mini-2025-08-07,1,Sage Intacct,3,2973
+accounting-software-for-small-business,q21-openai-r2,q21,use-case,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,290
+accounting-software-for-small-business,q21-openai-r2,q21,use-case,openai,gpt-5-mini-2025-08-07,2,Xero,2,630
+accounting-software-for-small-business,q21-openai-r2,q21,use-case,openai,gpt-5-mini-2025-08-07,2,FreshBooks,3,967
+accounting-software-for-small-business,q21-openai-r2,q21,use-case,openai,gpt-5-mini-2025-08-07,2,Wave,4,1246
+accounting-software-for-small-business,q21-openai-r2,q21,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho Books,5,1545
+accounting-software-for-small-business,q21-openai-r2,q21,use-case,openai,gpt-5-mini-2025-08-07,2,Pilot,6,1816
+accounting-software-for-small-business,q21-openai-r2,q21,use-case,openai,gpt-5-mini-2025-08-07,2,Bench,6,1972
+accounting-software-for-small-business,q21-anthropic-r1,q21,use-case,anthropic,claude-haiku-5-5,1,QuickBooks,1,133
+accounting-software-for-small-business,q21-anthropic-r1,q21,use-case,anthropic,claude-haiku-5-5,1,Xero,2,397
+accounting-software-for-small-business,q21-anthropic-r1,q21,use-case,anthropic,claude-haiku-5-5,1,Wave,3,685
+accounting-software-for-small-business,q21-anthropic-r1,q21,use-case,anthropic,claude-haiku-5-5,1,Zoho Books,4,960
+accounting-software-for-small-business,q21-anthropic-r1,q21,use-case,anthropic,claude-haiku-5-5,1,FreshBooks,5,1065
+accounting-software-for-small-business,q21-anthropic-r2,q21,use-case,anthropic,claude-haiku-5-5,2,QuickBooks,1,36
+accounting-software-for-small-business,q21-anthropic-r2,q21,use-case,anthropic,claude-haiku-5-5,2,Xero,2,121
+accounting-software-for-small-business,q21-anthropic-r2,q21,use-case,anthropic,claude-haiku-5-5,2,Wave,3,155
+accounting-software-for-small-business,q21-anthropic-r2,q21,use-case,anthropic,claude-haiku-5-5,2,FreshBooks,4,1035
+accounting-software-for-small-business,q22-openai-r1,q22,best-of,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,101
+accounting-software-for-small-business,q22-openai-r1,q22,best-of,openai,gpt-5-mini-2025-08-07,1,Xero,2,385
+accounting-software-for-small-business,q22-openai-r1,q22,best-of,openai,gpt-5-mini-2025-08-07,1,FreshBooks,3,624
+accounting-software-for-small-business,q22-openai-r1,q22,best-of,openai,gpt-5-mini-2025-08-07,1,Wave,4,864
+accounting-software-for-small-business,q22-openai-r1,q22,best-of,openai,gpt-5-mini-2025-08-07,1,Zoho Books,5,1105
+accounting-software-for-small-business,q22-openai-r1,q22,best-of,openai,gpt-5-mini-2025-08-07,1,Gusto,4,2083
+accounting-software-for-small-business,q22-openai-r1,q22,best-of,openai,gpt-5-mini-2025-08-07,1,NetSuite,5,2354
+accounting-software-for-small-business,q22-openai-r1,q22,best-of,openai,gpt-5-mini-2025-08-07,1,Shopify,1,2630
+accounting-software-for-small-business,q22-openai-r2,q22,best-of,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,153
+accounting-software-for-small-business,q22-openai-r2,q22,best-of,openai,gpt-5-mini-2025-08-07,2,Xero,2,509
+accounting-software-for-small-business,q22-openai-r2,q22,best-of,openai,gpt-5-mini-2025-08-07,2,Wave,3,830
+accounting-software-for-small-business,q22-openai-r2,q22,best-of,openai,gpt-5-mini-2025-08-07,2,FreshBooks,4,1073
+accounting-software-for-small-business,q22-openai-r2,q22,best-of,openai,gpt-5-mini-2025-08-07,2,Zoho Books,5,1427
+accounting-software-for-small-business,q22-openai-r2,q22,best-of,openai,gpt-5-mini-2025-08-07,2,Shopify,,1750
+accounting-software-for-small-business,q22-openai-r2,q22,best-of,openai,gpt-5-mini-2025-08-07,2,A2X,1,1847
+accounting-software-for-small-business,q22-openai-r2,q22,best-of,openai,gpt-5-mini-2025-08-07,2,Puzzle,1,1938
+accounting-software-for-small-business,q22-anthropic-r1,q22,best-of,anthropic,claude-haiku-5-5,1,QuickBooks,,171
+accounting-software-for-small-business,q22-anthropic-r1,q22,best-of,anthropic,claude-haiku-5-5,1,Xero,,695
+accounting-software-for-small-business,q22-anthropic-r1,q22,best-of,anthropic,claude-haiku-5-5,1,Zoho Books,,1114
+accounting-software-for-small-business,q22-anthropic-r1,q22,best-of,anthropic,claude-haiku-5-5,1,Wave,,1392
+accounting-software-for-small-business,q22-anthropic-r1,q22,best-of,anthropic,claude-haiku-5-5,1,FreshBooks,,1634
+accounting-software-for-small-business,q22-anthropic-r1,q22,best-of,anthropic,claude-haiku-5-5,1,Sage,,1810
+accounting-software-for-small-business,q22-anthropic-r2,q22,best-of,anthropic,claude-haiku-5-5,2,QuickBooks,1,137
+accounting-software-for-small-business,q22-anthropic-r2,q22,best-of,anthropic,claude-haiku-5-5,2,Xero,2,744
+accounting-software-for-small-business,q22-anthropic-r2,q22,best-of,anthropic,claude-haiku-5-5,2,Zoho Books,3,1114
+accounting-software-for-small-business,q22-anthropic-r2,q22,best-of,anthropic,claude-haiku-5-5,2,Wave,4,1495
+accounting-software-for-small-business,q22-anthropic-r2,q22,best-of,anthropic,claude-haiku-5-5,2,FreshBooks,5,1863
+accounting-software-for-small-business,q23-openai-r1,q23,recommendation,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,67
+accounting-software-for-small-business,q23-openai-r1,q23,recommendation,openai,gpt-5-mini-2025-08-07,1,Xero,2,161
+accounting-software-for-small-business,q23-openai-r1,q23,recommendation,openai,gpt-5-mini-2025-08-07,1,FreshBooks,3,167
+accounting-software-for-small-business,q23-openai-r1,q23,recommendation,openai,gpt-5-mini-2025-08-07,1,Wave,4,179
+accounting-software-for-small-business,q23-openai-r1,q23,recommendation,openai,gpt-5-mini-2025-08-07,1,Zoho Books,5,196
+accounting-software-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,48
+accounting-software-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,Xero,2,67
+accounting-software-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,FreshBooks,3,126
+accounting-software-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,Wave,4,175
+accounting-software-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho Books,5,1617
+accounting-software-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,Sage Intacct,5,1723
+accounting-software-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,NetSuite,5,1736
+accounting-software-for-small-business,q23-anthropic-r1,q23,recommendation,anthropic,claude-haiku-5-5,1,QuickBooks,1,26
+accounting-software-for-small-business,q23-anthropic-r1,q23,recommendation,anthropic,claude-haiku-5-5,1,Xero,2,60
+accounting-software-for-small-business,q23-anthropic-r1,q23,recommendation,anthropic,claude-haiku-5-5,1,Wave,3,820
+accounting-software-for-small-business,q23-anthropic-r1,q23,recommendation,anthropic,claude-haiku-5-5,1,Zoho Books,4,1037
+accounting-software-for-small-business,q23-anthropic-r1,q23,recommendation,anthropic,claude-haiku-5-5,1,FreshBooks,5,1191
+accounting-software-for-small-business,q23-anthropic-r1,q23,recommendation,anthropic,claude-haiku-5-5,1,Sage,6,1310
+accounting-software-for-small-business,q23-anthropic-r2,q23,recommendation,anthropic,claude-haiku-5-5,2,QuickBooks,1,24
+accounting-software-for-small-business,q23-anthropic-r2,q23,recommendation,anthropic,claude-haiku-5-5,2,Xero,2,82
+accounting-software-for-small-business,q23-anthropic-r2,q23,recommendation,anthropic,claude-haiku-5-5,2,Zoho Books,3,651
+accounting-software-for-small-business,q23-anthropic-r2,q23,recommendation,anthropic,claude-haiku-5-5,2,Wave,4,767
+accounting-software-for-small-business,q23-anthropic-r2,q23,recommendation,anthropic,claude-haiku-5-5,2,FreshBooks,5,963
+accounting-software-for-small-business,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,QuickBooks,1,83
+accounting-software-for-small-business,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,Xero,2,377
+accounting-software-for-small-business,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho Books,3,703
+accounting-software-for-small-business,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,FreshBooks,4,959
+accounting-software-for-small-business,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,Wave,5,1265
+accounting-software-for-small-business,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,Sage Intacct,6,1575
+accounting-software-for-small-business,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,NetSuite,6,1597
+accounting-software-for-small-business,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,Acumatica,6,1610
+accounting-software-for-small-business,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,QuickBooks,1,409
+accounting-software-for-small-business,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,Xero,2,779
+accounting-software-for-small-business,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho Books,3,1087
+accounting-software-for-small-business,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,FreshBooks,4,1381
+accounting-software-for-small-business,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,Wave,5,1734
+accounting-software-for-small-business,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,Sage Intacct,6,1998
+accounting-software-for-small-business,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,NetSuite,6,2013
+accounting-software-for-small-business,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,QuickBooks,2,45
+accounting-software-for-small-business,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,Xero,1,66
+accounting-software-for-small-business,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,Wave,3,1151
+accounting-software-for-small-business,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,Sage Intacct,4,1259
+accounting-software-for-small-business,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,A2X,,1598
+accounting-software-for-small-business,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Xero,1,47
+accounting-software-for-small-business,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,QuickBooks,2,97
+accounting-software-for-small-business,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Square,2,708
+accounting-software-for-small-business,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Wave,3,720
+accounting-software-for-small-business,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Zoho Books,4,818
+accounting-software-for-small-business,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Sage Intacct,5,988
+accounting-software-for-small-business,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Sage,1,1355

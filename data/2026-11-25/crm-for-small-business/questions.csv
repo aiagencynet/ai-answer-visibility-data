@@ -1,0 +1,25 @@
+question_id,intent,question
+q01,best-of,best CRM for small business
+q02,best-of,what is the best CRM software for a small business?
+q03,best-of,top 5 CRM tools for small businesses
+q04,recommendation,can you recommend a simple CRM for a small business?
+q05,recommendation,which CRM should a 10-person sales team use?
+q06,recommendation,what CRM do most small businesses use?
+q07,price,best free CRM for small business
+q08,price,most affordable CRM for a small team
+q09,use-case,best CRM for a startup
+q10,use-case,best CRM for a B2B sales team
+q11,use-case,best CRM for a service business
+q12,use-case,best CRM for consultants and agencies
+q13,use-case,best CRM for ecommerce businesses
+q14,use-case,best CRM for real estate agents
+q15,use-case,best CRM for managing a sales pipeline
+q16,criteria,easiest CRM to set up and use
+q17,criteria,CRM with the best customer support
+q18,criteria,best CRM that integrates with Gmail
+q19,criteria,best CRM with a good mobile app
+q20,criteria,best CRM with built-in email marketing
+q21,criteria,best CRM with sales automation for a small business
+q22,comparison,CRM software comparison for small businesses
+q23,recommendation,which CRM is best for a company that plans to grow to 50 users?
+q24,recommendation,"what should a small business look for in a CRM, and which ones fit?"

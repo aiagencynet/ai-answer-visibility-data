@@ -1,0 +1,711 @@
+category,answer_id,question_id,intent,engine,model,run,product,list_rank,first_char_offset
+help-desk-software,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Zendesk,1,481
+help-desk-software,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Freshdesk,2,680
+help-desk-software,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,ServiceNow,3,940
+help-desk-software,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,4,1162
+help-desk-software,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Intercom,5,1380
+help-desk-software,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Help Scout,6,1594
+help-desk-software,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Front,6,1607
+help-desk-software,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Salesforce Service Cloud,5,2547
+help-desk-software,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Freshdesk,1,566
+help-desk-software,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Zendesk,2,744
+help-desk-software,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Jira Service Management,3,927
+help-desk-software,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,ServiceNow,4,1128
+help-desk-software,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Intercom,5,1321
+help-desk-software,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,6,1488
+help-desk-software,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Help Scout,7,1650
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Freshdesk,1,216
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Zendesk,2,415
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,ManageEngine ServiceDesk Plus,2,513
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Zoho Desk,1,604
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Help Scout,2,796
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Freshservice,3,940
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Jira Service Management,3,989
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Spiceworks,4,1110
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,ServiceNow,5,1251
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Salesforce Service Cloud,5,1266
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Intercom,6,1436
+help-desk-software,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Hiver,1,1628
+help-desk-software,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Zendesk,1,274
+help-desk-software,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Freshdesk,2,476
+help-desk-software,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Zoho Desk,1,761
+help-desk-software,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Help Scout,2,913
+help-desk-software,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Spiceworks,3,1087
+help-desk-software,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Freshservice,1,1241
+help-desk-software,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,ManageEngine ServiceDesk Plus,1,1255
+help-desk-software,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Jira Service Management,1,1290
+help-desk-software,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,ServiceNow,1,1534
+help-desk-software,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Intercom,1,1809
+help-desk-software,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Freshdesk,1,404
+help-desk-software,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,2,759
+help-desk-software,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Help Scout,3,1093
+help-desk-software,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Zendesk,4,1435
+help-desk-software,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,HubSpot,5,1734
+help-desk-software,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,6,2019
+help-desk-software,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Freshservice,6,2045
+help-desk-software,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Intercom,1,2524
+help-desk-software,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Groove,1,2533
+help-desk-software,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Tidio,1,2540
+help-desk-software,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Freshdesk,1,181
+help-desk-software,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Help Scout,2,586
+help-desk-software,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,3,931
+help-desk-software,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Zendesk,4,1176
+help-desk-software,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Gorgias,5,1443
+help-desk-software,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Intercom,6,1762
+help-desk-software,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Jira Service Management,6,1791
+help-desk-software,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Salesforce Service Cloud,3,4020
+help-desk-software,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,HubSpot,3,4032
+help-desk-software,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Zoho Desk,1,44
+help-desk-software,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Help Scout,2,70
+help-desk-software,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Freshdesk,1,100
+help-desk-software,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Hiver,3,848
+help-desk-software,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Gorgias,5,1176
+help-desk-software,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,HubSpot,7,1474
+help-desk-software,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Zoho Desk,1,0
+help-desk-software,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Help Scout,2,11
+help-desk-software,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Freshdesk,3,27
+help-desk-software,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Hiver,4,843
+help-desk-software,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Gorgias,5,969
+help-desk-software,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,HubSpot,6,1168
+help-desk-software,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Spiceworks,7,1267
+help-desk-software,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,Zendesk,1,270
+help-desk-software,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,Freshdesk,2,514
+help-desk-software,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,ServiceNow,3,750
+help-desk-software,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,Intercom,4,1106
+help-desk-software,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,5,1366
+help-desk-software,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Zendesk,1,158
+help-desk-software,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Freshdesk,2,652
+help-desk-software,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,ServiceNow,7,1023
+help-desk-software,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Intercom,3,1223
+help-desk-software,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,4,1813
+help-desk-software,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Help Scout,5,2292
+help-desk-software,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Salesforce Service Cloud,1,2981
+help-desk-software,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Zendesk,1,76
+help-desk-software,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Freshdesk,2,338
+help-desk-software,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Zoho Desk,3,651
+help-desk-software,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Help Scout,4,803
+help-desk-software,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,HubSpot,5,964
+help-desk-software,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Intercom,,1122
+help-desk-software,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Front,,1187
+help-desk-software,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,HubSpot,5,145
+help-desk-software,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Zendesk,1,181
+help-desk-software,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Freshdesk,2,554
+help-desk-software,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Zoho Desk,3,835
+help-desk-software,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Help Scout,4,995
+help-desk-software,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Intercom,,1402
+help-desk-software,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Front,,1475
+help-desk-software,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Gorgias,,1515
+help-desk-software,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Help Scout,1,453
+help-desk-software,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Freshdesk,2,869
+help-desk-software,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,3,1370
+help-desk-software,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Front,4,1706
+help-desk-software,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Hiver,5,2069
+help-desk-software,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,osTicket,6,2381
+help-desk-software,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Zammad,6,2393
+help-desk-software,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Help Scout,1,402
+help-desk-software,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Freshdesk,2,682
+help-desk-software,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,3,1019
+help-desk-software,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Zendesk,4,1260
+help-desk-software,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Intercom,5,1597
+help-desk-software,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Help Scout,,163
+help-desk-software,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Zoho Desk,,453
+help-desk-software,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Freshdesk,,803
+help-desk-software,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Zendesk,,1182
+help-desk-software,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Hiver,,1407
+help-desk-software,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,HubSpot,,1447
+help-desk-software,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Help Scout,1,47
+help-desk-software,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Freshdesk,2,109
+help-desk-software,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Zoho Desk,3,873
+help-desk-software,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Zendesk,3,163
+help-desk-software,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Freshdesk,1,172
+help-desk-software,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,1,196
+help-desk-software,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Help Scout,1,207
+help-desk-software,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,HubSpot,3,219
+help-desk-software,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Intercom,3,240
+help-desk-software,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Gorgias,4,271
+help-desk-software,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,Salesforce Service Cloud,,1952
+help-desk-software,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Zendesk,1,179
+help-desk-software,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Freshdesk,2,188
+help-desk-software,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,3,199
+help-desk-software,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Help Scout,4,210
+help-desk-software,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,HubSpot,5,222
+help-desk-software,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Intercom,6,247
+help-desk-software,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Gorgias,6,284
+help-desk-software,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Jira Service Management,,307
+help-desk-software,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Zoho Desk,1,148
+help-desk-software,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Freshdesk,2,159
+help-desk-software,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Help Scout,3,174
+help-desk-software,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Zendesk,4,226
+help-desk-software,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Gorgias,,1002
+help-desk-software,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Tidio,,1054
+help-desk-software,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Spiceworks,,1118
+help-desk-software,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Zoho Desk,1,127
+help-desk-software,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Freshdesk,2,138
+help-desk-software,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Help Scout,3,153
+help-desk-software,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Zendesk,4,910
+help-desk-software,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Gorgias,1,1076
+help-desk-software,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Tidio,2,1140
+help-desk-software,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,HubSpot,3,1205
+help-desk-software,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Freshservice,4,1285
+help-desk-software,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Spiceworks,4,1299
+help-desk-software,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Atera,4,1315
+help-desk-software,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,122
+help-desk-software,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,2,393
+help-desk-software,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,3,710
+help-desk-software,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,osTicket,4,944
+help-desk-software,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,Zammad,5,1169
+help-desk-software,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,Spiceworks,6,1359
+help-desk-software,q06-openai-r1,q06,price,openai,gpt-5-mini-2025-08-07,1,Freshdesk,7,1634
+help-desk-software,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,1,388
+help-desk-software,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,Jira Service Management,2,681
+help-desk-software,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,HubSpot,3,920
+help-desk-software,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,Help Scout,4,1145
+help-desk-software,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,Freshdesk,5,1396
+help-desk-software,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,Zammad,1,1716
+help-desk-software,q06-openai-r2,q06,price,openai,gpt-5-mini-2025-08-07,2,osTicket,3,2139
+help-desk-software,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,Zoho Desk,1,106
+help-desk-software,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,Help Scout,1,279
+help-desk-software,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,HubSpot,1,296
+help-desk-software,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,Spiceworks,3,796
+help-desk-software,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,osTicket,4,1218
+help-desk-software,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,Zammad,4,1231
+help-desk-software,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,Freshdesk,,1733
+help-desk-software,q06-anthropic-r1,q06,price,anthropic,claude-haiku-5-5,1,Hiver,,1887
+help-desk-software,q06-anthropic-r2,q06,price,anthropic,claude-haiku-5-5,2,Zoho Desk,1,39
+help-desk-software,q06-anthropic-r2,q06,price,anthropic,claude-haiku-5-5,2,Spiceworks,2,74
+help-desk-software,q06-anthropic-r2,q06,price,anthropic,claude-haiku-5-5,2,Help Scout,3,815
+help-desk-software,q06-anthropic-r2,q06,price,anthropic,claude-haiku-5-5,2,osTicket,4,1164
+help-desk-software,q06-anthropic-r2,q06,price,anthropic,claude-haiku-5-5,2,Zammad,4,1200
+help-desk-software,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,1,91
+help-desk-software,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,LiveAgent,2,335
+help-desk-software,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Freshdesk,3,661
+help-desk-software,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Zendesk,3,683
+help-desk-software,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,osTicket,1,1033
+help-desk-software,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Zammad,1,1043
+help-desk-software,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,1,48
+help-desk-software,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,osTicket,6,189
+help-desk-software,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,LiveAgent,2,293
+help-desk-software,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Freshdesk,3,337
+help-desk-software,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Help Scout,4,385
+help-desk-software,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Zammad,5,1537
+help-desk-software,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Zoho Desk,1,16
+help-desk-software,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,HubSpot,2,538
+help-desk-software,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Freshdesk,3,703
+help-desk-software,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Zendesk,4,979
+help-desk-software,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Help Scout,5,1111
+help-desk-software,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Help Scout,1,32
+help-desk-software,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Zoho Desk,2,119
+help-desk-software,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Freshdesk,3,1134
+help-desk-software,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Zendesk,4,1439
+help-desk-software,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,Gorgias,1,412
+help-desk-software,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,eDesk,2,816
+help-desk-software,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,Zendesk,3,1129
+help-desk-software,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,Freshdesk,4,1423
+help-desk-software,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,Re:amaze,5,1753
+help-desk-software,q08-openai-r1,q08,use-case,openai,gpt-5-mini-2025-08-07,1,Help Scout,6,1971
+help-desk-software,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,Gorgias,1,499
+help-desk-software,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,Zendesk,2,800
+help-desk-software,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,Freshdesk,3,1087
+help-desk-software,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,eDesk,4,1314
+help-desk-software,q08-openai-r2,q08,use-case,openai,gpt-5-mini-2025-08-07,2,Richpanel,5,1588
+help-desk-software,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Gorgias,1,43
+help-desk-software,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,eDesk,2,126
+help-desk-software,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Freshdesk,4,181
+help-desk-software,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Help Scout,4,192
+help-desk-software,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Zoho Desk,4,207
+help-desk-software,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Zendesk,1,498
+help-desk-software,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Re:amaze,5,1276
+help-desk-software,q08-anthropic-r1,q08,use-case,anthropic,claude-haiku-5-5,1,Tidio,5,1288
+help-desk-software,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,Gorgias,1,83
+help-desk-software,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,eDesk,2,615
+help-desk-software,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,Freshdesk,3,834
+help-desk-software,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,Zoho Desk,3,847
+help-desk-software,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,Help Scout,4,1194
+help-desk-software,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,Re:amaze,5,1352
+help-desk-software,q08-anthropic-r2,q08,use-case,anthropic,claude-haiku-5-5,2,Zendesk,6,1524
+help-desk-software,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Intercom,1,81
+help-desk-software,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Zendesk,2,257
+help-desk-software,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Freshdesk,3,541
+help-desk-software,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Help Scout,4,758
+help-desk-software,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Front,5,976
+help-desk-software,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,HubSpot,6,1208
+help-desk-software,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Intercom,1,339
+help-desk-software,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Zendesk,2,627
+help-desk-software,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Freshdesk,3,928
+help-desk-software,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Help Scout,4,1213
+help-desk-software,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Front,5,1499
+help-desk-software,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,1866
+help-desk-software,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,2,2080
+help-desk-software,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Jira Service Management,3,2272
+help-desk-software,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Salesforce Service Cloud,3,3652
+help-desk-software,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Zendesk,1,246
+help-desk-software,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Intercom,2,559
+help-desk-software,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Help Scout,3,892
+help-desk-software,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Zoho Desk,4,1126
+help-desk-software,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Freshdesk,4,1140
+help-desk-software,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,HubSpot,5,1322
+help-desk-software,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Pylon,6,1548
+help-desk-software,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Plain,6,1714
+help-desk-software,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Intercom,1,143
+help-desk-software,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Zendesk,2,403
+help-desk-software,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Help Scout,3,829
+help-desk-software,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Freshdesk,4,1052
+help-desk-software,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Zoho Desk,4,1070
+help-desk-software,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,HubSpot,5,1261
+help-desk-software,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Pylon,6,1451
+help-desk-software,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Plain,6,1465
+help-desk-software,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Freshservice,1,268
+help-desk-software,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,2,600
+help-desk-software,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,ManageEngine ServiceDesk Plus,3,998
+help-desk-software,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,4,1366
+help-desk-software,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Atera,5,1665
+help-desk-software,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Spiceworks,6,1983
+help-desk-software,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,osTicket,7,2275
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Freshdesk,1,355
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Zendesk,2,597
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,3,849
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Help Scout,4,1046
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Jira Service Management,5,1300
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,ManageEngine ServiceDesk Plus,6,1504
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,SolarWinds Service Desk,6,1536
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Spiceworks,7,1742
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,osTicket,7,1755
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Gorgias,4,2872
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Intercom,4,2901
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,HubSpot,3,3509
+help-desk-software,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Salesforce Service Cloud,3,3517
+help-desk-software,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Freshservice,1,105
+help-desk-software,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,ManageEngine ServiceDesk Plus,2,119
+help-desk-software,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Spiceworks,3,150
+help-desk-software,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Jira Service Management,4,166
+help-desk-software,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Zoho Desk,1,219
+help-desk-software,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Help Scout,2,232
+help-desk-software,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Motadata ServiceOps,5,1130
+help-desk-software,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Atera,6,1338
+help-desk-software,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Freshservice,1,216
+help-desk-software,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Halo ITSM,1,513
+help-desk-software,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Spiceworks,2,630
+help-desk-software,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,ManageEngine ServiceDesk Plus,3,870
+help-desk-software,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Motadata ServiceOps,4,1029
+help-desk-software,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Atera,5,1152
+help-desk-software,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Zoho Desk,1,1381
+help-desk-software,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Help Scout,2,1529
+help-desk-software,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Freshdesk,3,1660
+help-desk-software,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Salesforce Service Cloud,2,337
+help-desk-software,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Front,1,462
+help-desk-software,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Help Scout,2,926
+help-desk-software,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Zendesk,3,1410
+help-desk-software,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Gorgias,4,1872
+help-desk-software,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Hiver,5,2314
+help-desk-software,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Freshdesk,6,2742
+help-desk-software,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Missive,7,3187
+help-desk-software,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Front,1,100
+help-desk-software,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Help Scout,2,161
+help-desk-software,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Hiver,3,200
+help-desk-software,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Freshdesk,4,260
+help-desk-software,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Zendesk,4,273
+help-desk-software,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Gorgias,5,363
+help-desk-software,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Missive,6,1871
+help-desk-software,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Help Scout,1,83
+help-desk-software,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Front,2,541
+help-desk-software,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Hiver,3,885
+help-desk-software,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Missive,4,1013
+help-desk-software,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Zendesk,5,1177
+help-desk-software,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Freshdesk,5,1188
+help-desk-software,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Help Scout,1,125
+help-desk-software,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Front,1,144
+help-desk-software,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Missive,1,544
+help-desk-software,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Zendesk,2,824
+help-desk-software,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Hiver,3,889
+help-desk-software,q12-openai-r1,q12,criteria,openai,gpt-5-mini-2025-08-07,1,Intercom,1,347
+help-desk-software,q12-openai-r1,q12,criteria,openai,gpt-5-mini-2025-08-07,1,Zendesk,2,684
+help-desk-software,q12-openai-r1,q12,criteria,openai,gpt-5-mini-2025-08-07,1,Freshdesk,3,963
+help-desk-software,q12-openai-r1,q12,criteria,openai,gpt-5-mini-2025-08-07,1,Tidio,4,1297
+help-desk-software,q12-openai-r1,q12,criteria,openai,gpt-5-mini-2025-08-07,1,Help Scout,5,1558
+help-desk-software,q12-openai-r1,q12,criteria,openai,gpt-5-mini-2025-08-07,1,LiveAgent,6,1911
+help-desk-software,q12-openai-r1,q12,criteria,openai,gpt-5-mini-2025-08-07,1,HubSpot,7,2201
+help-desk-software,q12-openai-r1,q12,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,8,2435
+help-desk-software,q12-openai-r2,q12,criteria,openai,gpt-5-mini-2025-08-07,2,Intercom,1,430
+help-desk-software,q12-openai-r2,q12,criteria,openai,gpt-5-mini-2025-08-07,2,Zendesk,2,679
+help-desk-software,q12-openai-r2,q12,criteria,openai,gpt-5-mini-2025-08-07,2,Freshdesk,3,885
+help-desk-software,q12-openai-r2,q12,criteria,openai,gpt-5-mini-2025-08-07,2,Help Scout,4,1075
+help-desk-software,q12-openai-r2,q12,criteria,openai,gpt-5-mini-2025-08-07,2,Gorgias,5,1303
+help-desk-software,q12-openai-r2,q12,criteria,openai,gpt-5-mini-2025-08-07,2,Tidio,6,1499
+help-desk-software,q12-anthropic-r1,q12,criteria,anthropic,claude-haiku-5-5,1,Help Scout,1,156
+help-desk-software,q12-anthropic-r1,q12,criteria,anthropic,claude-haiku-5-5,1,Zendesk,2,428
+help-desk-software,q12-anthropic-r1,q12,criteria,anthropic,claude-haiku-5-5,1,Intercom,3,665
+help-desk-software,q12-anthropic-r1,q12,criteria,anthropic,claude-haiku-5-5,1,Freshdesk,4,882
+help-desk-software,q12-anthropic-r1,q12,criteria,anthropic,claude-haiku-5-5,1,Zoho Desk,5,1060
+help-desk-software,q12-anthropic-r1,q12,criteria,anthropic,claude-haiku-5-5,1,LiveAgent,6,1249
+help-desk-software,q12-anthropic-r1,q12,criteria,anthropic,claude-haiku-5-5,1,HubSpot,7,1448
+help-desk-software,q12-anthropic-r2,q12,criteria,anthropic,claude-haiku-5-5,2,Help Scout,,186
+help-desk-software,q12-anthropic-r2,q12,criteria,anthropic,claude-haiku-5-5,2,Zendesk,,523
+help-desk-software,q12-anthropic-r2,q12,criteria,anthropic,claude-haiku-5-5,2,Intercom,,793
+help-desk-software,q12-anthropic-r2,q12,criteria,anthropic,claude-haiku-5-5,2,Freshdesk,,1020
+help-desk-software,q12-anthropic-r2,q12,criteria,anthropic,claude-haiku-5-5,2,Zoho Desk,,1033
+help-desk-software,q12-anthropic-r2,q12,criteria,anthropic,claude-haiku-5-5,2,LiveAgent,,1352
+help-desk-software,q12-anthropic-r2,q12,criteria,anthropic,claude-haiku-5-5,2,HubSpot,,1628
+help-desk-software,q13-openai-r1,q13,criteria,openai,gpt-5-mini-2025-08-07,1,Salesforce Service Cloud,,350
+help-desk-software,q13-openai-r1,q13,criteria,openai,gpt-5-mini-2025-08-07,1,Zendesk,,362
+help-desk-software,q13-openai-r2,q13,criteria,openai,gpt-5-mini-2025-08-07,2,Salesforce Service Cloud,1,128
+help-desk-software,q13-openai-r2,q13,criteria,openai,gpt-5-mini-2025-08-07,2,Zendesk,3,802
+help-desk-software,q13-openai-r2,q13,criteria,openai,gpt-5-mini-2025-08-07,2,Intercom,4,1039
+help-desk-software,q13-openai-r2,q13,criteria,openai,gpt-5-mini-2025-08-07,2,Freshdesk,5,1319
+help-desk-software,q13-openai-r2,q13,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,7,1892
+help-desk-software,q13-openai-r2,q13,criteria,openai,gpt-5-mini-2025-08-07,2,ServiceNow,,2507
+help-desk-software,q13-openai-r2,q13,criteria,openai,gpt-5-mini-2025-08-07,2,HubSpot,2,4769
+help-desk-software,q13-anthropic-r1,q13,criteria,anthropic,claude-haiku-5-5,1,Intercom,1,285
+help-desk-software,q13-anthropic-r1,q13,criteria,anthropic,claude-haiku-5-5,1,Zendesk,2,696
+help-desk-software,q13-anthropic-r1,q13,criteria,anthropic,claude-haiku-5-5,1,Salesforce Service Cloud,3,913
+help-desk-software,q13-anthropic-r1,q13,criteria,anthropic,claude-haiku-5-5,1,HubSpot,4,1130
+help-desk-software,q13-anthropic-r1,q13,criteria,anthropic,claude-haiku-5-5,1,Freshdesk,5,1297
+help-desk-software,q13-anthropic-r1,q13,criteria,anthropic,claude-haiku-5-5,1,Zoho Desk,5,1413
+help-desk-software,q13-anthropic-r1,q13,criteria,anthropic,claude-haiku-5-5,1,Helpshift,8,1793
+help-desk-software,q13-anthropic-r2,q13,criteria,anthropic,claude-haiku-5-5,2,Intercom,1,166
+help-desk-software,q13-anthropic-r2,q13,criteria,anthropic,claude-haiku-5-5,2,Zendesk,2,561
+help-desk-software,q13-anthropic-r2,q13,criteria,anthropic,claude-haiku-5-5,2,Salesforce Service Cloud,3,933
+help-desk-software,q13-anthropic-r2,q13,criteria,anthropic,claude-haiku-5-5,2,Freshdesk,4,1288
+help-desk-software,q13-anthropic-r2,q13,criteria,anthropic,claude-haiku-5-5,2,HubSpot,5,1496
+help-desk-software,q13-anthropic-r2,q13,criteria,anthropic,claude-haiku-5-5,2,Helpshift,6,1663
+help-desk-software,q13-anthropic-r2,q13,criteria,anthropic,claude-haiku-5-5,2,Gladly,8,1995
+help-desk-software,q13-anthropic-r2,q13,criteria,anthropic,claude-haiku-5-5,2,Kustomer,8,2010
+help-desk-software,q14-openai-r1,q14,criteria,openai,gpt-5-mini-2025-08-07,1,Freshdesk,1,71
+help-desk-software,q14-openai-r1,q14,criteria,openai,gpt-5-mini-2025-08-07,1,Help Scout,2,82
+help-desk-software,q14-openai-r1,q14,criteria,openai,gpt-5-mini-2025-08-07,1,Groove,3,94
+help-desk-software,q14-openai-r1,q14,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,4,102
+help-desk-software,q14-openai-r1,q14,criteria,openai,gpt-5-mini-2025-08-07,1,Zendesk,5,148
+help-desk-software,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,Help Scout,1,127
+help-desk-software,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,Freshdesk,2,399
+help-desk-software,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,3,606
+help-desk-software,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,HubSpot,4,786
+help-desk-software,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,Zendesk,5,975
+help-desk-software,q14-openai-r2,q14,criteria,openai,gpt-5-mini-2025-08-07,2,Salesforce Service Cloud,4,1869
+help-desk-software,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,Help Scout,1,128
+help-desk-software,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,Freshdesk,2,326
+help-desk-software,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,Zoho Desk,3,486
+help-desk-software,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,Spiceworks,4,666
+help-desk-software,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,Freshservice,,897
+help-desk-software,q14-anthropic-r1,q14,criteria,anthropic,claude-haiku-5-5,1,osTicket,,1070
+help-desk-software,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,Help Scout,1,86
+help-desk-software,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,Freshdesk,2,288
+help-desk-software,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,Zoho Desk,3,443
+help-desk-software,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,Spiceworks,4,611
+help-desk-software,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,Freshservice,5,751
+help-desk-software,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,Zendesk,,913
+help-desk-software,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,osTicket,,1061
+help-desk-software,q14-anthropic-r2,q14,criteria,anthropic,claude-haiku-5-5,2,HubSpot,,1154
+help-desk-software,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,Zendesk,1,681
+help-desk-software,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,Freshdesk,2,1134
+help-desk-software,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,ServiceNow,3,1522
+help-desk-software,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,4,1915
+help-desk-software,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,5,2352
+help-desk-software,q15-openai-r1,q15,criteria,openai,gpt-5-mini-2025-08-07,1,Help Scout,6,2695
+help-desk-software,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,Zendesk,1,237
+help-desk-software,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,ServiceNow,2,573
+help-desk-software,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,Freshdesk,3,877
+help-desk-software,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,Freshservice,3,889
+help-desk-software,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,Salesforce Service Cloud,4,1190
+help-desk-software,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,5,1536
+help-desk-software,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,Help Scout,3,2425
+help-desk-software,q15-openai-r2,q15,criteria,openai,gpt-5-mini-2025-08-07,2,ManageEngine ServiceDesk Plus,4,2617
+help-desk-software,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,Zendesk,1,198
+help-desk-software,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,Zoho Desk,2,533
+help-desk-software,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,Freshdesk,3,817
+help-desk-software,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,Jira Service Management,4,1059
+help-desk-software,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,SolarWinds Service Desk,5,1237
+help-desk-software,q15-anthropic-r1,q15,criteria,anthropic,claude-haiku-5-5,1,eDesk,6,1439
+help-desk-software,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,Zendesk,,70
+help-desk-software,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,Zoho Desk,,83
+help-desk-software,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,Freshdesk,,102
+help-desk-software,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,Jira Service Management,1,1146
+help-desk-software,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,SolarWinds Service Desk,2,1265
+help-desk-software,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,SysAid,3,1415
+help-desk-software,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,eDesk,,1533
+help-desk-software,q15-anthropic-r2,q15,criteria,anthropic,claude-haiku-5-5,2,Intercom,,1678
+help-desk-software,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Zendesk,1,105
+help-desk-software,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Freshdesk,2,114
+help-desk-software,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Intercom,3,138
+help-desk-software,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Help Scout,4,148
+help-desk-software,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,5,160
+help-desk-software,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,HubSpot,6,203
+help-desk-software,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Gorgias,7,228
+help-desk-software,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Salesforce Service Cloud,4,2992
+help-desk-software,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Zendesk,1,165
+help-desk-software,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Freshdesk,2,544
+help-desk-software,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Help Scout,3,833
+help-desk-software,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Jira Service Management,4,1117
+help-desk-software,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Intercom,5,1509
+help-desk-software,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,6,1801
+help-desk-software,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Document360,,2192
+help-desk-software,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Helpjuice,,2215
+help-desk-software,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,ServiceNow,1,2501
+help-desk-software,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Zendesk,1,246
+help-desk-software,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Freshdesk,2,441
+help-desk-software,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Help Scout,3,675
+help-desk-software,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Zoho Desk,1,938
+help-desk-software,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,HESK,2,1135
+help-desk-software,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Salesforce Service Cloud,1,1294
+help-desk-software,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Freshservice,2,1418
+help-desk-software,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Document360,1,1647
+help-desk-software,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Intercom,1,1788
+help-desk-software,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Helpjuice,2,1802
+help-desk-software,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Help Scout,1,214
+help-desk-software,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Freshdesk,2,572
+help-desk-software,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Zendesk,3,802
+help-desk-software,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Zoho Desk,1,1080
+help-desk-software,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,LiveAgent,2,1206
+help-desk-software,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Freshservice,1,1355
+help-desk-software,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Document360,1,1614
+help-desk-software,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Intercom,1,1751
+help-desk-software,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Helpjuice,2,1765
+help-desk-software,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,HESK,1,1844
+help-desk-software,q17-openai-r1,q17,comparison,openai,gpt-5-mini-2025-08-07,1,HubSpot,5,410
+help-desk-software,q17-openai-r1,q17,comparison,openai,gpt-5-mini-2025-08-07,1,Help Scout,1,566
+help-desk-software,q17-openai-r1,q17,comparison,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,2,757
+help-desk-software,q17-openai-r1,q17,comparison,openai,gpt-5-mini-2025-08-07,1,Freshdesk,3,932
+help-desk-software,q17-openai-r1,q17,comparison,openai,gpt-5-mini-2025-08-07,1,Gorgias,4,1122
+help-desk-software,q17-openai-r1,q17,comparison,openai,gpt-5-mini-2025-08-07,1,Intercom,6,1539
+help-desk-software,q17-openai-r1,q17,comparison,openai,gpt-5-mini-2025-08-07,1,Groove,7,1728
+help-desk-software,q17-openai-r1,q17,comparison,openai,gpt-5-mini-2025-08-07,1,Zendesk,4,3153
+help-desk-software,q17-openai-r2,q17,comparison,openai,gpt-5-mini-2025-08-07,2,Help Scout,1,294
+help-desk-software,q17-openai-r2,q17,comparison,openai,gpt-5-mini-2025-08-07,2,Freshdesk,2,526
+help-desk-software,q17-openai-r2,q17,comparison,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,3,829
+help-desk-software,q17-openai-r2,q17,comparison,openai,gpt-5-mini-2025-08-07,2,Zendesk,4,1085
+help-desk-software,q17-openai-r2,q17,comparison,openai,gpt-5-mini-2025-08-07,2,HubSpot,5,1304
+help-desk-software,q17-openai-r2,q17,comparison,openai,gpt-5-mini-2025-08-07,2,Intercom,6,1602
+help-desk-software,q17-openai-r2,q17,comparison,openai,gpt-5-mini-2025-08-07,2,Gorgias,6,1613
+help-desk-software,q17-openai-r2,q17,comparison,openai,gpt-5-mini-2025-08-07,2,Groove,1,4081
+help-desk-software,q17-anthropic-r1,q17,comparison,anthropic,claude-haiku-5-5,1,Zoho Desk,1,202
+help-desk-software,q17-anthropic-r1,q17,comparison,anthropic,claude-haiku-5-5,1,Help Scout,2,388
+help-desk-software,q17-anthropic-r1,q17,comparison,anthropic,claude-haiku-5-5,1,Hiver,3,550
+help-desk-software,q17-anthropic-r1,q17,comparison,anthropic,claude-haiku-5-5,1,Missive,3,657
+help-desk-software,q17-anthropic-r1,q17,comparison,anthropic,claude-haiku-5-5,1,Freshdesk,4,788
+help-desk-software,q17-anthropic-r1,q17,comparison,anthropic,claude-haiku-5-5,1,Zendesk,4,801
+help-desk-software,q17-anthropic-r1,q17,comparison,anthropic,claude-haiku-5-5,1,Gorgias,5,1071
+help-desk-software,q17-anthropic-r1,q17,comparison,anthropic,claude-haiku-5-5,1,HubSpot,6,1275
+help-desk-software,q17-anthropic-r1,q17,comparison,anthropic,claude-haiku-5-5,1,Spiceworks,7,1407
+help-desk-software,q17-anthropic-r1,q17,comparison,anthropic,claude-haiku-5-5,1,Front,7,2456
+help-desk-software,q17-anthropic-r2,q17,comparison,anthropic,claude-haiku-5-5,2,Zoho Desk,1,206
+help-desk-software,q17-anthropic-r2,q17,comparison,anthropic,claude-haiku-5-5,2,Help Scout,2,422
+help-desk-software,q17-anthropic-r2,q17,comparison,anthropic,claude-haiku-5-5,2,Freshdesk,3,606
+help-desk-software,q17-anthropic-r2,q17,comparison,anthropic,claude-haiku-5-5,2,Zendesk,3,673
+help-desk-software,q17-anthropic-r2,q17,comparison,anthropic,claude-haiku-5-5,2,Hiver,1,839
+help-desk-software,q17-anthropic-r2,q17,comparison,anthropic,claude-haiku-5-5,2,Gorgias,2,982
+help-desk-software,q17-anthropic-r2,q17,comparison,anthropic,claude-haiku-5-5,2,HubSpot,3,1096
+help-desk-software,q17-anthropic-r2,q17,comparison,anthropic,claude-haiku-5-5,2,Tidio,4,1212
+help-desk-software,q17-anthropic-r2,q17,comparison,anthropic,claude-haiku-5-5,2,Intercom,2,1680
+help-desk-software,q17-anthropic-r2,q17,comparison,anthropic,claude-haiku-5-5,2,Front,2,2161
+help-desk-software,q18-openai-r1,q18,recommendation,openai,gpt-5-mini-2025-08-07,1,Freshdesk,1,82
+help-desk-software,q18-openai-r1,q18,recommendation,openai,gpt-5-mini-2025-08-07,1,Zendesk,2,327
+help-desk-software,q18-openai-r1,q18,recommendation,openai,gpt-5-mini-2025-08-07,1,Intercom,3,586
+help-desk-software,q18-openai-r1,q18,recommendation,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,4,793
+help-desk-software,q18-openai-r1,q18,recommendation,openai,gpt-5-mini-2025-08-07,1,Help Scout,5,1016
+help-desk-software,q18-openai-r2,q18,recommendation,openai,gpt-5-mini-2025-08-07,2,Freshdesk,1,324
+help-desk-software,q18-openai-r2,q18,recommendation,openai,gpt-5-mini-2025-08-07,2,Zendesk,2,535
+help-desk-software,q18-openai-r2,q18,recommendation,openai,gpt-5-mini-2025-08-07,2,Help Scout,3,759
+help-desk-software,q18-openai-r2,q18,recommendation,openai,gpt-5-mini-2025-08-07,2,Jira Service Management,4,951
+help-desk-software,q18-openai-r2,q18,recommendation,openai,gpt-5-mini-2025-08-07,2,Front,5,1209
+help-desk-software,q18-openai-r2,q18,recommendation,openai,gpt-5-mini-2025-08-07,2,Gorgias,6,1475
+help-desk-software,q18-openai-r2,q18,recommendation,openai,gpt-5-mini-2025-08-07,2,Zammad,7,1669
+help-desk-software,q18-anthropic-r1,q18,recommendation,anthropic,claude-haiku-5-5,1,Freshdesk,1,79
+help-desk-software,q18-anthropic-r1,q18,recommendation,anthropic,claude-haiku-5-5,1,Help Scout,2,116
+help-desk-software,q18-anthropic-r1,q18,recommendation,anthropic,claude-haiku-5-5,1,Zendesk,1,188
+help-desk-software,q18-anthropic-r1,q18,recommendation,anthropic,claude-haiku-5-5,1,Zoho Desk,4,1043
+help-desk-software,q18-anthropic-r1,q18,recommendation,anthropic,claude-haiku-5-5,1,HubSpot,5,1171
+help-desk-software,q18-anthropic-r1,q18,recommendation,anthropic,claude-haiku-5-5,1,Jira Service Management,6,1263
+help-desk-software,q18-anthropic-r2,q18,recommendation,anthropic,claude-haiku-5-5,2,Freshdesk,1,52
+help-desk-software,q18-anthropic-r2,q18,recommendation,anthropic,claude-haiku-5-5,2,Help Scout,2,89
+help-desk-software,q18-anthropic-r2,q18,recommendation,anthropic,claude-haiku-5-5,2,Zendesk,1,162
+help-desk-software,q18-anthropic-r2,q18,recommendation,anthropic,claude-haiku-5-5,2,Zoho Desk,4,1338
+help-desk-software,q18-anthropic-r2,q18,recommendation,anthropic,claude-haiku-5-5,2,Gorgias,3,1974
+help-desk-software,q18-anthropic-r2,q18,recommendation,anthropic,claude-haiku-5-5,2,Jira Service Management,4,2080
+help-desk-software,q18-anthropic-r2,q18,recommendation,anthropic,claude-haiku-5-5,2,HubSpot,,2241
+help-desk-software,q18-anthropic-r2,q18,recommendation,anthropic,claude-haiku-5-5,2,Salesforce Service Cloud,,2252
+help-desk-software,q19-openai-r1,q19,use-case,openai,gpt-5-mini-2025-08-07,1,Salesforce Service Cloud,3,321
+help-desk-software,q19-openai-r1,q19,use-case,openai,gpt-5-mini-2025-08-07,1,HubSpot,3,333
+help-desk-software,q19-openai-r1,q19,use-case,openai,gpt-5-mini-2025-08-07,1,Zendesk,1,714
+help-desk-software,q19-openai-r1,q19,use-case,openai,gpt-5-mini-2025-08-07,1,Intercom,2,1114
+help-desk-software,q19-openai-r1,q19,use-case,openai,gpt-5-mini-2025-08-07,1,Freshdesk,3,1487
+help-desk-software,q19-openai-r1,q19,use-case,openai,gpt-5-mini-2025-08-07,1,ServiceNow,4,1802
+help-desk-software,q19-openai-r1,q19,use-case,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,6,2678
+help-desk-software,q19-openai-r2,q19,use-case,openai,gpt-5-mini-2025-08-07,2,Zendesk,1,263
+help-desk-software,q19-openai-r2,q19,use-case,openai,gpt-5-mini-2025-08-07,2,Salesforce Service Cloud,2,434
+help-desk-software,q19-openai-r2,q19,use-case,openai,gpt-5-mini-2025-08-07,2,ServiceNow,3,674
+help-desk-software,q19-openai-r2,q19,use-case,openai,gpt-5-mini-2025-08-07,2,Plain,4,939
+help-desk-software,q19-openai-r2,q19,use-case,openai,gpt-5-mini-2025-08-07,2,Front,5,1150
+help-desk-software,q19-openai-r2,q19,use-case,openai,gpt-5-mini-2025-08-07,2,Help Scout,5,1159
+help-desk-software,q19-openai-r2,q19,use-case,openai,gpt-5-mini-2025-08-07,2,HubSpot,5,1243
+help-desk-software,q19-openai-r2,q19,use-case,openai,gpt-5-mini-2025-08-07,2,Freshdesk,6,1397
+help-desk-software,q19-openai-r2,q19,use-case,openai,gpt-5-mini-2025-08-07,2,Intercom,3,3670
+help-desk-software,q19-anthropic-r1,q19,use-case,anthropic,claude-haiku-5-5,1,Zendesk,1,212
+help-desk-software,q19-anthropic-r1,q19,use-case,anthropic,claude-haiku-5-5,1,Intercom,2,495
+help-desk-software,q19-anthropic-r1,q19,use-case,anthropic,claude-haiku-5-5,1,Pylon,3,618
+help-desk-software,q19-anthropic-r1,q19,use-case,anthropic,claude-haiku-5-5,1,Plain,4,781
+help-desk-software,q19-anthropic-r1,q19,use-case,anthropic,claude-haiku-5-5,1,Front,5,931
+help-desk-software,q19-anthropic-r1,q19,use-case,anthropic,claude-haiku-5-5,1,HubSpot,6,1004
+help-desk-software,q19-anthropic-r1,q19,use-case,anthropic,claude-haiku-5-5,1,Help Scout,8,1354
+help-desk-software,q19-anthropic-r1,q19,use-case,anthropic,claude-haiku-5-5,1,Freshdesk,8,1366
+help-desk-software,q19-anthropic-r1,q19,use-case,anthropic,claude-haiku-5-5,1,Zoho Desk,8,1380
+help-desk-software,q19-anthropic-r1,q19,use-case,anthropic,claude-haiku-5-5,1,Salesforce Service Cloud,3,1990
+help-desk-software,q19-anthropic-r2,q19,use-case,anthropic,claude-haiku-5-5,2,Pylon,1,285
+help-desk-software,q19-anthropic-r2,q19,use-case,anthropic,claude-haiku-5-5,2,Front,1,1155
+help-desk-software,q19-anthropic-r2,q19,use-case,anthropic,claude-haiku-5-5,2,Hiver,2,1263
+help-desk-software,q19-anthropic-r2,q19,use-case,anthropic,claude-haiku-5-5,2,Help Scout,3,1439
+help-desk-software,q19-anthropic-r2,q19,use-case,anthropic,claude-haiku-5-5,2,Zendesk,1,1619
+help-desk-software,q19-anthropic-r2,q19,use-case,anthropic,claude-haiku-5-5,2,Salesforce Service Cloud,2,1818
+help-desk-software,q19-anthropic-r2,q19,use-case,anthropic,claude-haiku-5-5,2,HubSpot,2,1846
+help-desk-software,q19-anthropic-r2,q19,use-case,anthropic,claude-haiku-5-5,2,Zoho Desk,1,2046
+help-desk-software,q19-anthropic-r2,q19,use-case,anthropic,claude-haiku-5-5,2,Freshdesk,2,2198
+help-desk-software,q20-openai-r1,q20,recommendation,openai,gpt-5-mini-2025-08-07,1,Help Scout,1,274
+help-desk-software,q20-openai-r1,q20,recommendation,openai,gpt-5-mini-2025-08-07,1,Intercom,2,529
+help-desk-software,q20-openai-r1,q20,recommendation,openai,gpt-5-mini-2025-08-07,1,Gorgias,3,702
+help-desk-software,q20-openai-r1,q20,recommendation,openai,gpt-5-mini-2025-08-07,1,Freshdesk,4,930
+help-desk-software,q20-openai-r1,q20,recommendation,openai,gpt-5-mini-2025-08-07,1,Zoho Desk,4,943
+help-desk-software,q20-openai-r1,q20,recommendation,openai,gpt-5-mini-2025-08-07,1,Zendesk,5,1174
+help-desk-software,q20-openai-r1,q20,recommendation,openai,gpt-5-mini-2025-08-07,1,HubSpot,6,1382
+help-desk-software,q20-openai-r1,q20,recommendation,openai,gpt-5-mini-2025-08-07,1,Salesforce Service Cloud,3,1999
+help-desk-software,q20-openai-r2,q20,recommendation,openai,gpt-5-mini-2025-08-07,2,Help Scout,1,758
+help-desk-software,q20-openai-r2,q20,recommendation,openai,gpt-5-mini-2025-08-07,2,Freshdesk,1,772
+help-desk-software,q20-openai-r2,q20,recommendation,openai,gpt-5-mini-2025-08-07,2,Intercom,1,1219
+help-desk-software,q20-openai-r2,q20,recommendation,openai,gpt-5-mini-2025-08-07,2,Zendesk,1,1610
+help-desk-software,q20-openai-r2,q20,recommendation,openai,gpt-5-mini-2025-08-07,2,Gorgias,1,1994
+help-desk-software,q20-anthropic-r1,q20,recommendation,anthropic,claude-haiku-5-5,1,Help Scout,1,292
+help-desk-software,q20-anthropic-r1,q20,recommendation,anthropic,claude-haiku-5-5,1,Crisp,2,580
+help-desk-software,q20-anthropic-r1,q20,recommendation,anthropic,claude-haiku-5-5,1,Freshdesk,2,727
+help-desk-software,q20-anthropic-r1,q20,recommendation,anthropic,claude-haiku-5-5,1,Plain,1,945
+help-desk-software,q20-anthropic-r1,q20,recommendation,anthropic,claude-haiku-5-5,1,Intercom,2,1195
+help-desk-software,q20-anthropic-r1,q20,recommendation,anthropic,claude-haiku-5-5,1,Gorgias,3,1456
+help-desk-software,q20-anthropic-r1,q20,recommendation,anthropic,claude-haiku-5-5,1,Tidio,3,1495
+help-desk-software,q20-anthropic-r1,q20,recommendation,anthropic,claude-haiku-5-5,1,HubSpot,4,1745
+help-desk-software,q20-anthropic-r1,q20,recommendation,anthropic,claude-haiku-5-5,1,Zoho Desk,4,1756
+help-desk-software,q20-anthropic-r1,q20,recommendation,anthropic,claude-haiku-5-5,1,Zendesk,5,1994
+help-desk-software,q20-anthropic-r2,q20,recommendation,anthropic,claude-haiku-5-5,2,Help Scout,,112
+help-desk-software,q20-anthropic-r2,q20,recommendation,anthropic,claude-haiku-5-5,2,Tidio,,126
+help-desk-software,q20-anthropic-r2,q20,recommendation,anthropic,claude-haiku-5-5,2,Crisp,,641
+help-desk-software,q20-anthropic-r2,q20,recommendation,anthropic,claude-haiku-5-5,2,Plain,,768
+help-desk-software,q20-anthropic-r2,q20,recommendation,anthropic,claude-haiku-5-5,2,Intercom,,911
+help-desk-software,q20-anthropic-r2,q20,recommendation,anthropic,claude-haiku-5-5,2,Gorgias,,1193
+help-desk-software,q20-anthropic-r2,q20,recommendation,anthropic,claude-haiku-5-5,2,HubSpot,,1310
+help-desk-software,q20-anthropic-r2,q20,recommendation,anthropic,claude-haiku-5-5,2,Freshdesk,,1490
+help-desk-software,q20-anthropic-r2,q20,recommendation,anthropic,claude-haiku-5-5,2,Zendesk,,1586
+help-desk-software,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Zendesk,1,458
+help-desk-software,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Freshdesk,2,679
+help-desk-software,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Intercom,3,925
+help-desk-software,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Help Scout,4,1202
+help-desk-software,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Gorgias,5,1437
+help-desk-software,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,HubSpot,2,2253
+help-desk-software,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Salesforce Service Cloud,2,2261
+help-desk-software,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Zendesk,1,444
+help-desk-software,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Freshdesk,2,756
+help-desk-software,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Gorgias,3,1062
+help-desk-software,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Help Scout,4,1394
+help-desk-software,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Intercom,5,1693
+help-desk-software,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,6,2043
+help-desk-software,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Tidio,6,2055
+help-desk-software,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Kayako,2,3141
+help-desk-software,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Help Scout,1,47
+help-desk-software,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Zoho Desk,2,87
+help-desk-software,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Freshdesk,3,99
+help-desk-software,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Gorgias,4,217
+help-desk-software,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Tidio,5,232
+help-desk-software,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Hiver,6,1615
+help-desk-software,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Zendesk,7,1705
+help-desk-software,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Salesforce Service Cloud,7,1720
+help-desk-software,q21-anthropic-r2,q21,criteria,anthropic,claude-haiku-5-5,2,Help Scout,1,190
+help-desk-software,q21-anthropic-r2,q21,criteria,anthropic,claude-haiku-5-5,2,Tidio,2,615
+help-desk-software,q21-anthropic-r2,q21,criteria,anthropic,claude-haiku-5-5,2,Freshdesk,3,937
+help-desk-software,q21-anthropic-r2,q21,criteria,anthropic,claude-haiku-5-5,2,Zoho Desk,4,1178
+help-desk-software,q21-anthropic-r2,q21,criteria,anthropic,claude-haiku-5-5,2,Hiver,5,1328
+help-desk-software,q21-anthropic-r2,q21,criteria,anthropic,claude-haiku-5-5,2,LiveAgent,6,1457
+help-desk-software,q22-openai-r1,q22,criteria,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,1,130
+help-desk-software,q22-openai-r1,q22,criteria,openai,gpt-5-mini-2025-08-07,1,Zendesk,2,162
+help-desk-software,q22-openai-r1,q22,criteria,openai,gpt-5-mini-2025-08-07,1,Freshdesk,3,171
+help-desk-software,q22-openai-r1,q22,criteria,openai,gpt-5-mini-2025-08-07,1,Freshservice,3,181
+help-desk-software,q22-openai-r1,q22,criteria,openai,gpt-5-mini-2025-08-07,1,Intercom,4,195
+help-desk-software,q22-openai-r1,q22,criteria,openai,gpt-5-mini-2025-08-07,1,Help Scout,5,205
+help-desk-software,q22-openai-r1,q22,criteria,openai,gpt-5-mini-2025-08-07,1,Front,6,221
+help-desk-software,q22-openai-r2,q22,criteria,openai,gpt-5-mini-2025-08-07,2,Zendesk,1,118
+help-desk-software,q22-openai-r2,q22,criteria,openai,gpt-5-mini-2025-08-07,2,Freshdesk,2,522
+help-desk-software,q22-openai-r2,q22,criteria,openai,gpt-5-mini-2025-08-07,2,Intercom,3,834
+help-desk-software,q22-openai-r2,q22,criteria,openai,gpt-5-mini-2025-08-07,2,Jira Service Management,4,1118
+help-desk-software,q22-openai-r2,q22,criteria,openai,gpt-5-mini-2025-08-07,2,Help Scout,5,1487
+help-desk-software,q22-openai-r2,q22,criteria,openai,gpt-5-mini-2025-08-07,2,Front,6,1797
+help-desk-software,q22-openai-r2,q22,criteria,openai,gpt-5-mini-2025-08-07,2,Thena,6,1832
+help-desk-software,q22-openai-r2,q22,criteria,openai,gpt-5-mini-2025-08-07,2,ClearFeed,6,1840
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,ClearFeed,1,282
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Suptask,2,495
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Unthread,3,642
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Zendesk,1,831
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Freshservice,2,975
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Jira Service Management,3,1188
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,HappyFox,4,1351
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Front,1,1540
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Plain,2,1609
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Thena,3,1702
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Intercom,4,1763
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Zoho Desk,1,1876
+help-desk-software,q22-anthropic-r1,q22,criteria,anthropic,claude-haiku-5-5,1,Freshdesk,2,2030
+help-desk-software,q22-anthropic-r2,q22,criteria,anthropic,claude-haiku-5-5,2,ClearFeed,1,321
+help-desk-software,q22-anthropic-r2,q22,criteria,anthropic,claude-haiku-5-5,2,Unthread,2,529
+help-desk-software,q22-anthropic-r2,q22,criteria,anthropic,claude-haiku-5-5,2,Suptask,3,672
+help-desk-software,q22-anthropic-r2,q22,criteria,anthropic,claude-haiku-5-5,2,HappyFox,1,953
+help-desk-software,q22-anthropic-r2,q22,criteria,anthropic,claude-haiku-5-5,2,Zendesk,2,1074
+help-desk-software,q22-anthropic-r2,q22,criteria,anthropic,claude-haiku-5-5,2,Front,3,1204
+help-desk-software,q22-anthropic-r2,q22,criteria,anthropic,claude-haiku-5-5,2,Thena,4,1339
+help-desk-software,q22-anthropic-r2,q22,criteria,anthropic,claude-haiku-5-5,2,Zoho Desk,5,1400
+help-desk-software,q22-anthropic-r2,q22,criteria,anthropic,claude-haiku-5-5,2,Freshservice,1,1575
+help-desk-software,q22-anthropic-r2,q22,criteria,anthropic,claude-haiku-5-5,2,Jira Service Management,2,1648
+help-desk-software,q23-openai-r1,q23,use-case,openai,gpt-5-mini-2025-08-07,1,Help Scout,1,415
+help-desk-software,q23-openai-r1,q23,use-case,openai,gpt-5-mini-2025-08-07,1,Freshdesk,2,679
+help-desk-software,q23-openai-r1,q23,use-case,openai,gpt-5-mini-2025-08-07,1,Front,3,999
+help-desk-software,q23-openai-r1,q23,use-case,openai,gpt-5-mini-2025-08-07,1,Gorgias,4,1219
+help-desk-software,q23-openai-r1,q23,use-case,openai,gpt-5-mini-2025-08-07,1,Hiver,5,1503
+help-desk-software,q23-openai-r1,q23,use-case,openai,gpt-5-mini-2025-08-07,1,Zendesk,6,1768
+help-desk-software,q23-openai-r1,q23,use-case,openai,gpt-5-mini-2025-08-07,1,Salesforce Service Cloud,6,1779
+help-desk-software,q23-openai-r1,q23,use-case,openai,gpt-5-mini-2025-08-07,1,HubSpot,2,2326
+help-desk-software,q23-openai-r2,q23,use-case,openai,gpt-5-mini-2025-08-07,2,Help Scout,1,135
+help-desk-software,q23-openai-r2,q23,use-case,openai,gpt-5-mini-2025-08-07,2,Front,2,424
+help-desk-software,q23-openai-r2,q23,use-case,openai,gpt-5-mini-2025-08-07,2,Zendesk,3,690
+help-desk-software,q23-openai-r2,q23,use-case,openai,gpt-5-mini-2025-08-07,2,Freshdesk,4,886
+help-desk-software,q23-openai-r2,q23,use-case,openai,gpt-5-mini-2025-08-07,2,Gorgias,5,1203
+help-desk-software,q23-openai-r2,q23,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,6,1474
+help-desk-software,q23-openai-r2,q23,use-case,openai,gpt-5-mini-2025-08-07,2,Missive,6,1485
+help-desk-software,q23-openai-r2,q23,use-case,openai,gpt-5-mini-2025-08-07,2,LiveAgent,6,1494
+help-desk-software,q23-anthropic-r1,q23,use-case,anthropic,claude-haiku-5-5,1,Zendesk,1,212
+help-desk-software,q23-anthropic-r1,q23,use-case,anthropic,claude-haiku-5-5,1,Help Scout,2,458
+help-desk-software,q23-anthropic-r1,q23,use-case,anthropic,claude-haiku-5-5,1,Hiver,3,648
+help-desk-software,q23-anthropic-r1,q23,use-case,anthropic,claude-haiku-5-5,1,Front,4,930
+help-desk-software,q23-anthropic-r1,q23,use-case,anthropic,claude-haiku-5-5,1,Gorgias,5,1055
+help-desk-software,q23-anthropic-r1,q23,use-case,anthropic,claude-haiku-5-5,1,Freshdesk,6,1188
+help-desk-software,q23-anthropic-r1,q23,use-case,anthropic,claude-haiku-5-5,1,Zoho Desk,6,1201
+help-desk-software,q23-anthropic-r1,q23,use-case,anthropic,claude-haiku-5-5,1,HubSpot,7,1438
+help-desk-software,q23-anthropic-r2,q23,use-case,anthropic,claude-haiku-5-5,2,Help Scout,1,138
+help-desk-software,q23-anthropic-r2,q23,use-case,anthropic,claude-haiku-5-5,2,Zendesk,2,546
+help-desk-software,q23-anthropic-r2,q23,use-case,anthropic,claude-haiku-5-5,2,Hiver,3,797
+help-desk-software,q23-anthropic-r2,q23,use-case,anthropic,claude-haiku-5-5,2,Front,4,985
+help-desk-software,q23-anthropic-r2,q23,use-case,anthropic,claude-haiku-5-5,2,Freshdesk,5,1146
+help-desk-software,q23-anthropic-r2,q23,use-case,anthropic,claude-haiku-5-5,2,Intercom,6,1269
+help-desk-software,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,Help Scout,1,488
+help-desk-software,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,Zendesk,2,776
+help-desk-software,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,Freshdesk,3,1082
+help-desk-software,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,Intercom,4,1352
+help-desk-software,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,Jira Service Management,5,1613
+help-desk-software,q24-openai-r1,q24,criteria,openai,gpt-5-mini-2025-08-07,1,ServiceNow,6,1929
+help-desk-software,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,Help Scout,1,332
+help-desk-software,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,Freshdesk,2,611
+help-desk-software,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,Zendesk,3,937
+help-desk-software,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho Desk,4,1296
+help-desk-software,q24-openai-r2,q24,criteria,openai,gpt-5-mini-2025-08-07,2,ServiceNow,5,1521
+help-desk-software,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,Zendesk,2,529
+help-desk-software,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,Zoho Desk,1,964
+help-desk-software,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,Freshdesk,2,1060
+help-desk-software,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,Help Scout,3,1170
+help-desk-software,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,Gorgias,1,1318
+help-desk-software,q24-anthropic-r1,q24,criteria,anthropic,claude-haiku-5-5,1,Intercom,2,1442
+help-desk-software,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Intercom,1,247
+help-desk-software,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Zendesk,2,441
+help-desk-software,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Help Scout,3,802
+help-desk-software,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Zoho Desk,4,929
+help-desk-software,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Hiver,5,1068
+help-desk-software,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Freshdesk,6,1175
+help-desk-software,q24-anthropic-r2,q24,criteria,anthropic,claude-haiku-5-5,2,Gorgias,7,1265

@@ -1,0 +1,618 @@
+category,answer_id,question_id,intent,engine,model,run,product,list_rank,first_char_offset
+crm-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,216
+crm-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,2,225
+crm-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Pipedrive,3,235
+crm-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Salesforce,4,246
+crm-for-small-business,q01-openai-r1,q01,best-of,openai,gpt-5-mini-2025-08-07,1,Freshsales,5,291
+crm-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,663
+crm-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Pipedrive,2,987
+crm-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,1251
+crm-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Bigin,3,1265
+crm-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,monday CRM,4,1530
+crm-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Freshsales,5,1802
+crm-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,ActiveCampaign,6,2048
+crm-for-small-business,q01-openai-r2,q01,best-of,openai,gpt-5-mini-2025-08-07,2,Salesforce,7,2337
+crm-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,HubSpot,1,128
+crm-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Zoho CRM,2,414
+crm-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Pipedrive,3,608
+crm-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,NetHunt CRM,4,752
+crm-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Bigin,5,896
+crm-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Less Annoying CRM,5,970
+crm-for-small-business,q01-anthropic-r1,q01,best-of,anthropic,claude-haiku-5-5,1,Salesforce,6,1094
+crm-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,HubSpot,1,140
+crm-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Zoho CRM,2,471
+crm-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Pipedrive,3,674
+crm-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Salesforce,4,885
+crm-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Bigin,5,1172
+crm-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Less Annoying CRM,5,1198
+crm-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,Freshsales,5,1232
+crm-for-small-business,q01-anthropic-r2,q01,best-of,anthropic,claude-haiku-5-5,2,NetHunt CRM,6,1295
+crm-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,381
+crm-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Pipedrive,2,674
+crm-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,3,906
+crm-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Bigin,3,920
+crm-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Freshsales,4,1130
+crm-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Salesforce,5,1345
+crm-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,ActiveCampaign,6,1655
+crm-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Keap,6,1672
+crm-for-small-business,q02-openai-r1,q02,best-of,openai,gpt-5-mini-2025-08-07,1,Copper,7,1931
+crm-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,552
+crm-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Pipedrive,2,857
+crm-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,1174
+crm-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Bigin,3,1180
+crm-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Freshsales,4,1475
+crm-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Less Annoying CRM,5,1719
+crm-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Copper,6,1966
+crm-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,ActiveCampaign,7,2149
+crm-for-small-business,q02-openai-r2,q02,best-of,openai,gpt-5-mini-2025-08-07,2,Salesforce,1,2377
+crm-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,HubSpot,1,189
+crm-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Zoho CRM,2,419
+crm-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Pipedrive,3,662
+crm-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,NetHunt CRM,4,811
+crm-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Salesforce,5,952
+crm-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Bigin,6,1214
+crm-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Less Annoying CRM,6,1240
+crm-for-small-business,q02-anthropic-r1,q02,best-of,anthropic,claude-haiku-5-5,1,Freshsales,6,1274
+crm-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,HubSpot,,192
+crm-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Zoho CRM,,571
+crm-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Bigin,,807
+crm-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Pipedrive,,889
+crm-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Less Annoying CRM,,1063
+crm-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Freshsales,,1160
+crm-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,NetHunt CRM,,1272
+crm-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Salesforce,,1362
+crm-for-small-business,q02-anthropic-r2,q02,best-of,anthropic,claude-haiku-5-5,2,Odoo,,1390
+crm-for-small-business,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,165
+crm-for-small-business,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,2,592
+crm-for-small-business,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,Pipedrive,3,1021
+crm-for-small-business,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,Freshsales,4,1423
+crm-for-small-business,q03-openai-r1,q03,best-of,openai,gpt-5-mini-2025-08-07,1,monday CRM,5,1837
+crm-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,204
+crm-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,2,505
+crm-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Pipedrive,3,806
+crm-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Freshsales,4,1078
+crm-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Salesforce,5,1394
+crm-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,Less Annoying CRM,,1753
+crm-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,ActiveCampaign,,1831
+crm-for-small-business,q03-openai-r2,q03,best-of,openai,gpt-5-mini-2025-08-07,2,monday CRM,,1895
+crm-for-small-business,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,HubSpot,1,166
+crm-for-small-business,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Zoho CRM,2,404
+crm-for-small-business,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Pipedrive,3,620
+crm-for-small-business,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,monday CRM,4,839
+crm-for-small-business,q03-anthropic-r1,q03,best-of,anthropic,claude-haiku-5-5,1,Less Annoying CRM,5,967
+crm-for-small-business,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,HubSpot,1,149
+crm-for-small-business,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Zoho CRM,2,436
+crm-for-small-business,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Pipedrive,3,673
+crm-for-small-business,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,monday CRM,4,951
+crm-for-small-business,q03-anthropic-r2,q03,best-of,anthropic,claude-haiku-5-5,2,Less Annoying CRM,5,1154
+crm-for-small-business,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,519
+crm-for-small-business,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Pipedrive,2,875
+crm-for-small-business,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,3,1171
+crm-for-small-business,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Bigin,3,1182
+crm-for-small-business,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Less Annoying CRM,4,1544
+crm-for-small-business,q04-openai-r1,q04,recommendation,openai,gpt-5-mini-2025-08-07,1,Capsule CRM,5,1843
+crm-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,185
+crm-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Pipedrive,2,419
+crm-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Bigin,3,657
+crm-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,828
+crm-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Capsule CRM,4,969
+crm-for-small-business,q04-openai-r2,q04,recommendation,openai,gpt-5-mini-2025-08-07,2,Streak,5,1193
+crm-for-small-business,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,HubSpot,1,43
+crm-for-small-business,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Less Annoying CRM,2,660
+crm-for-small-business,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Pipedrive,3,908
+crm-for-small-business,q04-anthropic-r1,q04,recommendation,anthropic,claude-haiku-5-5,1,Bigin,4,1121
+crm-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,HubSpot,1,17
+crm-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Less Annoying CRM,2,478
+crm-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Pipedrive,3,740
+crm-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Bigin,4,966
+crm-for-small-business,q04-anthropic-r2,q04,recommendation,anthropic,claude-haiku-5-5,2,Copper,4,1388
+crm-for-small-business,q05-openai-r1,q05,recommendation,openai,gpt-5-mini-2025-08-07,1,HubSpot,5,591
+crm-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,151
+crm-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Pipedrive,2,197
+crm-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,246
+crm-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Close,4,269
+crm-for-small-business,q05-openai-r2,q05,recommendation,openai,gpt-5-mini-2025-08-07,2,Salesforce,5,312
+crm-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Pipedrive,1,131
+crm-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,HubSpot,2,169
+crm-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Close,3,219
+crm-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Freshsales,4,1383
+crm-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Zoho CRM,4,1397
+crm-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Salesforce,5,1684
+crm-for-small-business,q05-anthropic-r1,q05,recommendation,anthropic,claude-haiku-5-5,1,Copper,4,2171
+crm-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Pipedrive,1,30
+crm-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,HubSpot,2,91
+crm-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Zoho CRM,3,100
+crm-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Capsule CRM,1,466
+crm-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Close,4,1297
+crm-for-small-business,q05-anthropic-r2,q05,recommendation,anthropic,claude-haiku-5-5,2,Salesflare,5,1417
+crm-for-small-business,q06-openai-r1,q06,recommendation,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,14
+crm-for-small-business,q06-openai-r1,q06,recommendation,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,2,98
+crm-for-small-business,q06-openai-r1,q06,recommendation,openai,gpt-5-mini-2025-08-07,1,Pipedrive,3,108
+crm-for-small-business,q06-openai-r1,q06,recommendation,openai,gpt-5-mini-2025-08-07,1,Freshsales,4,122
+crm-for-small-business,q06-openai-r1,q06,recommendation,openai,gpt-5-mini-2025-08-07,1,Salesforce,5,173
+crm-for-small-business,q06-openai-r2,q06,recommendation,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,155
+crm-for-small-business,q06-openai-r2,q06,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,1,167
+crm-for-small-business,q06-openai-r2,q06,recommendation,openai,gpt-5-mini-2025-08-07,2,Salesforce,2,248
+crm-for-small-business,q06-anthropic-r1,q06,recommendation,anthropic,claude-haiku-5-5,1,HubSpot,1,0
+crm-for-small-business,q06-anthropic-r1,q06,recommendation,anthropic,claude-haiku-5-5,1,Zoho CRM,2,347
+crm-for-small-business,q06-anthropic-r1,q06,recommendation,anthropic,claude-haiku-5-5,1,Pipedrive,2,364
+crm-for-small-business,q06-anthropic-r1,q06,recommendation,anthropic,claude-haiku-5-5,1,Salesforce,3,564
+crm-for-small-business,q06-anthropic-r2,q06,recommendation,anthropic,claude-haiku-5-5,2,HubSpot,2,168
+crm-for-small-business,q06-anthropic-r2,q06,recommendation,anthropic,claude-haiku-5-5,2,Salesforce,1,177
+crm-for-small-business,q06-anthropic-r2,q06,recommendation,anthropic,claude-haiku-5-5,2,Zoho CRM,3,189
+crm-for-small-business,q06-anthropic-r2,q06,recommendation,anthropic,claude-haiku-5-5,2,Pipedrive,3,199
+crm-for-small-business,q06-anthropic-r2,q06,recommendation,anthropic,claude-haiku-5-5,2,monday CRM,2,1964
+crm-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,114
+crm-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,2,447
+crm-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Bigin,2,461
+crm-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Bitrix24,3,874
+crm-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,Capsule CRM,4,1114
+crm-for-small-business,q07-openai-r1,q07,price,openai,gpt-5-mini-2025-08-07,1,EngageBay,5,1351
+crm-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,123
+crm-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Bitrix24,2,426
+crm-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,728
+crm-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Agile CRM,4,992
+crm-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Capsule CRM,5,1236
+crm-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Streak,6,1437
+crm-for-small-business,q07-openai-r2,q07,price,openai,gpt-5-mini-2025-08-07,2,Freshsales,2,3181
+crm-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Zoho CRM,1,108
+crm-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Bitrix24,2,413
+crm-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,HubSpot,3,579
+crm-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Vtiger,4,847
+crm-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,Capsule CRM,5,993
+crm-for-small-business,q07-anthropic-r1,q07,price,anthropic,claude-haiku-5-5,1,EngageBay,6,1223
+crm-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,HubSpot,1,135
+crm-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Zoho CRM,2,432
+crm-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Bitrix24,3,710
+crm-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Capsule CRM,4,866
+crm-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,Vtiger,5,1112
+crm-for-small-business,q07-anthropic-r2,q07,price,anthropic,claude-haiku-5-5,2,EngageBay,6,1252
+crm-for-small-business,q08-openai-r1,q08,price,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,406
+crm-for-small-business,q08-openai-r1,q08,price,openai,gpt-5-mini-2025-08-07,1,Bigin,2,669
+crm-for-small-business,q08-openai-r1,q08,price,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,2,676
+crm-for-small-business,q08-openai-r1,q08,price,openai,gpt-5-mini-2025-08-07,1,Freshsales,3,950
+crm-for-small-business,q08-openai-r1,q08,price,openai,gpt-5-mini-2025-08-07,1,Pipedrive,4,1227
+crm-for-small-business,q08-openai-r1,q08,price,openai,gpt-5-mini-2025-08-07,1,Less Annoying CRM,5,1445
+crm-for-small-business,q08-openai-r1,q08,price,openai,gpt-5-mini-2025-08-07,1,Bitrix24,6,1723
+crm-for-small-business,q08-openai-r2,q08,price,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,1,127
+crm-for-small-business,q08-openai-r2,q08,price,openai,gpt-5-mini-2025-08-07,2,Bigin,2,163
+crm-for-small-business,q08-openai-r2,q08,price,openai,gpt-5-mini-2025-08-07,2,Less Annoying CRM,3,233
+crm-for-small-business,q08-openai-r2,q08,price,openai,gpt-5-mini-2025-08-07,2,HubSpot,4,271
+crm-for-small-business,q08-openai-r2,q08,price,openai,gpt-5-mini-2025-08-07,2,Pipedrive,5,340
+crm-for-small-business,q08-anthropic-r1,q08,price,anthropic,claude-haiku-5-5,1,Zoho CRM,1,50
+crm-for-small-business,q08-anthropic-r1,q08,price,anthropic,claude-haiku-5-5,1,Freshsales,2,110
+crm-for-small-business,q08-anthropic-r1,q08,price,anthropic,claude-haiku-5-5,1,HubSpot,2,406
+crm-for-small-business,q08-anthropic-r1,q08,price,anthropic,claude-haiku-5-5,1,Bigin,1,676
+crm-for-small-business,q08-anthropic-r1,q08,price,anthropic,claude-haiku-5-5,1,Less Annoying CRM,4,1205
+crm-for-small-business,q08-anthropic-r2,q08,price,anthropic,claude-haiku-5-5,2,Zoho CRM,1,36
+crm-for-small-business,q08-anthropic-r2,q08,price,anthropic,claude-haiku-5-5,2,Bigin,1,143
+crm-for-small-business,q08-anthropic-r2,q08,price,anthropic,claude-haiku-5-5,2,HubSpot,2,443
+crm-for-small-business,q08-anthropic-r2,q08,price,anthropic,claude-haiku-5-5,2,Bitrix24,3,660
+crm-for-small-business,q08-anthropic-r2,q08,price,anthropic,claude-haiku-5-5,2,EngageBay,4,831
+crm-for-small-business,q08-anthropic-r2,q08,price,anthropic,claude-haiku-5-5,2,Freshsales,2,1139
+crm-for-small-business,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,149
+crm-for-small-business,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,2,1012
+crm-for-small-business,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Pipedrive,3,1363
+crm-for-small-business,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Close,4,1672
+crm-for-small-business,q09-openai-r1,q09,use-case,openai,gpt-5-mini-2025-08-07,1,Salesforce,5,1938
+crm-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,171
+crm-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Pipedrive,2,538
+crm-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,886
+crm-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Bigin,3,900
+crm-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Close,4,1178
+crm-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Freshsales,4,1186
+crm-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Attio,4,1199
+crm-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Salesflare,4,1207
+crm-for-small-business,q09-openai-r2,q09,use-case,openai,gpt-5-mini-2025-08-07,2,Salesforce,5,1527
+crm-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,HubSpot,1,189
+crm-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Pipedrive,2,440
+crm-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Close,3,667
+crm-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Attio,4,843
+crm-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Zoho CRM,5,1010
+crm-for-small-business,q09-anthropic-r1,q09,use-case,anthropic,claude-haiku-5-5,1,Salesforce,7,1270
+crm-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,HubSpot,1,19
+crm-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Zoho CRM,2,467
+crm-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Bigin,2,611
+crm-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Pipedrive,3,702
+crm-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Close,4,945
+crm-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Attio,5,1083
+crm-for-small-business,q09-anthropic-r2,q09,use-case,anthropic,claude-haiku-5-5,2,Salesforce,7,1373
+crm-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Salesforce,1,109
+crm-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Microsoft Dynamics 365,2,340
+crm-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,HubSpot,3,561
+crm-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Pipedrive,4,801
+crm-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Close,4,814
+crm-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,5,972
+crm-for-small-business,q10-openai-r1,q10,use-case,openai,gpt-5-mini-2025-08-07,1,Freshsales,6,1165
+crm-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Salesforce,1,224
+crm-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,HubSpot,2,528
+crm-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Microsoft Dynamics 365,3,812
+crm-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Pipedrive,4,1185
+crm-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Close,4,1199
+crm-for-small-business,q10-openai-r2,q10,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,5,1435
+crm-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Pipedrive,1,321
+crm-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,HubSpot,2,704
+crm-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Zoho CRM,2,851
+crm-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Salesflare,3,1019
+crm-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Close,4,1257
+crm-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,NetHunt CRM,5,1508
+crm-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Copper,5,1519
+crm-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Microsoft Dynamics 365,5,1634
+crm-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Salesforce,7,1913
+crm-for-small-business,q10-anthropic-r1,q10,use-case,anthropic,claude-haiku-5-5,1,Attio,8,2076
+crm-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Pipedrive,1,261
+crm-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,HubSpot,2,544
+crm-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Zoho CRM,3,739
+crm-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Salesflare,4,905
+crm-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Close,5,1089
+crm-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Copper,6,1191
+crm-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,NetHunt CRM,6,1201
+crm-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Microsoft Dynamics 365,7,1345
+crm-for-small-business,q10-anthropic-r2,q10,use-case,anthropic,claude-haiku-5-5,2,Salesforce,8,1497
+crm-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Jobber,1,568
+crm-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Housecall Pro,1,576
+crm-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,ServiceTitan,1,607
+crm-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,1102
+crm-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Pipedrive,1,1111
+crm-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Salesforce,1,1124
+crm-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Accelo,1,1154
+crm-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Scoro,1,1162
+crm-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Productive,1,1169
+crm-for-small-business,q11-openai-r1,q11,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,1,1571
+crm-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Jobber,1,350
+crm-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Housecall Pro,2,587
+crm-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,ServiceTitan,3,895
+crm-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,1343
+crm-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,2,1615
+crm-for-small-business,q11-openai-r2,q11,use-case,openai,gpt-5-mini-2025-08-07,2,Salesforce,3,1856
+crm-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Jobber,1,492
+crm-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Housecall Pro,1,701
+crm-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,ServiceTitan,3,951
+crm-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,HubSpot,1,1223
+crm-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Zoho CRM,2,1378
+crm-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Salesflare,3,1587
+crm-for-small-business,q11-anthropic-r1,q11,use-case,anthropic,claude-haiku-5-5,1,Salesforce,,1849
+crm-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Jobber,1,478
+crm-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Housecall Pro,2,730
+crm-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,ServiceTitan,3,844
+crm-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,HubSpot,1,1157
+crm-for-small-business,q11-anthropic-r2,q11,use-case,anthropic,claude-haiku-5-5,2,Zoho CRM,2,1259
+crm-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,HoneyBook,1,415
+crm-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,Pipedrive,2,694
+crm-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,Copper,2,707
+crm-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,HubSpot,3,955
+crm-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,Productive,4,1264
+crm-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,Scoro,4,1276
+crm-for-small-business,q12-openai-r1,q12,use-case,openai,gpt-5-mini-2025-08-07,1,Salesforce,5,1599
+crm-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,434
+crm-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Pipedrive,2,888
+crm-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,1312
+crm-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Accelo,5,2163
+crm-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Productive,5,2191
+crm-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Kantata,5,2204
+crm-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,HoneyBook,6,2515
+crm-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Keap,6,2527
+crm-for-small-business,q12-openai-r2,q12,use-case,openai,gpt-5-mini-2025-08-07,2,Salesforce,7,2788
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,HoneyBook,1,318
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Folk,2,528
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Salesflare,2,541
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Bonsai,3,713
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Productive,1,875
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Scoro,2,1076
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Insightly,2,1090
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,BigTime,3,1298
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,HubSpot,1,1429
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Pipedrive,2,1743
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,monday CRM,3,1862
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Copper,1,2035
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Zoho CRM,2,2114
+crm-for-small-business,q12-anthropic-r1,q12,use-case,anthropic,claude-haiku-5-5,1,Salesforce,3,2166
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,HoneyBook,1,193
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Bonsai,2,331
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Folk,3,495
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Salesflare,3,508
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,HubSpot,1,692
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Pipedrive,2,882
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Copper,3,970
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Productive,1,1093
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Scoro,1,1112
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,BigTime,2,1187
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Accelo,2,1203
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Salesforce,1,1325
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,Zoho CRM,1,1482
+crm-for-small-business,q12-anthropic-r2,q12,use-case,anthropic,claude-haiku-5-5,2,monday CRM,,2060
+crm-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Klaviyo,1,299
+crm-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,HubSpot,2,624
+crm-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Gorgias,3,975
+crm-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Omnisend,4,1244
+crm-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Salesforce,5,1566
+crm-for-small-business,q13-openai-r1,q13,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,5,2513
+crm-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,312
+crm-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Klaviyo,2,627
+crm-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Gorgias,3,953
+crm-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Salesforce,4,1207
+crm-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,ActiveCampaign,5,1567
+crm-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,5,1584
+crm-for-small-business,q13-openai-r2,q13,use-case,openai,gpt-5-mini-2025-08-07,2,Omnisend,6,1856
+crm-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,Klaviyo,1,180
+crm-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,HubSpot,2,522
+crm-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,Omnisend,1,1047
+crm-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,Zoho CRM,2,1057
+crm-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,Gorgias,3,1497
+crm-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,Salesforce,4,1749
+crm-for-small-business,q13-anthropic-r1,q13,use-case,anthropic,claude-haiku-5-5,1,Microsoft Dynamics 365,,1778
+crm-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Klaviyo,1,250
+crm-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Omnisend,2,657
+crm-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,HubSpot,1,928
+crm-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Zoho CRM,2,1271
+crm-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Pipedrive,3,1520
+crm-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Gorgias,1,1708
+crm-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Salesforce,2,1892
+crm-for-small-business,q13-anthropic-r2,q13,use-case,anthropic,claude-haiku-5-5,2,Microsoft Dynamics 365,4,2334
+crm-for-small-business,q14-openai-r1,q14,use-case,openai,gpt-5-mini-2025-08-07,1,Follow Up Boss,1,291
+crm-for-small-business,q14-openai-r1,q14,use-case,openai,gpt-5-mini-2025-08-07,1,Wise Agent,5,1445
+crm-for-small-business,q14-openai-r1,q14,use-case,openai,gpt-5-mini-2025-08-07,1,Salesforce,6,1690
+crm-for-small-business,q14-openai-r1,q14,use-case,openai,gpt-5-mini-2025-08-07,1,HubSpot,7,1958
+crm-for-small-business,q14-openai-r1,q14,use-case,openai,gpt-5-mini-2025-08-07,1,Pipedrive,7,1967
+crm-for-small-business,q14-openai-r2,q14,use-case,openai,gpt-5-mini-2025-08-07,2,Follow Up Boss,1,195
+crm-for-small-business,q14-openai-r2,q14,use-case,openai,gpt-5-mini-2025-08-07,2,Wise Agent,3,633
+crm-for-small-business,q14-openai-r2,q14,use-case,openai,gpt-5-mini-2025-08-07,2,HubSpot,3,648
+crm-for-small-business,q14-openai-r2,q14,use-case,openai,gpt-5-mini-2025-08-07,2,LionDesk,,1117
+crm-for-small-business,q14-anthropic-r1,q14,use-case,anthropic,claude-haiku-5-5,1,Follow Up Boss,1,168
+crm-for-small-business,q14-anthropic-r1,q14,use-case,anthropic,claude-haiku-5-5,1,Wise Agent,2,415
+crm-for-small-business,q14-anthropic-r1,q14,use-case,anthropic,claude-haiku-5-5,1,LionDesk,3,577
+crm-for-small-business,q14-anthropic-r1,q14,use-case,anthropic,claude-haiku-5-5,1,HubSpot,5,1058
+crm-for-small-business,q14-anthropic-r1,q14,use-case,anthropic,claude-haiku-5-5,1,Pipedrive,5,1067
+crm-for-small-business,q14-anthropic-r1,q14,use-case,anthropic,claude-haiku-5-5,1,Zoho CRM,5,1082
+crm-for-small-business,q14-anthropic-r2,q14,use-case,anthropic,claude-haiku-5-5,2,Follow Up Boss,1,87
+crm-for-small-business,q14-anthropic-r2,q14,use-case,anthropic,claude-haiku-5-5,2,Wise Agent,2,155
+crm-for-small-business,q14-anthropic-r2,q14,use-case,anthropic,claude-haiku-5-5,2,LionDesk,3,768
+crm-for-small-business,q14-anthropic-r2,q14,use-case,anthropic,claude-haiku-5-5,2,Zoho CRM,6,1403
+crm-for-small-business,q14-anthropic-r2,q14,use-case,anthropic,claude-haiku-5-5,2,HubSpot,6,1471
+crm-for-small-business,q15-openai-r1,q15,use-case,openai,gpt-5-mini-2025-08-07,1,HubSpot,4,464
+crm-for-small-business,q15-openai-r1,q15,use-case,openai,gpt-5-mini-2025-08-07,1,Pipedrive,2,1019
+crm-for-small-business,q15-openai-r1,q15,use-case,openai,gpt-5-mini-2025-08-07,1,Salesforce,3,1223
+crm-for-small-business,q15-openai-r1,q15,use-case,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,4,1503
+crm-for-small-business,q15-openai-r1,q15,use-case,openai,gpt-5-mini-2025-08-07,1,Microsoft Dynamics 365,5,1662
+crm-for-small-business,q15-openai-r1,q15,use-case,openai,gpt-5-mini-2025-08-07,1,Freshsales,,1886
+crm-for-small-business,q15-openai-r1,q15,use-case,openai,gpt-5-mini-2025-08-07,1,Close,,1926
+crm-for-small-business,q15-openai-r1,q15,use-case,openai,gpt-5-mini-2025-08-07,1,Copper,,1964
+crm-for-small-business,q15-openai-r2,q15,use-case,openai,gpt-5-mini-2025-08-07,2,Pipedrive,1,321
+crm-for-small-business,q15-openai-r2,q15,use-case,openai,gpt-5-mini-2025-08-07,2,HubSpot,2,614
+crm-for-small-business,q15-openai-r2,q15,use-case,openai,gpt-5-mini-2025-08-07,2,Salesforce,3,939
+crm-for-small-business,q15-openai-r2,q15,use-case,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,4,1347
+crm-for-small-business,q15-openai-r2,q15,use-case,openai,gpt-5-mini-2025-08-07,2,Microsoft Dynamics 365,5,1649
+crm-for-small-business,q15-openai-r2,q15,use-case,openai,gpt-5-mini-2025-08-07,2,Close,6,2008
+crm-for-small-business,q15-openai-r2,q15,use-case,openai,gpt-5-mini-2025-08-07,2,Freshsales,6,2016
+crm-for-small-business,q15-anthropic-r1,q15,use-case,anthropic,claude-haiku-5-5,1,Pipedrive,1,2
+crm-for-small-business,q15-anthropic-r1,q15,use-case,anthropic,claude-haiku-5-5,1,HubSpot,2,574
+crm-for-small-business,q15-anthropic-r1,q15,use-case,anthropic,claude-haiku-5-5,1,Zoho CRM,3,901
+crm-for-small-business,q15-anthropic-r1,q15,use-case,anthropic,claude-haiku-5-5,1,Close,4,1237
+crm-for-small-business,q15-anthropic-r1,q15,use-case,anthropic,claude-haiku-5-5,1,Salesforce,5,1410
+crm-for-small-business,q15-anthropic-r2,q15,use-case,anthropic,claude-haiku-5-5,2,Pipedrive,1,83
+crm-for-small-business,q15-anthropic-r2,q15,use-case,anthropic,claude-haiku-5-5,2,HubSpot,1,568
+crm-for-small-business,q15-anthropic-r2,q15,use-case,anthropic,claude-haiku-5-5,2,Salesforce,1,581
+crm-for-small-business,q15-anthropic-r2,q15,use-case,anthropic,claude-haiku-5-5,2,Zoho CRM,4,1413
+crm-for-small-business,q15-anthropic-r2,q15,use-case,anthropic,claude-haiku-5-5,2,Close,5,1727
+crm-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,124
+crm-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Pipedrive,2,333
+crm-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Copper,3,524
+crm-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Bigin,4,735
+crm-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,4,742
+crm-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,Freshsales,5,985
+crm-for-small-business,q16-openai-r1,q16,criteria,openai,gpt-5-mini-2025-08-07,1,monday CRM,6,1181
+crm-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,75
+crm-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Pipedrive,2,299
+crm-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Copper,3,484
+crm-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Bigin,4,692
+crm-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,4,699
+crm-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Less Annoying CRM,4,707
+crm-for-small-business,q16-openai-r2,q16,criteria,openai,gpt-5-mini-2025-08-07,2,Streak,3,1377
+crm-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,HubSpot,,46
+crm-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Less Annoying CRM,1,407
+crm-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,NetHunt CRM,2,620
+crm-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,Zoho CRM,3,759
+crm-for-small-business,q16-anthropic-r1,q16,criteria,anthropic,claude-haiku-5-5,1,monday CRM,4,1016
+crm-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,HubSpot,1,19
+crm-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Less Annoying CRM,2,487
+crm-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,NetHunt CRM,3,762
+crm-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,monday CRM,4,891
+crm-for-small-business,q16-anthropic-r2,q16,criteria,anthropic,claude-haiku-5-5,2,Nutshell,5,1105
+crm-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,Salesforce,3,479
+crm-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,Zendesk,1,686
+crm-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,HubSpot,2,944
+crm-for-small-business,q17-openai-r1,q17,criteria,openai,gpt-5-mini-2025-08-07,1,Freshsales,3,1254
+crm-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,225
+crm-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Less Annoying CRM,2,530
+crm-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Freshsales,3,876
+crm-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Pipedrive,4,1221
+crm-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Close,4,1233
+crm-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Salesforce,5,1550
+crm-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,6,1958
+crm-for-small-business,q17-openai-r2,q17,criteria,openai,gpt-5-mini-2025-08-07,2,Zendesk,6,1965
+crm-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,Salesforce,2,362
+crm-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,HubSpot,3,646
+crm-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,Less Annoying CRM,4,942
+crm-for-small-business,q17-anthropic-r1,q17,criteria,anthropic,claude-haiku-5-5,1,Zendesk,5,1138
+crm-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,Salesforce,1,209
+crm-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,Zendesk,1,375
+crm-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,Less Annoying CRM,3,816
+crm-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,HubSpot,3,894
+crm-for-small-business,q17-anthropic-r2,q17,criteria,anthropic,claude-haiku-5-5,2,Zoho CRM,3,918
+crm-for-small-business,q18-openai-r1,q18,criteria,openai,gpt-5-mini-2025-08-07,1,Streak,1,162
+crm-for-small-business,q18-openai-r1,q18,criteria,openai,gpt-5-mini-2025-08-07,1,Copper,2,522
+crm-for-small-business,q18-openai-r1,q18,criteria,openai,gpt-5-mini-2025-08-07,1,HubSpot,3,856
+crm-for-small-business,q18-openai-r1,q18,criteria,openai,gpt-5-mini-2025-08-07,1,Pipedrive,4,1241
+crm-for-small-business,q18-openai-r1,q18,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,5,1552
+crm-for-small-business,q18-openai-r2,q18,criteria,openai,gpt-5-mini-2025-08-07,2,Streak,1,124
+crm-for-small-business,q18-openai-r2,q18,criteria,openai,gpt-5-mini-2025-08-07,2,Copper,2,388
+crm-for-small-business,q18-openai-r2,q18,criteria,openai,gpt-5-mini-2025-08-07,2,HubSpot,3,539
+crm-for-small-business,q18-openai-r2,q18,criteria,openai,gpt-5-mini-2025-08-07,2,Salesforce,4,803
+crm-for-small-business,q18-openai-r2,q18,criteria,openai,gpt-5-mini-2025-08-07,2,Pipedrive,5,1208
+crm-for-small-business,q18-openai-r2,q18,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,6,1449
+crm-for-small-business,q18-anthropic-r1,q18,criteria,anthropic,claude-haiku-5-5,1,Streak,1,202
+crm-for-small-business,q18-anthropic-r1,q18,criteria,anthropic,claude-haiku-5-5,1,NetHunt CRM,2,429
+crm-for-small-business,q18-anthropic-r1,q18,criteria,anthropic,claude-haiku-5-5,1,Copper,3,738
+crm-for-small-business,q18-anthropic-r1,q18,criteria,anthropic,claude-haiku-5-5,1,HubSpot,4,984
+crm-for-small-business,q18-anthropic-r1,q18,criteria,anthropic,claude-haiku-5-5,1,Salesflare,5,1200
+crm-for-small-business,q18-anthropic-r1,q18,criteria,anthropic,claude-haiku-5-5,1,Pipedrive,6,1436
+crm-for-small-business,q18-anthropic-r1,q18,criteria,anthropic,claude-haiku-5-5,1,Zoho CRM,6,1449
+crm-for-small-business,q18-anthropic-r2,q18,criteria,anthropic,claude-haiku-5-5,2,NetHunt CRM,1,190
+crm-for-small-business,q18-anthropic-r2,q18,criteria,anthropic,claude-haiku-5-5,2,Streak,2,470
+crm-for-small-business,q18-anthropic-r2,q18,criteria,anthropic,claude-haiku-5-5,2,Copper,1,731
+crm-for-small-business,q18-anthropic-r2,q18,criteria,anthropic,claude-haiku-5-5,2,HubSpot,1,956
+crm-for-small-business,q18-anthropic-r2,q18,criteria,anthropic,claude-haiku-5-5,2,Nutshell,2,1194
+crm-for-small-business,q18-anthropic-r2,q18,criteria,anthropic,claude-haiku-5-5,2,Salesflare,3,1319
+crm-for-small-business,q18-anthropic-r2,q18,criteria,anthropic,claude-haiku-5-5,2,Pipedrive,2,1515
+crm-for-small-business,q18-anthropic-r2,q18,criteria,anthropic,claude-haiku-5-5,2,Zoho CRM,3,1618
+crm-for-small-business,q19-openai-r1,q19,criteria,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,137
+crm-for-small-business,q19-openai-r1,q19,criteria,openai,gpt-5-mini-2025-08-07,1,Salesforce,2,146
+crm-for-small-business,q19-openai-r1,q19,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,3,158
+crm-for-small-business,q19-openai-r1,q19,criteria,openai,gpt-5-mini-2025-08-07,1,Pipedrive,4,168
+crm-for-small-business,q19-openai-r1,q19,criteria,openai,gpt-5-mini-2025-08-07,1,Freshsales,5,183
+crm-for-small-business,q19-openai-r1,q19,criteria,openai,gpt-5-mini-2025-08-07,1,Close,5,209
+crm-for-small-business,q19-openai-r1,q19,criteria,openai,gpt-5-mini-2025-08-07,1,Zendesk,2,2612
+crm-for-small-business,q19-openai-r2,q19,criteria,openai,gpt-5-mini-2025-08-07,2,Salesforce,1,114
+crm-for-small-business,q19-openai-r2,q19,criteria,openai,gpt-5-mini-2025-08-07,2,HubSpot,2,438
+crm-for-small-business,q19-openai-r2,q19,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,726
+crm-for-small-business,q19-openai-r2,q19,criteria,openai,gpt-5-mini-2025-08-07,2,Pipedrive,4,935
+crm-for-small-business,q19-openai-r2,q19,criteria,openai,gpt-5-mini-2025-08-07,2,Freshsales,5,1200
+crm-for-small-business,q19-anthropic-r1,q19,criteria,anthropic,claude-haiku-5-5,1,Pipedrive,1,18
+crm-for-small-business,q19-anthropic-r1,q19,criteria,anthropic,claude-haiku-5-5,1,HubSpot,2,83
+crm-for-small-business,q19-anthropic-r1,q19,criteria,anthropic,claude-haiku-5-5,1,Zoho CRM,3,116
+crm-for-small-business,q19-anthropic-r1,q19,criteria,anthropic,claude-haiku-5-5,1,Salesforce,4,192
+crm-for-small-business,q19-anthropic-r1,q19,criteria,anthropic,claude-haiku-5-5,1,monday CRM,5,1314
+crm-for-small-business,q19-anthropic-r2,q19,criteria,anthropic,claude-haiku-5-5,2,HubSpot,1,231
+crm-for-small-business,q19-anthropic-r2,q19,criteria,anthropic,claude-haiku-5-5,2,Zoho CRM,2,459
+crm-for-small-business,q19-anthropic-r2,q19,criteria,anthropic,claude-haiku-5-5,2,Pipedrive,2,613
+crm-for-small-business,q19-anthropic-r2,q19,criteria,anthropic,claude-haiku-5-5,2,Salesforce,3,667
+crm-for-small-business,q19-anthropic-r2,q19,criteria,anthropic,claude-haiku-5-5,2,Freshsales,3,1362
+crm-for-small-business,q19-anthropic-r2,q19,criteria,anthropic,claude-haiku-5-5,2,Bitrix24,3,1433
+crm-for-small-business,q19-anthropic-r2,q19,criteria,anthropic,claude-haiku-5-5,2,Salesflare,4,1551
+crm-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,Salesforce,4,486
+crm-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,885
+crm-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,ActiveCampaign,2,1228
+crm-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,3,1617
+crm-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,Pipedrive,4,1918
+crm-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,Keap,5,2232
+crm-for-small-business,q20-openai-r1,q20,criteria,openai,gpt-5-mini-2025-08-07,1,Microsoft Dynamics 365,6,2558
+crm-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,213
+crm-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,ActiveCampaign,2,566
+crm-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,821
+crm-for-small-business,q20-openai-r2,q20,criteria,openai,gpt-5-mini-2025-08-07,2,Salesforce,5,1400
+crm-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,HubSpot,1,2
+crm-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,ActiveCampaign,2,535
+crm-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,Zoho CRM,3,843
+crm-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,Nutshell,4,1017
+crm-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,Salesforce,6,1377
+crm-for-small-business,q20-anthropic-r1,q20,criteria,anthropic,claude-haiku-5-5,1,Pipedrive,7,1585
+crm-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,HubSpot,1,35
+crm-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,ActiveCampaign,2,466
+crm-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,Zoho CRM,3,729
+crm-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,Nutshell,4,942
+crm-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,Salesforce,5,1121
+crm-for-small-business,q20-anthropic-r2,q20,criteria,anthropic,claude-haiku-5-5,2,Pipedrive,6,1376
+crm-for-small-business,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,581
+crm-for-small-business,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Pipedrive,2,869
+crm-for-small-business,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,3,1167
+crm-for-small-business,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Bigin,3,1178
+crm-for-small-business,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Freshsales,4,1550
+crm-for-small-business,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Keap,5,1865
+crm-for-small-business,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,ActiveCampaign,6,2174
+crm-for-small-business,q21-openai-r1,q21,criteria,openai,gpt-5-mini-2025-08-07,1,Close,7,2513
+crm-for-small-business,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,188
+crm-for-small-business,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Pipedrive,2,489
+crm-for-small-business,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,851
+crm-for-small-business,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Bigin,3,865
+crm-for-small-business,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Salesforce,4,1179
+crm-for-small-business,q21-openai-r2,q21,criteria,openai,gpt-5-mini-2025-08-07,2,Freshsales,5,1508
+crm-for-small-business,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,HubSpot,1,63
+crm-for-small-business,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Pipedrive,2,101
+crm-for-small-business,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Zoho CRM,1,161
+crm-for-small-business,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Bigin,3,1437
+crm-for-small-business,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,ActiveCampaign,4,1473
+crm-for-small-business,q21-anthropic-r1,q21,criteria,anthropic,claude-haiku-5-5,1,Freshsales,5,1748
+crm-for-small-business,q21-anthropic-r2,q21,criteria,anthropic,claude-haiku-5-5,2,HubSpot,1,179
+crm-for-small-business,q21-anthropic-r2,q21,criteria,anthropic,claude-haiku-5-5,2,Zoho CRM,2,755
+crm-for-small-business,q21-anthropic-r2,q21,criteria,anthropic,claude-haiku-5-5,2,Pipedrive,3,1105
+crm-for-small-business,q21-anthropic-r2,q21,criteria,anthropic,claude-haiku-5-5,2,Salesflare,4,1939
+crm-for-small-business,q22-openai-r1,q22,comparison,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,462
+crm-for-small-business,q22-openai-r1,q22,comparison,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,2,745
+crm-for-small-business,q22-openai-r1,q22,comparison,openai,gpt-5-mini-2025-08-07,1,Bigin,2,762
+crm-for-small-business,q22-openai-r1,q22,comparison,openai,gpt-5-mini-2025-08-07,1,Pipedrive,3,1037
+crm-for-small-business,q22-openai-r1,q22,comparison,openai,gpt-5-mini-2025-08-07,1,Freshsales,4,1245
+crm-for-small-business,q22-openai-r1,q22,comparison,openai,gpt-5-mini-2025-08-07,1,Salesforce,5,1482
+crm-for-small-business,q22-openai-r1,q22,comparison,openai,gpt-5-mini-2025-08-07,1,Less Annoying CRM,6,1896
+crm-for-small-business,q22-openai-r1,q22,comparison,openai,gpt-5-mini-2025-08-07,1,ActiveCampaign,7,2157
+crm-for-small-business,q22-openai-r1,q22,comparison,openai,gpt-5-mini-2025-08-07,1,Copper,8,2446
+crm-for-small-business,q22-openai-r1,q22,comparison,openai,gpt-5-mini-2025-08-07,1,Keap,9,2655
+crm-for-small-business,q22-anthropic-r1,q22,comparison,anthropic,claude-haiku-5-5,1,HubSpot,1,242
+crm-for-small-business,q22-anthropic-r1,q22,comparison,anthropic,claude-haiku-5-5,1,Zoho CRM,1,306
+crm-for-small-business,q22-anthropic-r1,q22,comparison,anthropic,claude-haiku-5-5,1,Pipedrive,3,496
+crm-for-small-business,q22-anthropic-r1,q22,comparison,anthropic,claude-haiku-5-5,1,Freshsales,4,669
+crm-for-small-business,q22-anthropic-r1,q22,comparison,anthropic,claude-haiku-5-5,1,Salesforce,5,803
+crm-for-small-business,q22-anthropic-r1,q22,comparison,anthropic,claude-haiku-5-5,1,monday CRM,,1655
+crm-for-small-business,q22-anthropic-r1,q22,comparison,anthropic,claude-haiku-5-5,1,Capsule CRM,4,1780
+crm-for-small-business,q22-anthropic-r1,q22,comparison,anthropic,claude-haiku-5-5,1,Less Annoying CRM,,1900
+crm-for-small-business,q22-anthropic-r2,q22,comparison,anthropic,claude-haiku-5-5,2,HubSpot,1,233
+crm-for-small-business,q22-anthropic-r2,q22,comparison,anthropic,claude-haiku-5-5,2,Pipedrive,2,379
+crm-for-small-business,q22-anthropic-r2,q22,comparison,anthropic,claude-haiku-5-5,2,Zoho CRM,3,491
+crm-for-small-business,q22-anthropic-r2,q22,comparison,anthropic,claude-haiku-5-5,2,Bigin,4,623
+crm-for-small-business,q22-anthropic-r2,q22,comparison,anthropic,claude-haiku-5-5,2,Freshsales,5,728
+crm-for-small-business,q22-anthropic-r2,q22,comparison,anthropic,claude-haiku-5-5,2,Capsule CRM,2,817
+crm-for-small-business,q22-anthropic-r2,q22,comparison,anthropic,claude-haiku-5-5,2,monday CRM,,921
+crm-for-small-business,q22-anthropic-r2,q22,comparison,anthropic,claude-haiku-5-5,2,Less Annoying CRM,,1025
+crm-for-small-business,q22-anthropic-r2,q22,comparison,anthropic,claude-haiku-5-5,2,Salesforce,6,1113
+crm-for-small-business,q23-openai-r1,q23,recommendation,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,777
+crm-for-small-business,q23-openai-r1,q23,recommendation,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,2,1080
+crm-for-small-business,q23-openai-r1,q23,recommendation,openai,gpt-5-mini-2025-08-07,1,Salesforce,3,1407
+crm-for-small-business,q23-openai-r1,q23,recommendation,openai,gpt-5-mini-2025-08-07,1,Pipedrive,4,1801
+crm-for-small-business,q23-openai-r1,q23,recommendation,openai,gpt-5-mini-2025-08-07,1,Freshsales,5,2122
+crm-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,814
+crm-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,Salesforce,2,1157
+crm-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,3,1567
+crm-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,Pipedrive,4,1910
+crm-for-small-business,q23-openai-r2,q23,recommendation,openai,gpt-5-mini-2025-08-07,2,Freshsales,5,2187
+crm-for-small-business,q23-anthropic-r1,q23,recommendation,anthropic,claude-haiku-5-5,1,HubSpot,1,186
+crm-for-small-business,q23-anthropic-r1,q23,recommendation,anthropic,claude-haiku-5-5,1,Zoho CRM,2,198
+crm-for-small-business,q23-anthropic-r1,q23,recommendation,anthropic,claude-haiku-5-5,1,Pipedrive,3,213
+crm-for-small-business,q23-anthropic-r1,q23,recommendation,anthropic,claude-haiku-5-5,1,Salesforce,,1576
+crm-for-small-business,q23-anthropic-r2,q23,recommendation,anthropic,claude-haiku-5-5,2,HubSpot,1,226
+crm-for-small-business,q23-anthropic-r2,q23,recommendation,anthropic,claude-haiku-5-5,2,Zoho CRM,2,521
+crm-for-small-business,q23-anthropic-r2,q23,recommendation,anthropic,claude-haiku-5-5,2,Pipedrive,3,864
+crm-for-small-business,q23-anthropic-r2,q23,recommendation,anthropic,claude-haiku-5-5,2,Salesforce,4,1103
+crm-for-small-business,q24-openai-r1,q24,recommendation,openai,gpt-5-mini-2025-08-07,1,HubSpot,1,197
+crm-for-small-business,q24-openai-r1,q24,recommendation,openai,gpt-5-mini-2025-08-07,1,Pipedrive,2,221
+crm-for-small-business,q24-openai-r1,q24,recommendation,openai,gpt-5-mini-2025-08-07,1,Zoho CRM,3,249
+crm-for-small-business,q24-openai-r1,q24,recommendation,openai,gpt-5-mini-2025-08-07,1,Bigin,3,254
+crm-for-small-business,q24-openai-r1,q24,recommendation,openai,gpt-5-mini-2025-08-07,1,Salesforce,4,285
+crm-for-small-business,q24-openai-r1,q24,recommendation,openai,gpt-5-mini-2025-08-07,1,ActiveCampaign,5,351
+crm-for-small-business,q24-openai-r1,q24,recommendation,openai,gpt-5-mini-2025-08-07,1,Copper,6,410
+crm-for-small-business,q24-openai-r1,q24,recommendation,openai,gpt-5-mini-2025-08-07,1,Freshsales,7,3796
+crm-for-small-business,q24-openai-r1,q24,recommendation,openai,gpt-5-mini-2025-08-07,1,Keap,7,3853
+crm-for-small-business,q24-openai-r1,q24,recommendation,openai,gpt-5-mini-2025-08-07,1,HoneyBook,7,3876
+crm-for-small-business,q24-openai-r2,q24,recommendation,openai,gpt-5-mini-2025-08-07,2,HubSpot,1,936
+crm-for-small-business,q24-openai-r2,q24,recommendation,openai,gpt-5-mini-2025-08-07,2,Bigin,2,1159
+crm-for-small-business,q24-openai-r2,q24,recommendation,openai,gpt-5-mini-2025-08-07,2,Zoho CRM,2,1167
+crm-for-small-business,q24-openai-r2,q24,recommendation,openai,gpt-5-mini-2025-08-07,2,Pipedrive,3,1490
+crm-for-small-business,q24-openai-r2,q24,recommendation,openai,gpt-5-mini-2025-08-07,2,Salesforce,4,1734
+crm-for-small-business,q24-openai-r2,q24,recommendation,openai,gpt-5-mini-2025-08-07,2,Freshsales,5,2077
+crm-for-small-business,q24-openai-r2,q24,recommendation,openai,gpt-5-mini-2025-08-07,2,ActiveCampaign,6,2326
+crm-for-small-business,q24-anthropic-r1,q24,recommendation,anthropic,claude-haiku-5-5,1,HubSpot,1,1717
+crm-for-small-business,q24-anthropic-r1,q24,recommendation,anthropic,claude-haiku-5-5,1,Zoho CRM,1,1805
+crm-for-small-business,q24-anthropic-r1,q24,recommendation,anthropic,claude-haiku-5-5,1,Freshsales,1,1895
+crm-for-small-business,q24-anthropic-r1,q24,recommendation,anthropic,claude-haiku-5-5,1,Attio,1,1910
+crm-for-small-business,q24-anthropic-r1,q24,recommendation,anthropic,claude-haiku-5-5,1,Pipedrive,3,2162
+crm-for-small-business,q24-anthropic-r1,q24,recommendation,anthropic,claude-haiku-5-5,1,Less Annoying CRM,4,2325
+crm-for-small-business,q24-anthropic-r1,q24,recommendation,anthropic,claude-haiku-5-5,1,monday CRM,6,2606
+crm-for-small-business,q24-anthropic-r1,q24,recommendation,anthropic,claude-haiku-5-5,1,Salesforce,8,2927
+crm-for-small-business,q24-anthropic-r2,q24,recommendation,anthropic,claude-haiku-5-5,2,HubSpot,1,1310
+crm-for-small-business,q24-anthropic-r2,q24,recommendation,anthropic,claude-haiku-5-5,2,Zoho CRM,1,1470
+crm-for-small-business,q24-anthropic-r2,q24,recommendation,anthropic,claude-haiku-5-5,2,Bigin,2,1626
+crm-for-small-business,q24-anthropic-r2,q24,recommendation,anthropic,claude-haiku-5-5,2,Less Annoying CRM,2,1677
+crm-for-small-business,q24-anthropic-r2,q24,recommendation,anthropic,claude-haiku-5-5,2,Pipedrive,4,2043
+crm-for-small-business,q24-anthropic-r2,q24,recommendation,anthropic,claude-haiku-5-5,2,Freshsales,4,2132
+crm-for-small-business,q24-anthropic-r2,q24,recommendation,anthropic,claude-haiku-5-5,2,NetHunt CRM,5,2229
+crm-for-small-business,q24-anthropic-r2,q24,recommendation,anthropic,claude-haiku-5-5,2,monday CRM,6,2385
+crm-for-small-business,q24-anthropic-r2,q24,recommendation,anthropic,claude-haiku-5-5,2,Odoo,8,2617
+crm-for-small-business,q24-anthropic-r2,q24,recommendation,anthropic,claude-haiku-5-5,2,Salesforce,8,2663

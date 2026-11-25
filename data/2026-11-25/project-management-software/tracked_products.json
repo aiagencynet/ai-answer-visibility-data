@@ -1,0 +1,454 @@
+[
+ {
+  "name": "Asana",
+  "match": [
+   "Asana"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "asana.com"
+  ]
+ },
+ {
+  "name": "monday.com",
+  "match": [
+   "monday\\.com",
+   "monday work management",
+   "monday dev",
+   "Monday(?= (?:work|Work|dev|Dev)\\b)",
+   "monday(?= [\u2014\u2013(-])"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "monday.com"
+  ]
+ },
+ {
+  "name": "ClickUp",
+  "match": [
+   "ClickUp"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "clickup.com"
+  ]
+ },
+ {
+  "name": "Trello",
+  "match": [
+   "Trello"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "trello.com"
+  ]
+ },
+ {
+  "name": "Jira",
+  "match": [
+   "Jira"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "atlassian.com"
+  ]
+ },
+ {
+  "name": "Notion",
+  "match": [
+   "Notion"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "notion.so",
+   "notion.com"
+  ]
+ },
+ {
+  "name": "Wrike",
+  "match": [
+   "Wrike"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "wrike.com"
+  ]
+ },
+ {
+  "name": "Smartsheet",
+  "match": [
+   "Smartsheet"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "smartsheet.com"
+  ]
+ },
+ {
+  "name": "Basecamp",
+  "match": [
+   "Basecamp"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "basecamp.com"
+  ]
+ },
+ {
+  "name": "Airtable",
+  "match": [
+   "Airtable"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "airtable.com"
+  ]
+ },
+ {
+  "name": "Microsoft Project",
+  "match": [
+   "Microsoft Project",
+   "MS Project",
+   "Microsoft Planner",
+   "Planner"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "microsoft.com"
+  ]
+ },
+ {
+  "name": "Teamwork.com",
+  "match": [
+   "Teamwork\\.com",
+   "Teamwork(?! (?:and|is|between|across|in|of|with|tools?)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "teamwork.com"
+  ]
+ },
+ {
+  "name": "Zoho Projects",
+  "match": [
+   "Zoho Projects",
+   "(?<!by )Zoho(?! (?:CRM|Books|Desk|Projects|Campaigns|One|Sprints|Bigin|Inventory|Invoice|Expense|Payroll|Analytics|Mail|Workplace|Cliq|SalesIQ|apps?|suite|ecosystem|products?|family|tools))"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "zoho.com"
+  ]
+ },
+ {
+  "name": "Linear",
+  "match": [
+   "Linear(?! (?:workflow|progress|process|project))"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "linear.app"
+  ]
+ },
+ {
+  "name": "Hive",
+  "match": [
+   "Hive"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "hive.com"
+  ]
+ },
+ {
+  "name": "nTask",
+  "match": [
+   "nTask"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "ntask.com"
+  ]
+ },
+ {
+  "name": "TeamGantt",
+  "match": [
+   "TeamGantt"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "teamgantt.com"
+  ]
+ },
+ {
+  "name": "GanttPRO",
+  "match": [
+   "GanttPRO"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "ganttpro.com"
+  ]
+ },
+ {
+  "name": "Todoist",
+  "match": [
+   "Todoist"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "todoist.com"
+  ]
+ },
+ {
+  "name": "ProofHub",
+  "match": [
+   "ProofHub"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "proofhub.com"
+  ]
+ },
+ {
+  "name": "Procore",
+  "match": [
+   "Procore"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "procore.com"
+  ]
+ },
+ {
+  "name": "Buildertrend",
+  "match": [
+   "Buildertrend"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "buildertrend.com"
+  ]
+ },
+ {
+  "name": "Productive",
+  "match": [
+   "Productive\\.io",
+   "Productive(?! (?:and|work|teams?|habits?|for)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "productive.io"
+  ]
+ },
+ {
+  "name": "Scoro",
+  "match": [
+   "Scoro"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "scoro.com"
+  ]
+ },
+ {
+  "name": "Float",
+  "match": [
+   "Float(?! (?:the|a|an|ideas?|time)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "float.com"
+  ]
+ },
+ {
+  "name": "Harvest",
+  "match": [
+   "Harvest(?! (?:the|data|time)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "getharvest.com"
+  ]
+ },
+ {
+  "name": "Toggl",
+  "match": [
+   "Toggl"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "toggl.com"
+  ]
+ },
+ {
+  "name": "Meistertask",
+  "match": [
+   "MeisterTask"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "meistertask.com"
+  ]
+ },
+ {
+  "name": "Nifty",
+  "match": [
+   "Nifty"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "niftypm.com"
+  ]
+ },
+ {
+  "name": "Plane",
+  "match": [
+   "Plane(?! (?:of|ticket)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "plane.so"
+  ]
+ },
+ {
+  "name": "GitHub Projects",
+  "match": [
+   "GitHub Projects"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "github.com"
+  ]
+ },
+ {
+  "name": "Kanbanize",
+  "match": [
+   "Kanbanize",
+   "Businessmap"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "businessmap.io"
+  ]
+ },
+ {
+  "name": "Freedcamp",
+  "match": [
+   "Freedcamp"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "freedcamp.com"
+  ]
+ },
+ {
+  "name": "ProjectLibre",
+  "match": [
+   "ProjectLibre"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "projectlibre.com"
+  ]
+ },
+ {
+  "name": "Azure DevOps",
+  "match": [
+   "Azure DevOps"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "azure.microsoft.com"
+  ]
+ },
+ {
+  "name": "Clockify",
+  "match": [
+   "Clockify"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "clockify.me"
+  ]
+ },
+ {
+  "name": "GitLab",
+  "match": [
+   "GitLab"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "gitlab.com"
+  ]
+ },
+ {
+  "name": "Adobe Workfront",
+  "match": [
+   "Workfront"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "adobe.com"
+  ]
+ },
+ {
+  "name": "Deltek WorkBook",
+  "match": [
+   "WorkBook"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "deltek.com"
+  ]
+ },
+ {
+  "name": "Bonsai",
+  "match": [
+   "Bonsai"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "hellobonsai.com"
+  ]
+ },
+ {
+  "name": "Paymo",
+  "match": [
+   "Paymo"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "paymoapp.com"
+  ]
+ },
+ {
+  "name": "BigTime",
+  "match": [
+   "BigTime"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "bigtime.net"
+  ]
+ },
+ {
+  "name": "Planview",
+  "match": [
+   "Planview"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "planview.com"
+  ]
+ },
+ {
+  "name": "Runn",
+  "match": [
+   "Runn"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "runn.io"
+  ]
+ }
+]

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this data, please credit it as below."
+title: "AI answer visibility data"
+type: dataset
+authors:
+  - name: "aiagencynet.com category reports"
+license: CC-BY-4.0
+url: "https://aiagencynet.com/reports?utm_source=github&utm_campaign=e-b2-2"
+date-released: "2026-11-25"
+version: "2026-11-25"
+keywords:
+  - llm
+  - web search
+  - ai search
+  - brand visibility
+  - generative engine optimization
+abstract: >-
+  Raw answers and derived tables from asking LLM APIs with web search (OpenAI API gpt-5-mini-2025-08-07,
+  Anthropic API claude-haiku-5-5) the same unbranded buying questions in five US B2B software categories,
+  twice each. API answers can differ from the ChatGPT and Claude apps.

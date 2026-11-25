@@ -1,0 +1,25 @@
+question_id,intent,question
+q01,best-of,best accounting software for small business
+q02,best-of,what is the best accounting software for a small business?
+q03,best-of,top 5 accounting software for small businesses
+q04,recommendation,can you recommend accounting software for a small business?
+q05,recommendation,what accounting software do most small businesses use?
+q06,price,best free accounting software for small business
+q07,price,most affordable accounting software for a small business
+q08,use-case,best accounting software for freelancers
+q09,use-case,best accounting software for a service business
+q10,use-case,best accounting software for ecommerce sellers
+q11,use-case,best accounting software for contractors
+q12,use-case,best accounting software for nonprofits
+q13,use-case,best accounting software for a startup
+q14,criteria,easiest accounting software for non-accountants
+q15,criteria,best accounting software with invoicing
+q16,criteria,best accounting software with payroll
+q17,criteria,best accounting software for inventory management
+q18,comparison,accounting software comparison for small businesses
+q19,recommendation,best accounting software for a growing business
+q20,criteria,best cloud accounting software
+q21,use-case,best accounting software for an LLC
+q22,best-of,best bookkeeping software for small business
+q23,recommendation,which accounting software do accountants recommend for small businesses?
+q24,criteria,best accounting software with bank feeds and reconciliation

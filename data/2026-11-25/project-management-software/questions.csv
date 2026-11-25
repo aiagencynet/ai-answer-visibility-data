@@ -1,0 +1,25 @@
+question_id,intent,question
+q01,best-of,best project management software
+q02,best-of,best project management software for small teams
+q03,best-of,top 5 project management tools
+q04,recommendation,can you recommend a project management tool for a 15-person company?
+q05,recommendation,what project management software do most small businesses use?
+q06,recommendation,which project management tool should a marketing team use?
+q07,price,best free project management software
+q08,price,most affordable project management software for a small business
+q09,use-case,best project management software for agencies
+q10,use-case,best project management tool for software development teams
+q11,use-case,best project management software for remote teams
+q12,use-case,best project management software for construction companies
+q13,use-case,best project management tool for client work and time tracking
+q14,criteria,best project management software with Gantt charts
+q15,criteria,easiest project management software to learn
+q16,criteria,project management software with the best integrations
+q17,use-case,best project management tool for managing multiple projects at once
+q18,use-case,best project management software for nonprofits
+q19,comparison,project management software comparison for small businesses
+q20,criteria,best project management tool with resource planning
+q21,use-case,best kanban tool for a small team
+q22,recommendation,best project management software for a growing company
+q23,recommendation,what project management tool should a startup use?
+q24,criteria,best project management software with good reporting and dashboards

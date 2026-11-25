@@ -1,0 +1,473 @@
+[
+ {
+  "name": "Zendesk",
+  "match": [
+   "Zendesk"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "zendesk.com"
+  ]
+ },
+ {
+  "name": "Freshdesk",
+  "match": [
+   "Freshdesk"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "freshdesk.com",
+   "freshworks.com"
+  ]
+ },
+ {
+  "name": "Help Scout",
+  "match": [
+   "Help ?Scout"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "helpscout.com"
+  ]
+ },
+ {
+  "name": "Intercom",
+  "match": [
+   "Intercom"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "intercom.com"
+  ]
+ },
+ {
+  "name": "HubSpot",
+  "match": [
+   "HubSpot"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "hubspot.com"
+  ]
+ },
+ {
+  "name": "Zoho Desk",
+  "match": [
+   "Zoho Desk",
+   "(?<!by )Zoho(?! (?:CRM|Books|Desk|Projects|Campaigns|One|Sprints|Bigin|Inventory|Invoice|Expense|Payroll|Analytics|Mail|Workplace|Cliq|SalesIQ|apps?|suite|ecosystem|products?|family|tools))"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "zoho.com"
+  ]
+ },
+ {
+  "name": "Gorgias",
+  "match": [
+   "Gorgias"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "gorgias.com"
+  ]
+ },
+ {
+  "name": "Front",
+  "match": [
+   "Front\\.com",
+   "Front(?![- ](?:desk|end|line|office|of|door|page|and center)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "front.com"
+  ]
+ },
+ {
+  "name": "Freshservice",
+  "match": [
+   "Freshservice"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "freshservice.com"
+  ]
+ },
+ {
+  "name": "Jira Service Management",
+  "match": [
+   "Jira Service Management",
+   "Jira Service Desk",
+   "JSM"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "atlassian.com"
+  ]
+ },
+ {
+  "name": "ServiceNow",
+  "match": [
+   "ServiceNow"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "servicenow.com"
+  ]
+ },
+ {
+  "name": "Salesforce Service Cloud",
+  "match": [
+   "Service Cloud",
+   "Salesforce"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "salesforce.com"
+  ]
+ },
+ {
+  "name": "LiveAgent",
+  "match": [
+   "LiveAgent"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "liveagent.com"
+  ]
+ },
+ {
+  "name": "Hiver",
+  "match": [
+   "Hiver"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "hiverhq.com"
+  ]
+ },
+ {
+  "name": "Kustomer",
+  "match": [
+   "Kustomer"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "kustomer.com"
+  ]
+ },
+ {
+  "name": "Gladly",
+  "match": [
+   "Gladly"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "gladly.com"
+  ]
+ },
+ {
+  "name": "Re:amaze",
+  "match": [
+   "Re:amaze",
+   "Reamaze"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "reamaze.com"
+  ]
+ },
+ {
+  "name": "Tidio",
+  "match": [
+   "Tidio"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "tidio.com"
+  ]
+ },
+ {
+  "name": "Crisp",
+  "match": [
+   "Crisp(?! (?:and|answers?)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "crisp.chat"
+  ]
+ },
+ {
+  "name": "SysAid",
+  "match": [
+   "SysAid"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "sysaid.com"
+  ]
+ },
+ {
+  "name": "ManageEngine ServiceDesk Plus",
+  "match": [
+   "ManageEngine",
+   "ServiceDesk Plus"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "manageengine.com"
+  ]
+ },
+ {
+  "name": "Spiceworks",
+  "match": [
+   "Spiceworks"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "spiceworks.com"
+  ]
+ },
+ {
+  "name": "HappyFox",
+  "match": [
+   "HappyFox"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "happyfox.com"
+  ]
+ },
+ {
+  "name": "Kayako",
+  "match": [
+   "Kayako"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "kayako.com"
+  ]
+ },
+ {
+  "name": "Groove",
+  "match": [
+   "GrooveHQ",
+   "Groove(?! (?:of|into)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "groovehq.com"
+  ]
+ },
+ {
+  "name": "Pylon",
+  "match": [
+   "Pylon"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "usepylon.com"
+  ]
+ },
+ {
+  "name": "Plain",
+  "match": [
+   "Plain(?! (?:text|English|language|email)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "plain.com"
+  ]
+ },
+ {
+  "name": "Richpanel",
+  "match": [
+   "Richpanel"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "richpanel.com"
+  ]
+ },
+ {
+  "name": "eDesk",
+  "match": [
+   "eDesk"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "edesk.com"
+  ]
+ },
+ {
+  "name": "Missive",
+  "match": [
+   "Missive"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "missiveapp.com"
+  ]
+ },
+ {
+  "name": "Halo ITSM",
+  "match": [
+   "HaloITSM",
+   "Halo ITSM",
+   "HaloPSA"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "haloitsm.com"
+  ]
+ },
+ {
+  "name": "Atera",
+  "match": [
+   "Atera"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "atera.com"
+  ]
+ },
+ {
+  "name": "Jitbit",
+  "match": [
+   "Jitbit"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "jitbit.com"
+  ]
+ },
+ {
+  "name": "osTicket",
+  "match": [
+   "osTicket"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "osticket.com"
+  ]
+ },
+ {
+  "name": "Deskpro",
+  "match": [
+   "Deskpro"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "deskpro.com"
+  ]
+ },
+ {
+  "name": "Zammad",
+  "match": [
+   "Zammad"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "zammad.com"
+  ]
+ },
+ {
+  "name": "Motadata ServiceOps",
+  "match": [
+   "Motadata"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "motadata.com"
+  ]
+ },
+ {
+  "name": "Helpshift",
+  "match": [
+   "Helpshift"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "helpshift.com"
+  ]
+ },
+ {
+  "name": "SolarWinds Service Desk",
+  "match": [
+   "SolarWinds"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "solarwinds.com"
+  ]
+ },
+ {
+  "name": "HESK",
+  "match": [
+   "HESK"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "hesk.com"
+  ]
+ },
+ {
+  "name": "Document360",
+  "match": [
+   "Document360"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "document360.com"
+  ]
+ },
+ {
+  "name": "Helpjuice",
+  "match": [
+   "Helpjuice"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "helpjuice.com"
+  ]
+ },
+ {
+  "name": "Suptask",
+  "match": [
+   "Suptask"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "suptask.com"
+  ]
+ },
+ {
+  "name": "Thena",
+  "match": [
+   "Thena"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "thena.ai"
+  ]
+ },
+ {
+  "name": "ClearFeed",
+  "match": [
+   "ClearFeed"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "clearfeed.ai"
+  ]
+ },
+ {
+  "name": "Unthread",
+  "match": [
+   "Unthread"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "unthread.io"
+  ]
+ }
+]

@@ -1,0 +1,390 @@
+[
+ {
+  "name": "QuickBooks",
+  "match": [
+   "QuickBooks",
+   "QBO"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "quickbooks.intuit.com",
+   "intuit.com"
+  ]
+ },
+ {
+  "name": "Xero",
+  "match": [
+   "Xero"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "xero.com"
+  ]
+ },
+ {
+  "name": "FreshBooks",
+  "match": [
+   "FreshBooks"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "freshbooks.com"
+  ]
+ },
+ {
+  "name": "Wave",
+  "match": [
+   "Wave(?! of| after)",
+   "Wave Accounting",
+   "Wave Financial"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "waveapps.com"
+  ]
+ },
+ {
+  "name": "Zoho Books",
+  "match": [
+   "Zoho Books",
+   "(?<!by )Zoho(?! (?:CRM|Books|Desk|Projects|Campaigns|One|Sprints|Bigin|Inventory|Invoice|Expense|Payroll|Analytics|Mail|Workplace|Cliq|SalesIQ|apps?|suite|ecosystem|products?|family|tools))"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "zoho.com"
+  ]
+ },
+ {
+  "name": "Sage",
+  "match": [
+   "Sage(?! Intacct)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "sage.com"
+  ]
+ },
+ {
+  "name": "NetSuite",
+  "match": [
+   "NetSuite"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "netsuite.com"
+  ]
+ },
+ {
+  "name": "Bench",
+  "match": [
+   "Bench Accounting",
+   "Bench(?! (?:mark|marks|press)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "bench.co"
+  ]
+ },
+ {
+  "name": "Patriot Software",
+  "match": [
+   "Patriot(?: Software| Accounting)?"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "patriotsoftware.com"
+  ]
+ },
+ {
+  "name": "Akaunting",
+  "match": [
+   "Akaunting"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "akaunting.com"
+  ]
+ },
+ {
+  "name": "Kashoo",
+  "match": [
+   "Kashoo"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "kashoo.com"
+  ]
+ },
+ {
+  "name": "ZipBooks",
+  "match": [
+   "ZipBooks"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "zipbooks.com"
+  ]
+ },
+ {
+  "name": "Aplos",
+  "match": [
+   "Aplos"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "aplos.com"
+  ]
+ },
+ {
+  "name": "Gusto",
+  "match": [
+   "Gusto"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "gusto.com"
+  ]
+ },
+ {
+  "name": "Bonsai",
+  "match": [
+   "Bonsai"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "hellobonsai.com"
+  ]
+ },
+ {
+  "name": "Pilot",
+  "match": [
+   "Pilot\\.com",
+   "Pilot(?! (?:program|test|project)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "pilot.com"
+  ]
+ },
+ {
+  "name": "Puzzle",
+  "match": [
+   "Puzzle\\.io",
+   "Puzzle(?! (?:of|pieces?)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "puzzle.io"
+  ]
+ },
+ {
+  "name": "Odoo",
+  "match": [
+   "Odoo"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "odoo.com"
+  ]
+ },
+ {
+  "name": "GnuCash",
+  "match": [
+   "GnuCash"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "gnucash.org"
+  ]
+ },
+ {
+  "name": "Sage Intacct",
+  "match": [
+   "Sage Intacct",
+   "Intacct"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "sageintacct.com"
+  ]
+ },
+ {
+  "name": "Microsoft Dynamics 365 Business Central",
+  "match": [
+   "Business Central"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "microsoft.com"
+  ]
+ },
+ {
+  "name": "Kladana",
+  "match": [
+   "Kladana"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": []
+ },
+ {
+  "name": "Brex",
+  "match": [
+   "Brex"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "brex.com"
+  ]
+ },
+ {
+  "name": "Ramp",
+  "match": [
+   "Ramp(?! (?:up|down)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "ramp.com"
+  ]
+ },
+ {
+  "name": "Rippling",
+  "match": [
+   "Rippling"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "rippling.com"
+  ]
+ },
+ {
+  "name": "ADP",
+  "match": [
+   "ADP"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "adp.com"
+  ]
+ },
+ {
+  "name": "Paychex",
+  "match": [
+   "Paychex"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "paychex.com"
+  ]
+ },
+ {
+  "name": "Square",
+  "match": [
+   "Square(?! (?:feet|foot|one)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "squareup.com"
+  ]
+ },
+ {
+  "name": "Shopify",
+  "match": [
+   "Shopify"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "shopify.com"
+  ]
+ },
+ {
+  "name": "A2X",
+  "match": [
+   "A2X"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "a2xaccounting.com"
+  ]
+ },
+ {
+  "name": "Fishbowl",
+  "match": [
+   "Fishbowl"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "fishbowlinventory.com"
+  ]
+ },
+ {
+  "name": "Cin7",
+  "match": [
+   "Cin7"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "cin7.com"
+  ]
+ },
+ {
+  "name": "Kashflow",
+  "match": [
+   "KashFlow"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "kashflow.com"
+  ]
+ },
+ {
+  "name": "Manager.io",
+  "match": [
+   "Manager\\.io"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "manager.io"
+  ]
+ },
+ {
+  "name": "Acumatica",
+  "match": [
+   "Acumatica"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "acumatica.com"
+  ]
+ },
+ {
+  "name": "Foundation Software",
+  "match": [
+   "Foundation Software"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "foundationsoft.com"
+  ]
+ },
+ {
+  "name": "Blackbaud Financial Edge NXT",
+  "match": [
+   "Financial Edge",
+   "Blackbaud"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "blackbaud.com"
+  ]
+ },
+ {
+  "name": "Quicken",
+  "match": [
+   "Quicken"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "quicken.com"
+  ]
+ }
+]

@@ -1,0 +1,464 @@
+[
+ {
+  "name": "HubSpot",
+  "match": [
+   "HubSpot"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "hubspot.com"
+  ]
+ },
+ {
+  "name": "Salesforce",
+  "match": [
+   "Salesforce",
+   "Sales Cloud"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "salesforce.com"
+  ]
+ },
+ {
+  "name": "Zoho CRM",
+  "match": [
+   "Zoho CRM",
+   "(?<!by )Zoho(?! (?:CRM|Books|Desk|Projects|Campaigns|One|Sprints|Bigin|Inventory|Invoice|Expense|Payroll|Analytics|Mail|Workplace|Cliq|SalesIQ|apps?|suite|ecosystem|products?|family|tools))"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "zoho.com"
+  ]
+ },
+ {
+  "name": "Bigin",
+  "match": [
+   "Bigin"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "bigin.com"
+  ]
+ },
+ {
+  "name": "Pipedrive",
+  "match": [
+   "Pipedrive"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "pipedrive.com"
+  ]
+ },
+ {
+  "name": "monday CRM",
+  "match": [
+   "monday\\.com",
+   "monday (?:sales )?CRM"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "monday.com"
+  ]
+ },
+ {
+  "name": "Freshsales",
+  "match": [
+   "Freshsales",
+   "Freshworks CRM",
+   "Freshworks"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "freshworks.com"
+  ]
+ },
+ {
+  "name": "Microsoft Dynamics 365",
+  "match": [
+   "(?:Microsoft )?Dynamics 365"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "dynamics.microsoft.com"
+  ]
+ },
+ {
+  "name": "Insightly",
+  "match": [
+   "Insightly"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "insightly.com"
+  ]
+ },
+ {
+  "name": "Copper",
+  "match": [
+   "Copper"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "copper.com"
+  ]
+ },
+ {
+  "name": "Nutshell",
+  "match": [
+   "Nutshell"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "nutshell.com"
+  ]
+ },
+ {
+  "name": "Less Annoying CRM",
+  "match": [
+   "Less Annoying CRM"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "lessannoyingcrm.com"
+  ]
+ },
+ {
+  "name": "Keap",
+  "match": [
+   "Keap"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "keap.com"
+  ]
+ },
+ {
+  "name": "Capsule CRM",
+  "match": [
+   "Capsule CRM",
+   "Capsule"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "capsulecrm.com"
+  ]
+ },
+ {
+  "name": "Close",
+  "match": [
+   "Close CRM",
+   "Close\\.com",
+   "Close(?! (?:more|deals?|the|out|to|rates?|dates?|attention|look|enough|by|of|with|a|an|your|in|on|integration|ties|relationships?))"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "close.com"
+  ]
+ },
+ {
+  "name": "Nimble",
+  "match": [
+   "Nimble"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "nimble.com"
+  ]
+ },
+ {
+  "name": "ActiveCampaign",
+  "match": [
+   "ActiveCampaign"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "activecampaign.com"
+  ]
+ },
+ {
+  "name": "Agile CRM",
+  "match": [
+   "Agile CRM"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "agilecrm.com"
+  ]
+ },
+ {
+  "name": "Salesmate",
+  "match": [
+   "Salesmate"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "salesmate.io"
+  ]
+ },
+ {
+  "name": "Streak",
+  "match": [
+   "Streak"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "streak.com"
+  ]
+ },
+ {
+  "name": "Folk",
+  "match": [
+   "folk CRM",
+   "folk\\.app",
+   "Folk"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "folk.app"
+  ]
+ },
+ {
+  "name": "Attio",
+  "match": [
+   "Attio"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "attio.com"
+  ]
+ },
+ {
+  "name": "EngageBay",
+  "match": [
+   "EngageBay"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "engagebay.com"
+  ]
+ },
+ {
+  "name": "Odoo",
+  "match": [
+   "Odoo"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "odoo.com"
+  ]
+ },
+ {
+  "name": "Bitrix24",
+  "match": [
+   "Bitrix24",
+   "Bitrix"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "bitrix24.com"
+  ]
+ },
+ {
+  "name": "Salesflare",
+  "match": [
+   "Salesflare"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "salesflare.com"
+  ]
+ },
+ {
+  "name": "NetHunt CRM",
+  "match": [
+   "NetHunt"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "nethunt.com"
+  ]
+ },
+ {
+  "name": "Vtiger",
+  "match": [
+   "Vtiger"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "vtiger.com"
+  ]
+ },
+ {
+  "name": "ServiceTitan",
+  "match": [
+   "ServiceTitan"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "servicetitan.com"
+  ]
+ },
+ {
+  "name": "Housecall Pro",
+  "match": [
+   "Housecall Pro"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "housecallpro.com"
+  ]
+ },
+ {
+  "name": "Jobber",
+  "match": [
+   "Jobber"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "getjobber.com"
+  ]
+ },
+ {
+  "name": "Follow Up Boss",
+  "match": [
+   "Follow Up Boss"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "followupboss.com"
+  ]
+ },
+ {
+  "name": "Wise Agent",
+  "match": [
+   "Wise Agent"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "wiseagent.com"
+  ]
+ },
+ {
+  "name": "LionDesk",
+  "match": [
+   "LionDesk"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "liondesk.com"
+  ]
+ },
+ {
+  "name": "HoneyBook",
+  "match": [
+   "HoneyBook"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "honeybook.com"
+  ]
+ },
+ {
+  "name": "Bonsai",
+  "match": [
+   "Bonsai"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "hellobonsai.com"
+  ]
+ },
+ {
+  "name": "BigTime",
+  "match": [
+   "BigTime"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "bigtime.net"
+  ]
+ },
+ {
+  "name": "Productive",
+  "match": [
+   "Productive\\.io",
+   "Productive(?! (?:and|work|teams?|habits?|sales|selling|conversations?|for)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "productive.io"
+  ]
+ },
+ {
+  "name": "Scoro",
+  "match": [
+   "Scoro"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "scoro.com"
+  ]
+ },
+ {
+  "name": "Accelo",
+  "match": [
+   "Accelo"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "accelo.com"
+  ]
+ },
+ {
+  "name": "Klaviyo",
+  "match": [
+   "Klaviyo"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "klaviyo.com"
+  ]
+ },
+ {
+  "name": "Omnisend",
+  "match": [
+   "Omnisend"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "omnisend.com"
+  ]
+ },
+ {
+  "name": "Gorgias",
+  "match": [
+   "Gorgias"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "gorgias.com"
+  ]
+ },
+ {
+  "name": "Zendesk",
+  "match": [
+   "Zendesk"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "zendesk.com"
+  ]
+ },
+ {
+  "name": "Kantata",
+  "match": [
+   "Kantata"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "kantata.com"
+  ]
+ }
+]

@@ -1,0 +1,384 @@
+[
+ {
+  "name": "Mailchimp",
+  "match": [
+   "Mailchimp",
+   "Intuit Mailchimp"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "mailchimp.com"
+  ]
+ },
+ {
+  "name": "Constant Contact",
+  "match": [
+   "Constant Contact"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "constantcontact.com"
+  ]
+ },
+ {
+  "name": "Brevo",
+  "match": [
+   "Brevo",
+   "Sendinblue"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "brevo.com"
+  ]
+ },
+ {
+  "name": "Klaviyo",
+  "match": [
+   "Klaviyo"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "klaviyo.com"
+  ]
+ },
+ {
+  "name": "ActiveCampaign",
+  "match": [
+   "ActiveCampaign"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "activecampaign.com"
+  ]
+ },
+ {
+  "name": "MailerLite",
+  "match": [
+   "MailerLite"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "mailerlite.com"
+  ]
+ },
+ {
+  "name": "Kit",
+  "match": [
+   "ConvertKit",
+   "Kit\\.com",
+   "Kit(?! (?:of|for|that|and|includes?)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "kit.com",
+   "convertkit.com"
+  ]
+ },
+ {
+  "name": "HubSpot",
+  "match": [
+   "HubSpot"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "hubspot.com"
+  ]
+ },
+ {
+  "name": "Omnisend",
+  "match": [
+   "Omnisend"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "omnisend.com"
+  ]
+ },
+ {
+  "name": "AWeber",
+  "match": [
+   "AWeber"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "aweber.com"
+  ]
+ },
+ {
+  "name": "GetResponse",
+  "match": [
+   "GetResponse"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "getresponse.com"
+  ]
+ },
+ {
+  "name": "Campaign Monitor",
+  "match": [
+   "Campaign Monitor"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "campaignmonitor.com"
+  ]
+ },
+ {
+  "name": "Moosend",
+  "match": [
+   "Moosend"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "moosend.com"
+  ]
+ },
+ {
+  "name": "beehiiv",
+  "match": [
+   "beehiiv"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "beehiiv.com"
+  ]
+ },
+ {
+  "name": "Substack",
+  "match": [
+   "Substack"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "substack.com"
+  ]
+ },
+ {
+  "name": "Flodesk",
+  "match": [
+   "Flodesk"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "flodesk.com"
+  ]
+ },
+ {
+  "name": "Drip",
+  "match": [
+   "Drip(?! (?:campaigns?|sequences?|emails?)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "drip.com"
+  ]
+ },
+ {
+  "name": "Mailjet",
+  "match": [
+   "Mailjet"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "mailjet.com"
+  ]
+ },
+ {
+  "name": "Zoho Campaigns",
+  "match": [
+   "Zoho Campaigns",
+   "(?<!by )Zoho(?! (?:CRM|Books|Desk|Projects|Campaigns|One|Sprints|Bigin|Inventory|Invoice|Expense|Payroll|Analytics|Mail|Workplace|Cliq|SalesIQ|apps?|suite|ecosystem|products?|family|tools))"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "zoho.com"
+  ]
+ },
+ {
+  "name": "Benchmark Email",
+  "match": [
+   "Benchmark Email"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "benchmarkemail.com"
+  ]
+ },
+ {
+  "name": "Sender",
+  "match": [
+   "Sender\\.net",
+   "Sender(?! (?:reputation|score|name|address|domain|authentication|policy|ID)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "sender.net"
+  ]
+ },
+ {
+  "name": "Customer.io",
+  "match": [
+   "Customer\\.io"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "customer.io"
+  ]
+ },
+ {
+  "name": "Postscript",
+  "match": [
+   "Postscript"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "postscript.io"
+  ]
+ },
+ {
+  "name": "Attentive",
+  "match": [
+   "Attentive(?! (?:to|support|service)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "attentive.com"
+  ]
+ },
+ {
+  "name": "SendGrid",
+  "match": [
+   "SendGrid"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "sendgrid.com"
+  ]
+ },
+ {
+  "name": "Emma",
+  "match": [
+   "Emma"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "myemma.com"
+  ]
+ },
+ {
+  "name": "Loops",
+  "match": [
+   "Loops\\.so",
+   "Loops(?! (?:of|back|through)\\b)"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "loops.so"
+  ]
+ },
+ {
+  "name": "Encharge",
+  "match": [
+   "Encharge"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "encharge.io"
+  ]
+ },
+ {
+  "name": "Systeme.io",
+  "match": [
+   "Systeme\\.io"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "systeme.io"
+  ]
+ },
+ {
+  "name": "Keap",
+  "match": [
+   "Keap"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "keap.com"
+  ]
+ },
+ {
+  "name": "Adobe Marketo Engage",
+  "match": [
+   "Marketo"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "adobe.com",
+   "marketo.com"
+  ]
+ },
+ {
+  "name": "Mailercloud",
+  "match": [
+   "Mailercloud"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "mailercloud.com"
+  ]
+ },
+ {
+  "name": "SendFox",
+  "match": [
+   "SendFox"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "sendfox.com"
+  ]
+ },
+ {
+  "name": "Salesforce Marketing Cloud",
+  "match": [
+   "Salesforce Marketing Cloud",
+   "Marketing Cloud",
+   "Account Engagement",
+   "Pardot"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "salesforce.com"
+  ]
+ },
+ {
+  "name": "EmailOctopus",
+  "match": [
+   "EmailOctopus"
+  ],
+  "case_sensitive": false,
+  "vendor_domains": [
+   "emailoctopus.com"
+  ]
+ },
+ {
+  "name": "Postmark",
+  "match": [
+   "Postmark"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "postmarkapp.com"
+  ]
+ },
+ {
+  "name": "Campaigner",
+  "match": [
+   "Campaigner"
+  ],
+  "case_sensitive": true,
+  "vendor_domains": [
+   "campaigner.com"
+  ]
+ }
+]

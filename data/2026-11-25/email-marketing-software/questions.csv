@@ -1,0 +1,25 @@
+question_id,intent,question
+q01,best-of,best email marketing software
+q02,best-of,best email marketing software for small business
+q03,best-of,top 5 email marketing platforms
+q04,recommendation,can you recommend an email marketing tool for a small business?
+q05,recommendation,what email marketing service do most small businesses use?
+q06,price,best free email marketing software
+q07,price,"cheapest email marketing service for a list of 5,000 subscribers"
+q08,use-case,best email marketing platform for ecommerce stores
+q09,use-case,best email marketing software for B2B companies
+q10,use-case,best email marketing tool for newsletters
+q11,use-case,best email marketing software for creators
+q12,criteria,best email marketing platform with automation
+q13,use-case,best email marketing software for nonprofits
+q14,criteria,easiest email marketing platform for beginners
+q15,criteria,email marketing platform with the best deliverability
+q16,criteria,best email marketing software with landing pages
+q17,comparison,email marketing software comparison for small businesses
+q18,use-case,best email marketing tool for agencies managing multiple clients
+q19,use-case,best email marketing platform for SaaS companies
+q20,criteria,which email marketing tool has the best templates?
+q21,criteria,best email marketing software with SMS
+q22,recommendation,best email marketing service for a growing business
+q23,recommendation,what email marketing tool should a startup use?
+q24,criteria,best email marketing platform with good customer support
