@@ -8,7 +8,7 @@ Raw answers and derived tables from a recurring measurement: we ask LLM APIs wit
 
 ## Also in this repo: AI crawler blocking in robots.txt
 
-`ai-crawler-blocking/` is a separate monthly dataset with its own README, LICENSE, MANIFEST and credit line: what the robots.txt files of 1,000 of the most-linked domains (Majestic Million) tell 15 AI and search crawlers, evaluated under RFC 9309. First snapshot: 2026-11 (checked 2026-11-26). See [ai-crawler-blocking/README.md](ai-crawler-blocking/README.md).
+`ai-crawler-blocking/` is a separate monthly dataset with its own README, LICENSE, MANIFEST and credit line: what the robots.txt files of 5,000 of the most-linked domains (Majestic Million) tell 15 AI and search crawlers, evaluated under RFC 9309. Snapshot 2026-11 (checked 2026-11-26), version 2. Version 1 covered the first 1,000 domains and is kept unchanged in `ai-crawler-blocking/2026-11/v1-top1000/` (release `crawler-2026-11`). See [ai-crawler-blocking/README.md](ai-crawler-blocking/README.md) and [ai-crawler-blocking/CHANGELOG.md](ai-crawler-blocking/CHANGELOG.md).
 
 Data: CC BY 4.0, licensed by HATDOWN LLC; credit "aiagencynet.com AI crawler blocking report, November 2026". The domain selection is derived from the [Majestic Million](https://majestic.com/reports/majestic-million), licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/); ranks are not included.
 

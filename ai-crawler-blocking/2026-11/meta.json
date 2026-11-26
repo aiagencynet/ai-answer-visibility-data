@@ -1,12 +1,31 @@
 {
-  "domains": 1000,
+  "domains": 5000,
   "list": "Majestic Million",
   "list_edition": "2026-11-26",
   "list_license": "CC BY 3.0",
   "list_url": "https://majestic.com/reports/majestic-million",
   "month": "2026-11",
-  "probe": "4-5 GETs per domain (robots.txt, homepage, llms.txt, one same-site sitemap), User-Agent aiagencynet-crawler-check/1.0, no crawler-name probe",
-  "run_end": 1795693062,
+  "probe": "4-5 GETs per domain (robots.txt, homepage, llms.txt, one same-site sitemap), User-Agent aiagencynet-crawler-check/1.0, no crawler-name probe; with the opt-out rule only robots.txt when it disallows that User-Agent (see runs)",
+  "run_end": 1795714675,
   "run_start": 1795692366,
-  "selection": "first 1,000 usable hosts in list order: invalid, reserved, adult or gambling names and subdomains of a listed domain removed; www. stripped"
+  "runs": [
+    {
+      "positions": [
+        1,
+        1000
+      ],
+      "rule": false,
+      "text": "A first run checked 1,000 domains on November 26, 2026, before we added an opt-out rule, so all four or five files were requested for each reachable domain."
+    },
+    {
+      "opted_out": 66,
+      "positions": [
+        1001,
+        5000
+      ],
+      "rule": true,
+      "text": "A second run checked 4,000 domains on November 26, 2026 with that rule: for the 66 whose robots.txt disallows our client, only robots.txt itself was requested."
+    }
+  ],
+  "selection": "first 5,000 usable hosts in list order: invalid, reserved, adult or gambling names and subdomains of a listed domain removed; www. stripped"
 }

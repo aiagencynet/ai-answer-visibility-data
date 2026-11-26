@@ -1,0 +1,12 @@
+{
+  "domains": 1000,
+  "list": "Majestic Million",
+  "list_edition": "2026-11-26",
+  "list_license": "CC BY 3.0",
+  "list_url": "https://majestic.com/reports/majestic-million",
+  "month": "2026-11",
+  "probe": "4-5 GETs per domain (robots.txt, homepage, llms.txt, one same-site sitemap), User-Agent aiagencynet-crawler-check/1.0, no crawler-name probe",
+  "run_end": 1795693062,
+  "run_start": 1795692366,
+  "selection": "first 1,000 usable hosts in list order: invalid, reserved, adult or gambling names and subdomains of a listed domain removed; www. stripped"
+}

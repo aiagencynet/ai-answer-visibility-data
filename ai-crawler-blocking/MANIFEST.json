@@ -1,9 +1,17 @@
 {
   "2026-11/ai-crawler-blocking-2026-11.csv": {
+    "sha256": "e211794767dab39667a330277c324830ec49c81a43e0e028a5b1a3b785b61746",
+    "bytes": 1665627
+  },
+  "2026-11/meta.json": {
+    "sha256": "9d460c80f2396d236ec762eeef9f0be62c85d3b8e92da2d4c54e67951bdc978c",
+    "bytes": 1215
+  },
+  "2026-11/v1-top1000/ai-crawler-blocking-2026-11.csv": {
     "sha256": "83773040080815ad408f9023213253ee8796ef800d193d3d83faf85d86ba8996",
     "bytes": 324425
   },
-  "2026-11/meta.json": {
+  "2026-11/v1-top1000/meta.json": {
     "sha256": "4a031844b5d3fde6f049a1def422e78ae9909cb859f1607279045f5810be1a4c",
     "bytes": 565
   }
