@@ -6,6 +6,12 @@ Raw answers and derived tables from a recurring measurement: we ask LLM APIs wit
 - License: **CC BY 4.0** (see `LICENSE`), from HATDOWN LLC (operator of aiagencynet.com). Credit line: "aiagencynet.com category reports"
 - Snapshots: see `snapshots.csv`. Current: **2026-11-25**, 5 categories, 480 rows, 479 answered
 
+## Also in this repo: AI crawler blocking in robots.txt
+
+`ai-crawler-blocking/` is a separate monthly dataset with its own README, LICENSE, MANIFEST and credit line: what the robots.txt files of 1,000 of the most-linked domains (Majestic Million) tell 15 AI and search crawlers, evaluated under RFC 9309. First snapshot: 2026-11 (checked 2026-11-26). See [ai-crawler-blocking/README.md](ai-crawler-blocking/README.md).
+
+Data: CC BY 4.0, licensed by HATDOWN LLC; credit "aiagencynet.com AI crawler blocking report, November 2026". The domain selection is derived from the [Majestic Million](https://majestic.com/reports/majestic-million), licensed [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/); ranks are not included.
+
 ## Engines
 
 | Label in reports | What we actually called | Model (2026-11-25) |
